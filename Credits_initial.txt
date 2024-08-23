@@ -1,0 +1,127 @@
+<Title>str_credits_msm
+My Singing Monsters
+
+<Title>str_credits_main
+Raw Zebra
+
+<Title>str_credits_execProd
+Azuran_SHadow
+
+<Title>str_credits_art
+Raw Zebra
+Uksus
+Sierr
+Licoad
+VisscaGem
+
+<Title>str_credits_anim
+Raw Zebra
+DaylenGG
+
+<Title>str_credits_mus
+Raw Zebra
+Uksus
+MantisGirl
+
+<Title>str_credits_musSec
+ADAM
+Exclaim!
+JakeTheDrake
+Mr. Peep
+MSM Quibble Fan
+The Monster Explorers
+Azuran_SHadow
+Pupka
+
+<Title>str_credits_va
+Raw Zebra
+sophiestrawberry
+Rebeka the Bowgart
+FreakKnife
+TrebleStroke
+Jobo
+Zhanya Gennadiy
+
+<Title>str_credits_concept
+Raw Zebra
+Uksus
+Licoad
+VisscaGem
+Vinster Minster
+Mantis Girl
+am3
+FreakKnife
+Wahoo
+Gob
+Xanderrock98
+Azuran_SHadow
+dxty/Dusty
+
+<Title>str_credits_writing
+Azuran_SHadow
+Raw Zebra
+VisscaGem
+Jobo
+Gob
+am3
+
+<Title>str_credits_trans_rus
+Gob
+Raw Zebra
+OndrBondr
+Pupka
+
+<Title>str_credits_trans_pr
+VisscaGem
+Kaww
+Olaf
+Erick the PinkSauce
+
+<Title>str_credits_thanks
+salt for some reason
+Verenne
+PaketikGuy
+Vinster_Minster
+Wahoo
+FreakKnife
+ShiningStar
+BonnieGem
+Sox O'Phone
+gegeman
+Rebeka the Bowgart
+Mr. Peep
+dxty/Dusty
+Olaf
+Spectral
+Tapry
+Balls
+OndrBondr
+ADAM
+Blake at Stake
+Jazzberry
+Kaww
+Licoad
+magnacrabb
+Matmat
+JakeTheDrake
+Qualm 
+DaylenGG
+Uksus
+sophiestrawberry
+Vandinn Celeste
+Vubu
+Wubbazt
+Gob
+Louize
+Pupka
+Yerny
+MSMChronicles
+Pinakin
+V11Monsters
+PeriShlepper
+
+<Title>str_credits_cityContest
+MSMChronicles
+Pinakin
+V11Monsters
+PeriShlepper

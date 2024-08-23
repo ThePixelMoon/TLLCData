@@ -1,0 +1,69 @@
+
+ID=Monsters/Monster_dulsylvan_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+ShowOldCost=false
+HasCostOvrwrite=true
+CostOverwrite=250,diamonds
+HasDeadline=true
+Deadline=11/14/2023 03:01:09 PM
+;
+ID=Monsters/Monster_jobo
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Candy
+ShowOldCost=true
+HasCostOvrwrite=true
+IsCostOvrwritePercentage=true
+CostOverwrite=50
+HasDeadline=true
+Deadline=11/26/2023 12:00:00 AM
+;
+ID=Monsters/Monster_varrow_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Calamity
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=1,diamonds
+HasDeadline=true
+Deadline=10/16/2022 03:08:09 PM
+;
+ID=Monsters/Knott_special
+MarketSortersID=monsters
+IsIslandSpecific=false
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=228,Vortex
+HasDeadline=true
+Deadline=10/19/2022 03:00:00 PM
+;
+ID=Monsters/Knott_10
+MarketSortersID=monsters
+IsIslandSpecific=false
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=3,LVL
+HasDeadline=true
+Deadline=10/19/2022 03:00:00 PM
+;
+ID=Monsters/Knott_10
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=City
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=3,BlueLog
+HasDeadline=true
+Deadline=10/19/2022 03:00:00 PM
+;
+ID=Monsters/Monster_quibble_young
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=City
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=3,diamonds
+HasDeadline=true
+Deadline=06/19/2023 03:00:00 AM

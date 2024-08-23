@@ -1,0 +1,162 @@
+
+Monsters/Monster_toejammer
+a0 str_costume_default
+costume_1 str_costume_tj_1 Vortex=1
+costume_2 str_costume_tj_2 Catfur=2
+costume_3 str_costume_tj_3 Seaweed=5
+;
+Monsters/Monster_likho
+a0 str_costume_default
+costume_1 str_costume_yap_1 Cattail=5,Seaweed=5
+costume_2 str_costume_yap_2 Bone=2
+rare_yap str_costume_yap_darkisland Vortex=2,diamonds=5
+;
+Monsters/Monster_oaktopus
+a0 str_costume_default
+costume_1 str_costume_oak_1 Metal=10,Seaweed=7,Goldegg=1
+costume_2 str_costume_oak_2 Catfur=2,diamonds=2
+;
+Monsters/Monster_potbelly
+Common str_costume_default
+Rare str_costume_pb_rare Flower_red=20,BloodCells=10,Log=8
+;
+Monsters/Monster_quibble
+a0 str_costume_default
+costume_1 str_costume_quibble_dark Vortex=4,diamonds=10
+;
+Monsters/Monster_banno
+a0 str_costume_default
+costume_1 str_costume_banno_crabs Flower_red=8,coins=100
+;
+Monsters/Monster_spunge
+a0 str_costume_default
+costume_1 str_costume_spunge_bob Fabric=10,Flower_blue=10,Metal=3,diamonds=5
+;
+Monsters/Monster_tweedle
+a0 str_costume_default
+costume_1 str_costume_tweedle_blue Flower_blue=20,diamonds=2
+;
+Monsters/Monster_wadee
+a0 str_costume_default
+costume_1 str_costume_wadee_OG Fabric=10,Flower_blue=10,Flower_red=10
+costume_2 str_costume_wadee_squidward Fabric=10,Flower_blue=10,diamonds=2
+;
+Monsters/Monster_stoopa
+a0 str_costume_default
+costume_1 str_costume_stoopa_candy Peppermint=10,Log=7,Flower_blue=10,Flower_red=10,Flower_yellow=10
+;
+Monsters/Monster_dandidoo
+a0 str_costume_default
+costume_1 str_costume_dandi_fire Relic=1,diamonds=4
+;
+Monsters/Monster_flootfly
+a0 str_costume_default
+costume_1 str_costume_floot_fruit Fruit_apple=7,Vortex=2,Seaweed=2,diamonds=4
+;
+Monsters/Monster_frondley
+a0 str_costume_default
+costume_1 str_costume_frond_bald Vortex=2,diamonds=6
+costume_2 str_costume_frond_red Flower_red=20,BloodCells=8
+costume_3 str_costume_frond_bow Fabric=6,Flower_red=10,Flower_blue=10
+costume_4 str_costume_frond_emo Vortex=3,Mushroom_1=10,diamonds=5
+;
+Monsters/Monster_varrow
+a0 str_costume_default
+costume_1 str_costume_varrow_kromer Flower_yellow=10,Flower_red=10,Metal=4,BloodCells=2,diamonds=2
+;
+Monsters/Monster_dulsylvan
+a0 str_costume_default
+costume_1 str_costume_leshy_mario Flower_red=10,Catfur=2,diamonds=2
+costume_2 str_costume_leshy_gentleman Catfur=10,Fabric=4
+;
+Monsters/Monster_sprinklate
+a0 str_costume_default
+Christmas_1 str_costume_tort_christmas Ticket=1 Season_yay:Seaweed=5,Flower_blue=7,Flower_yellow=7,Candycorn=4,diamonds=2 Frame:SeasonalFrame
+;
+Monsters/Monster_stogg_undof
+a0 str_costume_default
+Costume1 str_costume_stogg_christmas Ticket=1 Season_yay:Flower_blue=7,Flower_yellow=7,Foam=7 Frame:SeasonalFrame
+;
+Monsters/Monster_brasscuit
+a0 str_costume_default
+Costume str_costume_cookie_christmas Ticket=1 Season_yay:Flower_red=12,Fabric=16 Frame:SeasonalFrame
+;
+Monsters/Monster_keytrus
+a0 str_costume_default
+Costume1 str_costume_keytrus_gift Ticket=1 Season_yay:Flower_yellow=12,Fabric=10,Log=10 Frame:SeasonalFrame
+Deluxe_1 str_costume_keytrus_deluxe Ticket=1 Frame:GoldFrame
+;
+Monsters/Monster_keytrus_rare
+a0 str_costume_default
+Costume1 str_costume_keytrus_rare_sucker Ticket=1 Season_yay:diamonds=10 Frame:SeasonalFrame
+;
+Monsters/Monster_marshflamo
+a0 str_costume_default
+Costume1 str_costume_marshflamo_christmas Ticket=1 Season_yay:Flower_red=5,Log=10,Goldegg=8 Frame:SeasonalFrame
+;
+Monsters/Monster_koodahcane
+a0 str_costume_default
+Costume str_costume_koodahcne_christmas Ticket=1 Season_yay:Flower_red=10,Fabric=10 Frame:SeasonalFrame
+;
+Monsters/Monster_noggin_undof
+a0 str_costume_default
+costume_1 str_costume_nogg_candy Ticket=1 Season_spook:Candycorn=7 Frame:SeasonalFrame
+;
+Monsters/Monster_phangler_undof
+a0 str_costume_default
+costume_1 str_costume_phang_candy Ticket=1 Season_yay:FBerries=6 Frame:SeasonalFrame
+;
+Monsters/Monster_thrumble_undof
+a0 str_costume_default
+Costume0 str_costume_thrumble_christmas Ticket=1 Season_yay:Berries=6,Flower_red=10,Flower_blue=10,Fabric=10 Frame:SeasonalFrame
+;
+Monsters/Monster_toejammer_undof
+a0 str_costume_default
+costume_1 str_costume_tj_socks Ticket=1 Season_yay:Flower_red=10,Flower_yellow=4,Fabric=10 Frame:SeasonalFrame
+;
+Monsters/Monster_knife
+a0 str_costume_default
+christmas str_costume_knife_christmas Ticket=1 Season_yay:Flower_red=10,Flower_yellow=10,Fabric=10,Berries=2 Frame:SeasonalFrame
+;
+Monsters/Monster_gumtromp_rare
+a0 str_costume_default
+christmas str_costume_gumtromp_rare_christmas Ticket=1 Season_yay:diamonds=5 Frame:SeasonalFrame
+;
+Monsters/Monster_gobstomper_rare
+a0 str_costume_default
+christmas str_costume_jawbreaker_rare_christmas Ticket=1 Season_yay:diamonds=10 Frame:SeasonalFrame
+;
+Monsters/Monster_kayna_rare_undof
+a0 str_costume_default
+christmas str_costume_kanya_rare_christmas Ticket=1 Season_yay:Flower_red=10,Flower_blue=10,Fabric=10 Frame:SeasonalFrame
+;
+Monsters/Monster_kayna_undof
+a0 str_costume_default
+christmas str_costume_kanya_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
+;
+Monsters/Monster_fwog_undof
+a0 str_costume_default
+costume_1 str_costume_fwog_halloween Ticket=1 Season_spook:diamonds=20 Frame:SeasonalFrame
+;
+Monsters/Monster_fwog_undof_rare
+a0 str_costume_default
+christmas str_costume_fwog_rare_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
+;
+Monsters/Monster_fleechwurm_undof
+a0 str_costume_default
+costume str_costume_fleech_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
+;
+Monsters/Knott_2
+a0 str_costume_default
+costume_1 str_costume_knott_1 Flower_red=10,Flower_yellow=4,Fabric=10
+;
+Monsters/Knott_4
+a0 str_costume_default
+costume_1 str_costume_knott_4 Flower_blue=10,diamonds=5
+;
+Monsters/Monster_potbellyGM
+a0 str_costume_default
+christmas str_costume_potGM_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
+;
+
+

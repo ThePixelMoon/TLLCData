@@ -1,0 +1,17 @@
+Monsters/Monster_hornacle
+Monsters/Monster_furnoss
+Monsters/Monster_galvana
+Monsters/Monster_blassoom
+Monsters/Monster_syncopite
+Monsters/Monster_torrt
+Monsters/Monster_glaishur
+Monsters/Monster_light
+Monsters/Monster_bone
+Monsters/Knott_3_rare
+Monsters/Knott_4_rare
+Monsters/Knott_6_rare
+Monsters/Knott_7_rare
+Monsters/Knott_8_rare
+Monsters/Knott_9_rare
+Monsters/Knott_special_rare
+Monsters/Monster_treble

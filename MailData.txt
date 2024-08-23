@@ -1,0 +1,9 @@
+age - 25-40
+sex - male
+income - 90,000-130,000
+education - aimed at collage/university/ freelance artist
+hobbies - modeling, sculpting, art, influensers, inventors
+region - global
+f
+Gregory Foreman, a freelance artist who sells 3D printed models on etsy. He has a degree in fine arts. He lives in Ohio and is 29 years old.
+He makes 90k USD a year. He likes painting and sculpring whenever he has a chance to do so. He wants to expand his craft and start small 3D printing company. Making equipement for industries.
