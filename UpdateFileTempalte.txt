@@ -1,0 +1,83 @@
+
+monster_test entity Monsters/Monster_olga
+elements sprites elements
+em_audio audio EM-disable
+
+
+monster_test entity Monsters/Monster_olga
+
+elements sprites elements
+em_audio audio EM-disable
+
+midi_update_test midi
+
+
+
+
+
+
+
+
+
+ID=Monsters/Monster_flootfly
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+HasCostOvrwrite=true
+IsCostOvrwritePercentage=false
+ShowOldCost=true
+CostOverwrite=1,diamonds
+HasDeadline=true
+Deadline=8/19/2022 8:00:00 PM
+;
+ID=Monsters/Monster_flootfly
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Desert
+HasCostOvrwrite=true
+IsCostOvrwritePercentage=false
+ShowOldCost=true
+CostOverwrite=1,food
+HasDeadline=true
+Deadline=8/19/2022 8:00:00 PM
+;
+ID=Monsters/Monster_flootfly_young
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=City
+HasCostOvrwrite=true
+IsCostOvrwritePercentage=false
+ShowOldCost=true
+CostOverwrite=1,coins
+HasDeadline=true
+Deadline=8/31/2022 12:00:00 AM
+;
+ID=Monsters/Monster_oaktopus
+MarketSortersID=monsters
+IsIslandSpecific=false
+HasCostOvrwrite=true
+IsCostOvrwritePercentage=true
+ShowOldCost=true
+CostOverwrite=50
+HasDeadline=true
+Deadline=8/31/2022 12:00:00 AM
+;
+ID=Monsters/Monster_oaktopus_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=EM
+HasCostOvrwrite=false
+HasDeadline=true
+Deadline=8/20/2022 12:00:00 AM
+BreedingOverwrite=Monsters/Monster_oaktopus_rare=Monsters/Monster_choral+Monsters/Monster_banno 4
+;
+ID=Monsters/Monster_oaktopus_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Organs
+HasCostOvrwrite=true
+CostOverwrite=200,diamonds
+HasDeadline=true
+Deadline=8/20/2022 12:00:00 AM
+BreedingOverwrite=Monsters/Monster_oaktopus_rare=Monsters/Monster_choral+Monsters/Monster_banno 4
+;
