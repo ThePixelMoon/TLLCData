@@ -1,0 +1,6 @@
+stars=25;diamonds=50
+coins=25000;diamonds=45
+coins=100000;diamonds=70
+Lilly=1;diamonds=25
+Virus=1;diamonds=25
+Vortex=1;diamonds=25

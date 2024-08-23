@@ -1,0 +1,13 @@
+ITM_flowerjam Flower_blue=10,Lilly=5,Cattail=10 2
+ITM_salad Flower_red=5,Flower_yellow=5,Seaweed=10 5
+ITM_buttergum Butterfly=4 Candycane=3 5
+ITM_mushroombroth Bone=1,Dew=10,Mushroom_1=8,Mushroom_2=4 1
+ITM_cake Fruit_orange=10,ITM_grain=5,Peppermint=10 1
+ITM_bonybaguette Bone=1,ITM_grain=4 1
+ITM_ink Flower_blue=1,Flower_red=1,Flower_yellow=1,Dew=1,BlueLog=1 3
+ITM_rootbeer Log=1,Foam=4,Candycorn=10 1
+ITM_amberstick Relic=1,Log=2,Candycorn=4 1
+ITM_flingdrink Virus=1,Relic=1,Vortex=1,Lilly=1,Dew=20 5
+ITM_grain Cattail=10,Flower_yellow=5 4
+ITM_applejuice Fruit_apple=20,Dew=1 10
+ITM_bloodcandy BloodCells=10,Candycorn=5
