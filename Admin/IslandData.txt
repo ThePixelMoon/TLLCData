@@ -1,7 +1,7 @@
 City 0 Complete z p
 EM 0 Complete z p
 Candy 4 Complete NoZeppelin p
-Knottshurr 10 Complete NoZeppelin p Creator:str_creator_uksus CreatorIconUrl: CreatorLink:
+Knottshurr 10 Complete NoZeppelin p
 Organs 12 Complete z p
 Desert 10 Complete z p
 Calamity 20 Complete z p
