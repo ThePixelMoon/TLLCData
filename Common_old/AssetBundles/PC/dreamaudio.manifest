@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 618117674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a9e789e515d116a29c9e3e4d875e854
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Music/dream/dream_ghazt_1.wav
+- Assets/Resources/Music/dream/dream_Cataliszt_1.wav
+Dependencies: []

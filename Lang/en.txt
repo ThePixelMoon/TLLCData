@@ -1,0 +1,1165 @@
+-------
+WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Zap the monsters you've bred or placed on this island, and they'll transform into the electrical energy required to take up this Wublin.
+
+DipsterBio=Timid in the light, Dipsters make their homes underground. The muffled monster music from above gives Dipsters the courage to rise and join the harmonious melody! ... although it may only be one note at a time. Dipsters are resourceful creatures, and collect natural materials to disguise the entrances to their tunnels. No one knows how far down a Dipster hole goes.
+
+MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it later.
+
+gamma water pummel name - Wabdabuana (Raw asked tp add that here
+
+#BABY SINGLES#
+Monsters/Monster_potbelly_young=Young Potbelly
+Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
+Monsters/Monster_mammott_young=Young Mammott
+Monsters/Monster_mammott_young_bio=The abominamble snowman? More like the adorable snowmons! Mammott isnt quite a boistrous master of "Bom"s but we're getting there. Meanwhile, Mammott prefers to eat food and fluff its fur. Typical. 
+Monsters/Monster_tweedle_young=Young Tweedle
+Monsters/Monster_tweedle_young_bio=Tweedles are well known to be airy and aloof, and the youngest members of the species are no different. When not spreading chitchat around the Floating City, these babbling birds preen themselves nonstop, hoping to be the most "fantastic feathered fling" of the day. 
+Monsters/Monster_toejammer_young=Young Toe Jammer
+Monsters/Monster_toejammer_young_bio=Effervescent and bubbly, tropical-demeanored Young Toe Jammers are always pleasant playmates for the other monsters. At times, situations can get a little sticky when a tossed ball finds itself lodged in the gelatinous body of this tot, but that's no match for some well executed laughter therapy.
+Monsters/Monster_noggin_young=Young Noggin
+Monsters/Monster_noggin_young_bio=Thump thump Bump bump! The newborn noggin's hands aren't quite steady enough to provide that rhythm it's known for, but that doesnt stop it from trying. Juvenile Noggins sometimes let their musical mishaps get out of hand, often trying to bounce with the Thumpies, with very limited success. 
+Monsters/Monster_kayna_young=Young Kayna
+Monsters/Monster_kayna_young_bio=The warm embrace of a Kayna is a welcome surprise to any monster, and theyre quite common surprises given how kind and loving the firey monsterlings tend to be. Surprisingly, mini-eruptions from its head are actually prompted by laughter and tickling!
+Monsters/Monster_fluoress_young=Young Fluoress
+Monsters/Monster_fluoress_young_bio=The solemn tings of the Fluoress paralarvae make for a wonderful lullabye, so much so that they have the tendency of lulling themselves to sleep while playing! In any case, Fluoress were never known for their attention-keeping habits to begin with, as they most often spend their waking hours poking and prodding at the wide array of critters that call the Floating City their home.
+Monsters/Monster_theremind_young=Young Theremind
+Monsters/Monster_theremind_young_bio=Young Thereminds are such mischievous minds! With their psychic abilities, they can drag objects with their minds... very VERY often. Where there is a Little Theremind, one can expect a not-so-little mess. Toys fly apart, dishes break! And now someone's dinner was right on the head of one of the monsterlings. But besides creating a "creative" mess, brainy friends have other hobbies. They like to show the crowd different tricks with disappearances, cards and animals in a hat. Despite the mischievous nature, everyone loves the young Theremind!
+Monsters/Monster_flootfly_young=Young Floot Fly
+Monsters/Monster_flootfly_young_bio=Whoosh! Spry Flootlings are adventurous, soaring through the skies. Never seen without their signature masks, its said they search for something lost long ago...
+Monsters/Monster_clackula_young=Young Clackula
+Monsters/Monster_clackula_young_bio=While normally reserved and quiet, the hands of a Clackula tot are nothing short of a handful! The occasional snip of the sharper baby teeth of a Clackula is a frightening sensation to many, though their fellow monsterlings make sure to maintain their patience. After all, Clackulas are essentially learning table manners for 3!
+
+#BABY DOUBLES#
+Monsters/Monster_dandidoo_young=Young Dandidoo
+Monsters/Monster_dandidoo_young_bio=With that delightful tuft, the unmistakable dandidoo prefers to sit in one spot, admiring the world as it goes by. Who knows whether it forgets all it sees, or if echos of a murky past remain, tucked away within the dandelion dancer. 
+Monsters/Monster_oaktopus_young=Young Oaktopus
+Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst The Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
+Monsters/Monster_maw_young=Young Maw
+Monsters/Monster_maw_young_bio=It should come to no surprise that the young Maw is filled to the brim of pure water! Essentially acting as fuzzy water balloons, Maw pups quickly learn to manage their fluid intake and outtake through their highly-evolved... well, maws. While being slobbered on by a wandering Maw tongue may never be a pleasant experience to bystanders, the handlers have determined it more just means said maw wants to be your friend. aww.
+Monsters/Monster_quibble_young=Young Quibble
+Monsters/Monster_quibble_young_bio=The endless enthusiasm of a Quibble hatchling is one unmatched by any other monster species. Collecting all sorts of colorful pebbles to make up its training keys, their creativity is bolstered by their endless asking of questions! Of course, the celestials are always glad to assist in answering all sorts of questions, though they still can't seem to discover the answer of where baby monsters come from...
+<Monsters/Monster_quibble_rare>
+Monsters/Monster_phangler_young=Young Phangler
+Monsters/Monster_phangler_young_bio=Young Phangler bio
+Monsters/Monster_stogg_young=Young Stogg
+Monsters/Monster_stogg_young_bio=The astonishing arpeggios of the fledgling Stoggling have been a signature staple of the City's ambiance for as long as anyone can remember. And a bit further than that. Shockingly, young stoggs love to be buried in snow!
+Monsters/Monster_knucklehead_young=Young Knucklehead
+Monsters/Monster_knucklehead_young_bio=For a species known for their high motor function, one would perhaps be surprised to learn that Knuckleheads don’t start out with such skill! In truth, Knucklehead pebblings are more accustomed to sculpting nondescript globs with clay and playing with dolls than creating such delicately sculpted figures and props. Immature as they are, young Knuckleheads will often frustrate themselves with the finer details, and it is said that few have lived to tell the tale of the following temper tantrums…
+Monsters/Monster_osstax_young=Young Osstax
+Monsters/Monster_osstax_young_bio=It’s well-known that Osstax begins their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstak Pebblets, despite being generally sedentary, can come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
+
+#BABY TRIPLES#
+Monsters/Monster_spunge_young=Young Spunge
+Monsters/Monster_spunge_young_bio=PFFFFFFFNFHFGNFJBGBF. That's what a young Spunge sounds like. I'm not joking. Its adorable bro. :)
+Monsters/Monster_reedling_young=Young Reedling
+Monsters/Monster_reedling_young_bio=What is a flute but something fun to toot, young Reedlings always say. Or at least thats what its assumed they are trying to communicate, as gusty wheezes and adorable drooling arent quite in our database of translatable languages yet. Nevertheless, the canine cutie happily joins in on any activities the other youngsters have. 
+Monsters/Monster_rootitoot_young=Young Rootitoot
+Monsters/Monster_rootitoot_young_bio=The calm air that young Rootitoots provide are much appreciated solace in the boistrous and playful city. While supervised naps are offered, too many sleeping monsters around a local Rootitoot can cause a bit of a jam, and not the tasty kind. 
+Monsters/Monster_bridgit_young=Young Bridg-it
+Monsters/Monster_bridgit_young_bio=Young Bridg'its love bows, tiaras and anything that makes them look adorable, their hair is always well decorated and combed, however, they have such tiny arms, they can't do all this work by themselves! Luckily there is always a motherly Scaratar nearby who is willing to help them with their tangly issues.
+Monsters/Monster_frondley_young=Young Frondley
+Monsters/Monster_frondley_young_bio=Young Frondley bio
+Monsters/Monster_trox_young=Young T-Rox
+Monsters/Monster_trox_young_bio=Young T-Rox bio
+
+#BABY QUADS#
+Monsters/Monster_gloptic_young=Young Gloptic
+Monsters/Monster_gloptic_young_bio=Young Gloptic bio
+
+#BABY SEASONALS#
+Monsters/Monster_punkleton_young=Young Punkleton
+Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emerged from the pumpkins that litter the Floating City, enchanted by the harvest moon. The gourdly ghouls love to creep up behind fellow monsterlings, before surprising them- with loads of tasty treats!
+
+
+
+#ADULT OFFICIAL SINGLES#
+Monsters/Monster_potbelly=Potbelly
+Monsters/Monster_potbelly_bio=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
+Monsters/Monster_mammott=Mammott
+Monsters/Monster_mammott_bio=Mammott bio
+Monsters/Monster_tweedle=Tweedle
+Monsters/Monster_tweedle_bio=Psst? Did you hear that? The featherbrained Tweedle probably did! This gossip gathering monster is known for its abysmal secret-keeping ability- but all the fellow monsters keep it around, for its signature calming coo.
+Monsters/Monster_toejammer=Toe Jammer
+Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
+Monsters/Monster_noggin=Noggin
+Monsters/Monster_noggin_bio=Seemingly carved from the earth itself, Noggins share a certain pride in being one of the eldest natural monster lineages. For as long as there’s been soil to overturn, Noggins have been tumbling about the landscapes with an ever-iconic Thump! However, with a recent influx of monsters discovered to also be created via statues, some have questioned if the rocky exterior of the Noggin is indicative of some divine creation… though that’s too philosophical of a question for a Noggin to contemplate itself. After all, as is their namesake, a Noggin’s most noteworthy trait beyond their craggy carapace is an incredibly thick skull.
+Monsters/Monster_kayna=Kayna
+Monsters/Monster_kayna_bio=Kayna Bio
+Monsters/Monster_fluoress=Fluoress
+Monsters/Monster_fluoress_bio=A fluoress may seem dim and dull, but that's just a facade. When in song with fellow monsters, Fluoress happily prods its dress of Fluorophyll, lighting up the darkness. While the reason for this strange reaction, as well as the origins of Fluorophyll, are quite a mystery, Fluoress gently reminds that one need not understand to appreciate. 
+Monsters/Monster_theremind=Theremind
+Monsters/Monster_theremind_bio=A theremind's rubbery brain may cause some alarm to those inexperienced in monster biology. I mean, it's out in the open for all to see! However, rest assured, a theremind's noodle is well-protected by a thick outer skin, which protects it from all sorts of tumbles and falls. It's not like they walk often anyways, it's far more efficient to simply float about!
+Monsters/Monster_flootfly=Floot Fly
+Monsters/Monster_flootfly_bio=The mystical Floot Fly is one of the most common monsters to stumble upon throughout the Lost Landscapes, as it's one of the friendliest monsters around! Floot-Flies love to throw tea parties in the most bizarre locations too! Invites to a tea party are always revered and accepted gleefully, as it's a great place to socialize and gossip!
+Monsters/Monster_clackula=Clackula
+Monsters/Monster_clackula_bio=Clackula bio
+
+#ADULT OFFICIAL DOUBLES#
+Monsters/Monster_furcorn=Furcorn
+Monsters/Monster_furcorn_bio=Furcorn bio
+Monsters/Monster_dandidoo=Dandidoo
+Monsters/Monster_dandidoo_bio=As the warm flows of the ocean carry oysters around the deeps, a gentle breeze carries Dandidoo across the monster world. Their migrations rely on airflow since nature wasn't kind enough to grant them wings. They can conduct the air through their bodies to store and burst it out in a powerful stream of tuned tones and semitones. That's why their singing resembles "doo"s and "dee"s.\nTheir plant element gave them a greenish hue and afro-styled hair reminiscent of a common dandelion.
+Monsters/Monster_oaktopus=Oaktopus
+Monsters/Monster_oaktopus_bio=Oaktopi are packed full of wisdom to share with the world, about the world. They almost always have an answer to some of life's most burning questions; "Why is the sky blue?", "Is water wet?", and most notably, "Is mayonnaise an instrument?" (The answer is inconclusive, there is no mayonnaise monster). Sometimes they even say outlandish claims of islands once being carried by towering creatures across the monster world. Psh, yeah right. An Oaktopus can usually be seen reading a good book or swimming in a local hot spring.
+Monsters/Monster_pango=Pango
+Monsters/Monster_pango_bio=Pango bio
+Monsters/Monster_maw=Maw
+Monsters/Monster_maw_bio=Maw bio
+Monsters/Monster_quibble=Quibble
+Monsters/Monster_quibble_bio=The Quibble may seem like a graceful monster on the outside, but that's just a facade. The two heads constantly bicker, usually having polar opinions about the latest trends, or some other trivial issue. One time, the left Quibble wanted to order fries, but the right Quibble was eager to get a milkshake... chaos ensued. But in the end, they always make up with each other, like true siblings. Oh yeah, they ended up ordering fries dunked in a milkshake. A... unique consensus
+Monsters/Monster_boskus=Boskus
+Monsters/Monster_boskus_bio=Boskus bio
+Monsters/Monster_phangler=Phangler
+Monsters/Monster_phangler_bio=On water and on land, a Phangler’s sure to lend a hand! Or.. a fin? A tail? No matter, this studio-set swimmer’s a welcome addition to any party, ready to wow the stage. During off hours, Phanglers are known to listen to podcasts and make quinoa smoothies- bleargh…
+Monsters/Monster_denchuhs=Denchuhs
+Monsters/Monster_denchuhs_bio=Mah dentures
+Monsters/Monster_knucklehead=Knucklehead
+Monsters/Monster_knucklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
+Monsters/Monster_osstax=Osstax
+Monsters/Monster_osstax_bio=Osstax bio
+Monsters/Monster_cybop=Cybop
+Monsters/Monster_cybop_bio=Cybop bio
+
+#ADULT OFFICIAL TRIPLES#
+Monsters/Monster_spunge=Spunge
+Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
+Monsters/Monster_clamble=Clamble
+Monsters/Monster_clamble_bio=Clamble bio
+Monsters/Monster_reedling=Reedling
+Monsters/Monster_reedling_bio=Reedling bio
+Monsters/Monster_rootitoot=Rootitoot
+Monsters/Monster_rootitoot_bio=Rootitoot bio
+Monsters/Monster_bridgit=Bridg-it
+Monsters/Monster_bridgit_bio=While stereotypes say trolls are generally cruel and live in basements, Bridg-it's quite the opposite. This melodic monster is one of the kindest one'll meet, constantly hosting tea parties, bridge building competitions, and much more. Well we think so, we havent seen it really do... anything besides those two things. 
+Monsters/Monster_frondley=Frondley
+Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
+Monsters/Monster_trox=T-Rox
+Monsters/Monster_trox_bio=T-Rox bio
+
+#ADULT OFFICIAL QUADS#
+Monsters/Monster_deedge=Deedge
+Monsters/Monster_deedge_bio=Deedge bio
+Monsters/Monster_pongping=PongPing
+Monsters/Monster_pongping_bio=PongPing bio
+Monsters/Monster_tiawa=Tiawa
+Monsters/Monster_tiawa_bio=Tiawa bio
+Monsters/Monster_bisonorus=Bisonorus
+Monsters/Monster_bisonorus_bio=Bisonorus bio (Azu if you will write this, please mention how the emperor looks like a wig when they are sleping)
+Monsters/Monster_shellbeat=Shellbeat
+Monsters/Monster_shellbeat_bio=Shellbeat bio
+
+#MARSH FANMADES#
+Monsters/Monster_likho=Yap
+Monsters/Monster_likho_bio=If you see a Yap, just know that you've just run into a nice chap! Yaps are small little tumbleweeds, rolling around picking up all sorts of plant life, and usually gifting some to others, even if they don't like it as much as the gifter. But not only that, when it stops, it prepares a... "wonderful" song for its comrades, which usually results in its audience screaming "MAKE IT STOP!" Don't know what that's about.
+Monsters/Monster_varrow=Varrow
+Monsters/Monster_varrow_bio=Known for its penchant for hunting, the melodic “Yah-ha-ha!” of the Varrow echoes throughout all corners of the Evergreen Swamp. It uses its call and prolonged noseharp to attempt to attract juvenile fwogs to its corner of the swamp, even though it might not work as often as it likes. In fact, its attempts more often scare its slippery prey away, leaving the Varrow fwogless and alone. It’s a sad thing too, since it truly just wants new customers to sample their fresh home-made sweets!
+Monsters/Monster_wadee=Wadee
+Monsters/Monster_wadee_bio=Deep below the murkiest of murky depths lies an underwater land lost to time. Many monsters have resided here, and in recent times, many from this region have adventured to the surface. If one takes a swim at the foggy center of the Evergreen Woods’ bog pools then you might hear the soggy "why" like sounds of a Wadee, one such explorer. While it was a beautiful fish in the deep, exposure to the surface has fundamentally changed it, causing its gills to shrink, it’s flippers to turn to hands, and it’s body to swell slightly. While seeming minor, these changes mean that the Wadee can no longer make the long underwater trek back home. The Wadee takes it kindly though, and uses its glowing pads to help guide other underwater travelers, and is a friend to many above and below the surface. Deep inside though, Wadee misses the sights of its home coral reef and the sounds of the Cancer Choir’s melodious tunes…
+Monsters/Monster_dulsylvan=Dulsylvan
+Monsters/Monster_dulsylvan_bio=The carved Dulsylvan, a creature of wood and weathering, held together by its solid core, may seem a tad bit rude on first encounter. Known to never speak, and always donning a scowl, Dulsylvan’s bad mood is naught more than circumstance, as it’s mouth has long been cemented in that shape. In truth, the true monster lives in the small creatures that reside upon the only truly life-filled part of the being, it’s lofty twigs. These creatures, sometimes referred to as Sylvlings, cover and open holes on their ailing ancestors branches to allow air through, and giving the Dulsylvan a means of communication with its neighbors. Once Dulsylvan mystically changes into a pine cone, the Sylvlings will begin to grow and change rapidly, into young Dulsylvans of their own!
+Monsters/Monster_choral=Choralle
+Monsters/Monster_choral_bio=Huh? This seems to be an ordinary tree, but consider us fooled, as this is the shy protege of the Cancer Choir, Choralle! These small masters of natural trickery use a tree-like figure for protection, usually hiding from bigger monsters who usually mean no harm, as they just want to say hello! But being the introverted species they are, the Choralle produce a powerful slam with their disguise if someone gets too close. It may seem rude, but it's just instinct, which we can't blame them for.
+Monsters/Monster_banno=Banno
+Monsters/Monster_banno_bio=Banno is a vocalist of the legendary Cancer Choir, for a long time he spent his time in the deep cold depths of the ocean. Sadly though, it was far too cold for his hot water-loving body! Instead of moving into a geyser of some sort, he decided to stay close to his friends, utilizing an endlessly boiling bucket to keep comfy. Whilst his boiling red abdomen may be concerning, there’s no need to worry- Banno states that it’s just his natural color showing after the cleaning of thousands of years of sea gunk.
+Monsters/Monster_stoopa=Stoopa
+Monsters/Monster_stoopa_bio=Not much is known about the misty marsh deep in the heart of the Evergreen Woods, but legends speak of a strange monster that watches over and leads the song of the monsters that reside there. And whaddya know, here it is! Stoopa is even more of a recycling expert than Congle, finding anything and everything in nature to produce its song, even if it has to make some exceptions with its nature-based rule at times- proven by those... pots and pans on its stupa? Still very little is known about it, and Stoopa prefers to keep it that way while it wields its strange staff, and guards the secrets of the Marsh.
+
+Monsters/Monster_cataliszt=Cataliszt
+Monsters/Monster_cataliszt_bio=Cataliszt bio
+
+Monsters/Monster_jobo=Jodel
+Monsters/Monster_jobo_bio=Jodel bio
+
+Monsters/Monster_treble=Ethenor
+Monsters/Monster_treble_bio=Ethenor bio
+
+Monsters/Monster_dipster_1=Do
+Monsters/Monster_dipster_1_bio=<ref>DipsterBio
+Monsters/Monster_dipster_2=Re
+Monsters/Monster_dipster_2_bio=<ref>DipsterBio
+Monsters/Monster_dipster_3=Mi
+Monsters/Monster_dipster_3_bio=<ref>DipsterBio
+Monsters/Monster_dipster_4=Fa
+Monsters/Monster_dipster_4_bio=<ref>DipsterBio
+Monsters/Monster_dipster_5=Sol
+Monsters/Monster_dipster_5_bio=<ref>DipsterBio
+Monsters/Monster_dipster_6=La
+Monsters/Monster_dipster_6_bio=<ref>DipsterBio
+Monsters/Monster_dipster_7=Ti
+Monsters/Monster_dipster_7_bio=<ref>DipsterBio
+
+Monsters/Monster_knife=Banchi
+Monsters/Monster_knife_bio=Banchi is the beloved mythical of Candy Island. For years untold, the Banchi have been making the popular glutinous rice snack that is the monster-mochi, through which they also play their unique song. A rumor says that they use a secret ingredient to make their monster-mochi make a sound on impact, but no-one really knows what it is. Some speculations suggest that a certain feline spectral figure helped them out- someone who Banchi refers to as family.
+
+Monsters/Monster_wheezel=Wheezel
+Monsters/Monster_wheezel_bio=Wheezel bio
+
+Monsters/Monster_wheezel_rock=Wheezel Rock
+Monsters/Monster_wheezel_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
+
+Monsters/Monster_knurv=Knurv
+Monsters/Monster_knurv_bio=Knurv bio
+
+Monsters/Monster_knurv_rock=Knurv Rock
+Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
+
+Monsters/Monster_reebro=Reebro
+Monsters/Monster_reebro_bio=Reebro bio
+
+Monsters/Monster_wubbox_undof=Wubbox
+Monsters/Monster_wubbox_undof_bio=One day as the monsters were tunneling underground, they stumbled upon an immense underground vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations:\n\nSample analysis of the box's exterior indicates that it shares traits with every known monster species - in fact, it even has specialized compartments with an otherworldy shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.\n\nGather some intrepid monster volunteers and see what happens when you 'box' them!
+Monsters/Monster_wubbox_undof_awake=<ref>Monsters/Monster_wubbox_undof
+Monsters/Monster_wubbox_undof_awake_bio=Eureka! The Wubbox awakes!  As it turns out, this extraordinary electric elemental is vital to the life processes of the colossal island monsters that the other singing denizens call home.  The shrunken monsters used to power up the creature report that inside is as fun as any playground they've ever seen, so they are happy to stay indefinitely.The robotic chirps and whistles it uses to express itself can take some getting used to, but eventually become a beloved and inextricable part of the island's tune.  Besides, it's all the rage in "current" music.The specific breeding characteristics of the Wubbox have not yet been studied.
+
+Monsters/Monster_wubbox_rare_undof=Rare Wubbox
+Monsters/Monster_wubbox_rare_undof_bio=Unlike the common Wubbox, the Rare can be bought for a song - as long as you're singing the right tune. In this inactive state, it's hard to tell what physically differentiates the two monsters, but the most striking contrast is the Rare Wubbox's modest bed count - it's only one! We're hoping to learn more once this cryptic creature is powered up with monsters and awakens to share its song.\n\nGet going with the boxing! Your common Monsters just won't do - this picky customer only accepts Rares.
+Monsters/Monster_wubbox_rare_undof_awake=<ref>Monsters/Monster_wubbox_rare_undof
+Monsters/Monster_wubbox_rare_undof_awake_bio=The story goes that this monster yearned to learn more about the human world, and embarked on a journey through the multiverse. It's now obvious that the Wubbox hurtled not only through space, but also time, towards its destination. Upon its return, it extolled the virtues of revolutionary music tech like turntables, keytars and vocoders. Thanks to its talent for self-customization, the Wubbox integrated pieces of its discoveries into its very being, forever altering its shape, song, and completing its transformation into the sensational Rare Wubbox.
+
+Monsters/Monster_maulch=Maulch
+Monsters/Monster_maulch_bio=What's this? One of those old statues from within the Storm found its way to you! Awaken it and free the lost soul within...
+Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
+Monsters/Monster_maulch_awake_bio=Maulch, the Monotone Mumbler, is perhaps not who you'd expect out here, but whaddaya know! Maulch's Large Lulaguleaf requires much watering, and nowhere has better rain than here it says. Of course, nobody else has even seen it rain but thats irrelevant...
+
+
+
+Monsters/Monster_pixolotl=Pixolotl
+Monsters/Monster_pixolotl_bio=Pixolotl bio
+Monsters/Monster_pixolotl_awake=Pixolotl
+Monsters/Monster_pixolotl_awake_bio=Pixolotl awake bio
+
+Monsters/Monster_poewk=Poewk
+Monsters/Monster_poewk_bio=Poewk bio
+Monsters/Monster_poewk_awake=Poewk
+Monsters/Monster_poewk_awake_bio=Poewk awake bio
+
+Monsters/Monster_fleechwurm_undof=Fleechwurm
+Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
+Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
+Monsters/Monster_fleechwurm_undof_awake_bio=In addition to using them to play music, some Monsters take advantage of their unique features and body shapes, and use them for other purposes. In the case of the Fleechwurm, its resonant body cavity can generate a series of whistles that have an unusual hypnotic effect on other Wublins. They can be used to coax others into doing unglamorous chores for it, or to lovingly preen its leaf-like limbs. Some Wublins are more resistant than others, and playfully admonish the Fleechwurm so it doesn't become too mischievous.
+
+
+Monsters/Monster_spurrit=Spurrit
+Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! This intreped explorer, now farther from home than ever, is happy to explore this strange and vibrant world. 
+
+Monsters/Monster_spurrit_desert=<ref>Monsters/Monster_spurrit
+Monsters/Monster_spurrit_desert_bio=Huzzah? Huz-AAAAGH! This intreped explorer, fascinated by these ancient ruins, seems to have found some trouble with local avian life. While the Vullturs are harmless, Spurrit still freezes up at the sound of their shriek, not even letting out a characteristic yelp.
+
+
+Monsters/Monster_toejammer_rare=Rare Toe Jammer
+Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known partygoer, this rare variant is far more accustomed to stay at home experiences, especially of the snacking kind. With some handy snackholding pegs included, there's no adventure the Rare Toe Jammer can't handle- from the comfort of a couch that is.
+
+
+Monsters/Monster_oaktopus_rare=Rare Oaktopus
+Monsters/Monster_oaktopus_rare_bio=Sporting a pair of handy appendages, Rare Oaktopus has taken up a long time dream of being a Chemist! This wooden wizard travels the realm searching for new ingredients, from the blood of a slumbering giant to the sap of a sugary paradise. Most recently, the Rare Oaktopus has discovered that if mixed in proper proportion to other ingridients, the water of a distant marsh had hallucinogenic effects when sipped; Fascinating! 
+
+
+
+
+Monsters/Monster_spunge_rare=Rare Spunge
+Monsters/Monster_spunge_rare_bio=The dry-eyed Rare Spunge is a fascinating example of the adaptations that environment based mutations can bring about. Seeming to stem from particularly composed waters, mutations through this wacky spunge have changed almost everything about this Spunge, from its color to the amount of each organ it has. Some even suspect it may have a second mouth inside of its body. Ew. Just Ew. 
+
+Monsters/Monster_percFrog=Amphibeat
+Monsters/Monster_percFrog_bio=Amphibeat is a frog. How did you even get this monster? Did you get the combo from my 20k special video? If not then idk..    Azu wuz here :3
+
+Monsters/Monster_phangler_rare=Rare Phangler
+Monsters/Monster_phangler_rare_bio=Glub Glub Glub. The Rare Phangler ate a little too much mud from the bottom of the marsh waters, and its tail fell off. Luckily it had extra in its pockets, so it stuck those on and used them as arms!
+
+
+Monsters/Monster_dulsylvan_rare=Rare Dulsylvan
+Monsters/Monster_dulsylvan_rare_bio=During the late stages of a Dulsylvan’s time, it’s body begins to rapidly change. Old, solid wood morphs into a light airy shape, known as a sylvcone. The Dulsylvan’s body begins to ooze a sweet sap, that will feed its young Sylvlings after it has passed on, and it’s nose changes to a luscious green shade. While these latter days are considered to be short, they are known to be filled with joy, as the old Dulsylvan becomes able to move freely once more! Eventually though, it slows down, and the sap crystallizes the sylvcone and preserves it for eternity…
+
+
+Monsters/Monster_varrow_rare=Rare Varrow
+Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
+
+Monsters/Monster_banno_rare=Rare Banno
+Monsters/Monster_banno_rare_bio=twerking.
+
+
+
+
+Monsters/Special/Monster_melochness=Meloch-Ness
+Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit. What. How you get dis. Excuse me. Magical Expansion is not canon. L + Ratio. TLL is not as good as Dawn of Fire. - Mr. Magic of Expanding
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
+Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_bio
+
+
+
+
+
+
+
+
+
+
+Monsters/Knott_1=Knottshurr Tree
+Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
+Monsters/Knott_2=Bay
+Monsters/Knott_2_bio=Bay bio
+Monsters/Knott_3=Souxls Vessel
+Monsters/Knott_3_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
+Monsters/Knott_4=BoOoo
+Monsters/Knott_4_bio=All those who hail from the Thumpiverse are well versed in the practice of interdimensional leaps, and BoOoo is no exception. Fleeing the abysmal depths of its former home, BoOoo embarked on a long and widespread journey for a new home. Eventually, it found a strange mountain, deep below the Silver Crags, that emitted a strange feeling that resonated with BoOoo. At first staying to investigate, the cryptic aura of the region has convinced BoOoo to finally choose a true home for the first time in millennia. However, no gift comes without its price, and without careful consumption of local materials, the region’s alien magic might take hold on BoOoo and the other residents in strange ways… 
+Monsters/Knott_5=Mount Tuzzpikk
+Monsters/Knott_5_bio=Mount Tuzzpikk was a regular Knott-rock that got affected by the Knottsurr magic, emmited from the mystical orbs found across the Knottsurr Island. It gained musical abilities and immediately after being animated, started to sing. It knows many compositions but "Pearrdesh Slougna" and "Ellepharrth" by "DJ. Goldenduck" is the closest to its rock heart. You can find it humming the melody non-stop whenever it's not singing.\nLeaving the island would result in reverting to its initial state of non-sentience. Unless it carries one of the sources of Knottsurr magic with it wherever it goes.
+Monsters/Knott_6=Mount Mound
+Monsters/Knott_6_bio=Mount Mound bio
+Monsters/Knott_7=Flocca
+Monsters/Knott_7_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
+Monsters/Knott_8=Cleomace
+Monsters/Knott_8_bio=Cleomace bio
+Monsters/Knott_9=Babushka Knittshurr
+Monsters/Knott_9_bio=Meet the friendliest creature in The Lost World. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
+Monsters/Knott_10=Bel'yawn Zirro
+Monsters/Knott_10_bio=Bel'yawn Zirro bio
+Monsters/Knott_special=Chimbickle
+Cimbasso + ickle
+Monsters/Knott_special_bio=Chimbickle bio
+
+Monsters/Knott_1_rare=Rare Knottshurr Tree
+Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BooOos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 
+Monsters/Knott_2_rare=Bay
+Monsters/Knott_2_rare_bio=Bay bio
+Monsters/Knott_3_rare=Souxls Vessel
+Monsters/Knott_3_rare_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
+Monsters/Knott_4_rare=Rare BoOoo
+Monsters/Knott_4_rare_bio=Rare BooOo is a misleading name. These thumpies are actually Ghawgs. Fishy looking, yet still very much covered in fur, creatures. Always accompanied by a pack of tortappers seeking new life and exciting adventures, they travel between realms and explore the world. Occasionally stoping for a few months if they like the place. These monsters sure know how to enjoy life.
+Monsters/Knott_5_rare=Rare Mount Tuzzpikk
+Monsters/Knott_5_rare_bio=Unlike mount Tuzzpikks that we are used to, these particular variants have a plethora of unique facial features on each of their heads. Every single one is full of emotions and character. A saying goes that the biggest of them was based around a monster, not native to any of the monster worlds. How peculiar...
+Monsters/Knott_6_rare=Mount Mound
+Monsters/Knott_6_rare_bio=Mount Mound bio
+Monsters/Knott_7_rare=Flocca
+Monsters/Knott_7_rare_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
+Monsters/Knott_8_rare=Cleomace
+Monsters/Knott_8_rare_bio=Cleomace bio
+Monsters/Knott_9_rare=Babushka Knittshurr
+Monsters/Knott_9_rare_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
+Monsters/Knott_10_rare=Bel'yawn Zirro
+Monsters/Knott_10_rare_bio=Bel'yawn Zirro bio
+Monsters/Knott_special_rare=Chimblickle
+Monsters/Knott_special_rare_bio=Chimblickle bio
+
+
+
+
+
+
+
+
+Monsters/Monster_handmond=Handmond
+Monsters/Monster_handmond_bio=Handmond bio
+
+Monsters/Monster_whimstlop=Whimstlop
+Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
+Monsters/Monster_whimstlop_meduza=<ref>Monsters/Monster_whimstlop
+Monsters/Monster_whimstlop_meduza_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
+
+
+Monsters/Monster_mammott_meduza=<ref>Monsters/Monster_mammott
+Monsters/Monster_mammott_meduza_bio=Mammott bio
+
+
+
+Monsters/Monster_maw_meduza=<ref>Monsters/Monster_maw
+Monsters/Monster_maw_meduza_bio=Maw bio
+
+
+Monsters/Monster_pongping_meduza=<ref>Monsters/Monster_pongping
+Monsters/Monster_pongping_meduza_bio=PongPing bio
+
+Monsters/Monster_meduza=M'Duzza
+Monsters/Monster_meduza_bio=M'Duzza bio
+
+
+Monsters/Monster_noggin_meduza=<ref>Monsters/Monster_noggin
+Monsters/Monster_noggin_meduza_bio=Noggin bio
+
+Monsters/Monster_theremind_meduza=<ref>Monsters/Monster_theremind
+Monsters/Monster_theremind_meduza_bio=A theremind's rubbery brain may cause some alarm to those inexperienced in monster biology. I mean, it's out in the open for all to see! However, rest assured, a theremind's noodle is well-protected by a thick outer skin, which protects it from all sorts of tumbles and falls. It's not like they walk often anyways, it's far more efficient to simply float about!
+
+Monsters/Monster_sox=Sox
+Monsters/Monster_sox_bio=After having finally met the common class of monsters first-hand, Sox's life has been forever changed. Now, rather than playing solemn bluesy tunes in the vast nothingness of the Pocket Dimension, Sox is free to play its melodies for the entire Lost World! Publicity isn't easy, however, as it still sometimes needs to dispel rumors of a supposed 'true sound' the Sox makes.
+Monsters/Monster_sox_meduza=<ref>Monsters/Monster_sox
+Monsters/Monster_sox_meduza_bio=Ded sox bio
+
+Monsters/Monster_pummel=Pummel
+Monsters/Monster_pummel_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
+Monsters/Monster_pummel_meduza=<ref>Monsters/Monster_pummel
+Monsters/Monster_pummel_meduza_bio=Ded pummel bio
+
+Monsters/Monster_knucklehead_meduza=<ref>Monsters/Monster_knucklehead
+Monsters/Monster_knucklehead_meduza_bio=Ded knuckles bio
+
+Monsters/Monster_schmoochle=Schmoochle
+Monsters/Monster_schmoochle_bio=Schmoochle bio
+
+Monsters/Monster_punkleton=Punkleton
+Monsters/Monster_punkleton_bio=BOO! Grown punkletons lean more heavily into the Trick of Trick-or-Treat, loving to deal out spooky surprises for any visitors who come around. But beware, for there's a reason Punkleton's tricks are unforgettable...
+
+Monsters/Monster_ffydill=Ffidyll
+Monsters/Monster_ffydill_bio=Ffidyll bio
+
+Monsters/Monster_arackulele=Arackulele
+Monsters/Monster_arackulele_bio=Arackulele bio
+
+
+#CELESTIALS#
+Monsters/Monster_hornacle=Hornacle
+Monsters/Monster_hornacle_bio=Hornacle bio
+Monsters/Monster_loodvigg=Loodvigg
+Monsters/Monster_loodvigg_bio=Loodvigg bio
+Monsters/Monster_blasoom=Blasoom
+Monsters/Monster_blasoom_bio=Blasoom bio
+Monsters/Monster_torrt=Torrt
+Monsters/Monster_torrt_bio=Torrt bio
+Monsters/Monster_scaratar=Scaratar
+Monsters/Monster_scaratar_bio=Scaratar bio
+Monsters/Monster_syncopite=Syncopite
+Monsters/Monster_syncopite_bio=Syncopite bio
+Monsters/Monster_attmoz=Attmoz
+Monsters/Monster_attmoz_bio=Attmoz bio
+Monsters/Monster_vhamp=Vhamp
+Monsters/Monster_vhamp_bio=Vhamp bio
+Monsters/Monster_furnoss=Furnoss
+Monsters/Monster_furnoss_bio=Furnoss bio
+Monsters/Monster_glaishur=Glaishur
+Monsters/Monster_glaishur_bio=Glaishur bio
+Monsters/Monster_galvana=Galvana
+Monsters/Monster_galvana_bio=Yearly, the celestial cycle repeats itself anew, and the final monster of the cycle is the glowing Galvana. Powerful and pristine, this thunderous celestial guides its perfect pantheon, whilst also composing complex crescendos! Now known to even posses the spark of life within its galvanizing orb, Galvana is a popular and much revered celestial from the City to the frontiers of the farthest realms… 
+Monsters/Monster_plixie=Plixie
+Monsters/Monster_plixie_bio=As autumn reaches its zenith, the plasmic Plixie returns to the stars above the Floating City, watching the young monsters who reside there. Having played an instrumental role in rescuing the monsters from a dying world, Plixie takes particular interest in the wellbeing of the little cuties, often delivering treats and new toys for the young monsters. When not on the city, Plixie takes many adventures throuought the Lost world, discovering strange places and peculiar destinations at every turn.
+Monsters/Monster_light=Loch-nitt
+Monsters/Monster_light_bio=How ludicrous! The lanky Loch-nitt is a truly strange being, with an impressive neck, and long legs- or are they arms? Nobody is quite sure, including the Loch-nitt itself; The lavender legend just calls them l'arms! When not questioning it's own existence, this monster mystery's passions include knitting neck socks, stumbling over just about anything, and passionately playing it's clumsy heart out on its lyrologs. It's always careful not to break the strings, as they're handmade by another knitting monster from a distant land.
+Monsters/Monster_bone=Amoniterium
+Monsters/Monster_bone_bio=In a distant land, born of the tear of a dying star, a unique creature ruled the land... So begins the favorite story of the alluring Amoniterium. A radical role-player of its own class, this boisterous being loves playing make-believe, imagining all sorts of backstories and creating fun costumes. While its own origins remain a mystery, it can only imagine how it was created. No matter what, one thing's for sure: we know it'll become a part of the identity of every bone in the Amoniterium's well outfitted body! 
+Monsters/Monster_psychic=Talactic
+Monsters/Monster_psychic_bio=Macrocranium bio
+Monsters/Monster_faerie=Chordyrid
+Monsters/Monster_faerie_bio=Chordyrid bio
+
+Structures/Structure_breeding=Breeding Structure
+Structures/Structure_breeding_bio=Breeding Structure bio
+
+<Structures/Structure_breeding_undof3>
+<Structures/Structure_breeding_undof3_bio>
+Structures/Structure_breeding_city=<ref>Structures/Structure_breeding
+Structures/Structure_breeding_city_bio=<ref>Structures/Structure_breeding_bio
+
+Structures/Structure_breeding_undof=<ref>Structures/Structure_breeding
+Structures/Structure_breeding_undof_bio=This peculiar structure has been in use since the golden age of the Monster World, and little has changed since that time. Once it is old enough, a Monster can spontaneously produce an egg containing all of its genetic and elemental information, which is then placed onto one of the 'bowls' of the machine. These eggs, which are truly more like spores, slowly seep out their 'precious bodily fluids' down the twin drains of the structure and magically co-mingle in the center vessel, until a new egg is produced! The process is complicated though, as one breeding combination can have many possible outcomes.
+Structures/Structure_breeding_undof2=Enhanced Breeding Structure
+Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
+Structures/Structure_breeding_undof3=Sweetened Breeding Structure
+Structures/Structure_breeding_undof3_bio=Despite the faster wait times of the Enhanced Breeding Structure, breeding can still be a quite a tricky matter... Luckily, the newly Sweetened Breeding Structure can help! Upgraded through various items & resources from the Candy Island, the highly-efficient Sweetened Breeding Structure reduces breeding waiting times by 50%, more than ever before!
+
+
+Structures/Structure_castle_undof=Basic Castle
+Structures/Structure_castle_undof_bio=Singing takes a lot of energy, and monsters need sleep! The Basic Castle really isn't very comfy at all; the rain gets through, it's drafty, and cramped.
+
+Structures/Structure_castle_undof2=Modest Castle
+Structures/Structure_castle_undof2_bio=It's great to have a good night's sleep! The Modest Castle is dry and warm, but small.
+
+Structures/Structure_castle_undof3=Comfortable Castle
+Structures/Structure_castle_undof3_bio=Ah, some elbow room! The Comfortable Castle even has indoor plumbing.	
+
+Structures/Structure_castle_undof4=Spacious Castle
+Structures/Structure_castle_undof4_bio=The Spacious Castle has lots of room for monsters to relax and refresh.
+
+Structures/Structure_castle_undof5=Luxurious Castle
+Structures/Structure_castle_undof5_bio=	It just doesn't get any better than this! The Luxurious Castle has everything a monster might enjoy, from cold slime pools to dark, nasty dungeons. Who would ever want to leave?
+
+Structures/Structure_castle_undof6=Extravagant Castle
+Structures/Structure_castle_undof6_bio=This state of the art domicile goes way overboard when it comes to spoiling the monsters...  Personal assistants to wait on them hand and foot (at least those that have hands and feet), the spiffiest sound systems on the monster market...  They've got it made in the shade.
+
+Structures/Structure_bakery=Outer Island Bakery
+Structures/Structure_bakery_bio=Bakery bio
+
+Structures/Structure_amalgamator=Amalgamator
+Structures/Structure_amalgamator_bio=Amalgamator bio
+
+Structures/Structure_crafter=Crafter
+Structures/Structure_crafter_bio=The Crafter is a strange contraption! Try out some of the recipes for new goodies and treats!
+
+Structures/Structure_jukebox=Jukebox
+Structures/Structure_jukebox_bio=Heralding from days long past, the Jukebox still sports memorabilia from musical connoisseurs hoping to jam out after the day is done. While a sparklier version appears to have been modeled for a distant haven, this older prototype found its way here, where it is adored by all the younglings. Since they can’t sing, they crowd around and happily listen, deriving inspiration and absorbing raw creativity from the fantastical frequencies emmitted from within.
+
+Structures/Structure_bass=Bass machine
+Structures/Structure_bass_bio=The Bass Machine is a cutting edge mix of art and technology, originating from the age of the Great Burgundy Incident. While the knowledge to create more was lost long ago, many can be found lying around in buildings across the floating city. These strange machines are known to be far more intelligent than any other being within the known realm, but yet cannot communicate with the outside world, leaving them to hum and strum bass notes hoping to be understood…
+
+Structures/Structure_knottmaker1=Strange contraption
+Structures/Structure_knottmaker1_bio=Hmm... what could this strange contraption possibly be? Gather some resources around the island to find out!
+
+Structures/Structure_knottmaker2=Rejuvenated Amalgamator
+Structures/Structure_knottmaker2_bio=Amalgamator bio
+
+Structures/Structure_knottmaker3=Amalgamator
+Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
+
+Structures/Structure_knottmaker4=Enhanced Amalgamator
+Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
+
+Structures/Structure_stargazer=Observatory
+Structures/Structure_stargazer_bio=Observatory bio
+
+Structures/Structure_timemachine=Time Machine
+Structures/Structure_timemachine_bio=This strange and peculiar structure can warp time! Use the slider to slow down or speed up the music!
+
+Structures/Structure_masher=Masher
+Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be proccessed into delicious snacks for the youngsters!
+
+Monsters/Composer/Monster_potbelly_composer=Potbelly
+Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
+Monsters/Composer/Monster_toejammer_composer=Toe Jammer
+Monsters/Composer/Monster_toejammer_composer_bio=Toe Jammer bio
+Monsters/Composer/Monster_tweedle_composer=Tweedle
+Monsters/Composer/Monster_tweedle_composer_bio=Tweedle bio
+Monsters/Composer/Monster_flootfly_composer=Floot Fly
+Monsters/Composer/Monster_flootfly_composer_bio=Floot Fly bio
+Monsters/Composer/Monster_choral_composer=Choralle
+Monsters/Composer/Monster_choral_composer_bio=Choralle bio
+Monsters/Composer/Monster_likho_composer=Yap
+Monsters/Composer/Monster_likho_composer_bio=Yap bio
+Monsters/Composer/Monster_wadee_composer=Wadee
+Monsters/Composer/Monster_wadee_composer_bio=Wadee bio
+Monsters/Composer/Monster_quibble_composer=Quibble
+Monsters/Composer/Monster_quibble_composer_bio=Quibble bio
+Monsters/Composer/Monster_stoopa_composer=Stoopa
+Monsters/Composer/Monster_stoopa_composer_bio=Stoopa bio
+Monsters/Composer/Monster_oaktopus_composer=Oaktopus
+Monsters/Composer/Monster_oaktopus_composer_bio=Oaktopus bio
+Monsters/Composer/Monster_spunge_composer=Spunge
+Monsters/Composer/Monster_spunge_composer_bio=Spunge bio
+
+Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
+Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these rubbery Water elementals are very tough. Toe Jammers sing of liquid wonders: deep sea leviathans, crashing surf, flooded basements, and bubble tea!
+
+Monsters/Monster_kayna_undof=<ref>Monsters/Monster_kayna
+Monsters/Monster_kayna_undof_bio=The ancient Kayna was long thought lost to an enigmatic event in monster antiquity. A solitary specimen encased in amber was rescued on Tribal Island. It's true, but only recently did a new generation of these beings begin to appear, beckoned by the mysterious call of Relics resonating deep within the world's volcanic core. Now this feisty Fire Elemental is ready to play its part in restoring the glory of its powerful Element in the Monster World.
+
+Monsters/Monster_kayna_rare_undof=Rare Kayna
+Monsters/Monster_kayna_rare_undof_bio=Bearers of the oldest Element of all, Rare Kaynas are an ancient breed from which all their Common cousins have sprung. Their intricate, tattoo-like carvings are bestowed upon them with great honor to represent their impressive age and crowing wisdom, eon after eon; you can imagine that the oldest Rare Kaynas are quite a sight! Yet no matter how old the original Fire Rare gets, the burning glow of the Fire Element never dims.
+
+Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
+Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
+
+Monsters/Monster_noggin_rare_undof=Rare Noggin
+Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
+
+Monsters/Monster_fwog_undof=Fwog
+Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.
+
+Monsters/Monster_thrumble_undof=Thrumble
+Monsters/Monster_thrumble_undof_bio=Wide-mouthed and keen snackers, Thrumbles are prone to swallowing treats whole. Their elongated gullets can squash and stretch to provide said treats with ample time to be pulverized by the reverberations of this happy-go-lucky hummer's signature thrumming. When thrumming on an empty stomach, bubbling pockets of air can expand and prompt a sudden flurry of giggles!
+
+Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
+Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the limelight! These Natural-born crooners live to perform, and their dulcet tones are frequently employees at all manner of shindigs. Don't get caught without live entertainment at your Anniversary Month party: book Phangler today!
+
+Monsters/Monster_stogg_undof=Stogg
+Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
+
+Monsters/Monster_gumtromp=Gumtromp
+Monsters/Monster_gumtromp_bio=A sweet demeanored treat, the adorable Gumtromp parades around the monster world, giving inspirational speeches on how... candy is actually good for you and how the toothbrush mafia is out to get everyone. Yikes. But besides that, this marmalade monster loves to help its friends and caters plenty of sweets for events of any size. What a sugary delight! 
+
+Monsters/Monster_gumtromp_rare=Rare Gumtromp
+Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
+
+Monsters/Monster_keytrus=Keytrus
+Monsters/Monster_keytrus_bio=Like its surprisingly-close kin, the Koodahcane, Keytrus is far-disconnected from its fellow candy monsters via its complete inedibility! In fact, Keytrus often find themselves scavenging about the surface of the Konficshonn colossal for sour sweets and delicacies! This sweet -- or, rather, sour -- tooth is only satiated by the disc-shaped fruits found growing in the colossal's beard. It then uses specialized claws at the tips of its limbs, normally covered by leaflike feathers, to slice the orange in half, revealing 4 quadrants of flesh that can be tapped to produce a wonderfully whimsical tink! These fruits, called Discus Fruits by the other monsters, are actually not sour at all, but Keytrus doesn't know that... don't ruin its fun.
+
+Monsters/Monster_koodahcane=Koodahcane
+Monsters/Monster_koodahcane_bio=The sweetening antlers of the Koodahcane are beloved by all inhabitants of the Candy Island. All sugar in the bloodstream of these scaly fish are accumulated on the tip of their skull and grown like hair. When it reaches a tipping point, Once a month or so, these sucrose-filled cranial canes are shed and left to be collected around the island, as sweet treats. 
+
+
+Monsters/Monster_marshflamo=Marshflamo
+Monsters/Monster_marshflamo_bio=Marshflamos are known to be some of the most warm hearted monsters out there- quite literally, given their molten gooey marshmallowey cores! As time goes on, Marshflamos age through their rapid life cycle, their internal heat toasting them to perfection, before they harden and set ablaze. Their crumbling black shell falls off and reveals a shining new exterior, pure and light as a cloud. As residents of the newly formed sugary refuge in the Pocket Dimension, from the disaster that destroyed the Monster World, Marshflamos work to keep their fellow monsters safe, while telling spooky stories around an ever toasty campfire. 
+
+Monsters/Monster_brasscuit=Brasscuit
+Monsters/Monster_brasscuit_bio=Choccosour bio
+
+Monsters/Monster_gobstomper=Gobstomper
+Monsters/Monster_gobstomper_bio=It's said that Gobstompers are the toughest of candy monsters. Their layered shells can withstand the highest of falls and the heaviest of punches without a single chip. Despite all that, the Gobstompers' personalities reflect their chewy, gummy interiors. They are always ready to help out around Candy Island, and wherever else they may roam. Still, from time to time they may yet find themselves eager for some friendly competition for who has the sturdiest crust with their hard-headed friends.
+
+
+Monsters/Monster_claramel=Claramel
+Monsters/Monster_claramel_bio=The ever-shimmering Claramel is known for its caramelized form and playful tunes. But it wasn't always that way, and at one point it was in a liquid state, scathing and sticky. But an encounter with a Reedling inspired Claramel! It attached DIY cinnamon pipes to its tail and practiced tirelessly. Eventually the winds passing through froze its body in a crystalline dynamic splash that made it all the more memorable and beloved.
+
+Monsters/Monster_sprinklate=Sprinklate
+Monsters/Monster_sprinklate_bio=As the tasty team leader of Candy Island, almost everyone has heard of Sprinklate at some point or another. They love to lead various activities on the island, are enthusiastic members of the island's guard, and keep a watchful eye on all. Though Sprinklate loves all of their friends equally, they have a special spot in their heart for a fellow cake, who visits once a year. 
+
+Monsters/Monster_jamboree_undof=Jam Boree
+Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
+
+Monsters/Monster_ghazt_undof=Ghazt
+Monsters/Monster_ghazt_undof_bio=The extraordinary Ghazt only manifests itself when conditions are absolutely perfect. Imbued with the Ethereal power of Plasma, its sleek frame and ability to become intangible are ideal for slipping in and out of places unnoticed. However, these traits also make it vulnerable to accidental interdimensional travel. It plays well with the other Monsters, but just like a cat, it sometimes prefers to be alone... or in the company of others of its kind.
+
+EM_path1=Soggy Stones Path
+EM_path1_bio=These stones are soaked! Maybe some thirsty monster created a mess while taking a drink here?
+
+EM_path2=Dripping Pebbles Path
+EM_path2_bio=These pebbles are still quite wet! Maybe some seaborne creature exited the water here?
+
+EM_path3=Glistening Grass #1
+EM_path3_bio=This bright patch of grass is a reminder to all monsters to look on the bright side! And the swampy side? We aren’t quite sure but it’s great to stand on and get your toes in!
+
+EM_path4=Glistening Grass #2
+EM_path4_bio=This bright patch of grass is a reminder to all monsters to look on the bright side! And the swampy side? We aren’t quite sure but it’s great to stand on and get your toes in!
+
+EM_path5=Stepping Stump Path
+EM_path5_bio=This round cookie of Birhrrc wood was left here eons ago by an unknown woodfeller. Nothing is known about them, besides that they used an unusual cranium based chopping method…
+
+EM_path6=Sapling Shavings
+EM_path6_bio=These shavings off a Bihrrc tree have been left here for a while. Sources suggest they were carved by a fledgeling Stoopa working on her first mortar!
+
+EM_path7=Overgrown Bubblerite Path
+EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
+
+Candy_path1=Cookie Path
+Candy_path2=Chokkolit Path
+Candy_path3=White Chokkolit Path
+Candy_path4=Blue Cotton Candy
+Candy_path5=Pink Cotton Candy
+Candy_path6=Used Gum Path
+Candy_path7=Cookie Crumble Path
+Candy_path8=Sprinkle Surprise Path
+
+Desert_path1=Desert path 1
+
+Desert_path2=Desert path 2
+
+Desert_path3=Desert path 3
+
+Desert_path4=Desert path 4
+
+Desert_path5=Desert path 5
+
+Desert_path6=Desert path 6
+
+Organ_path1=Red Blood Cell Path
+
+Organ_path2=White Blood Cell Path
+
+Organ_path3=Hematogen Bubblerite Path
+
+
+Decoration/Decoration_test=Kee-Tree
+Decoration/Decoration_test_bio=The Kee-Tree is a wooden amalgamation of wood and whimsy! While unable to play itself like the ancient Bass Machine, prophecies say that if played just right by the wind, the Kee-Tree can reveal a song not heard since the dawn of reality…
+Decoration/Decoration_test1=Talkie Radish
+Decoration/Decoration_test1_bio=Talkie Radishes are capable of remembering and saying out loud whatever a monster said while around it, so be careful to not reveal any special secrets you have while being around these gossipy plants or else eveyone will soon know everything about you.
+Decoration/Decoration_test2=Saptree
+Decoration/Decoration_test2_bio=These elegant trees are covered in sap, but who did that? Well the answer is simple: themselves! Saptrees have the ability of creating sap directly from their leaves, said sap is know for trapping little crriters who would dare to eat their greeny wig. Other monsters use the sap from the Saptree to extract sugar to make their delicious treats and even put in a big plate of pancakes!
+Decoration/Decoration_test3=Souxls Tree
+Decoration/Decoration_test3_bio=Souxls Tree bio
+Decoration/Decoration_test4=Gob Gush
+Decoration/Decoration_test4_bio=This enchanted statue provides an infinite source of fresh water for monsters. This is a wonderful thing, as these days much of the water is contaminated.
+Decoration/Decoration_test5=Funny Flora
+Decoration/Decoration_test5_bio=Funny Flora bio
+Decoration/Decoration_test6=Juggle Tulip
+Decoration/Decoration_test6_bio=At first glance, this can be easily mistaken for a Monster. But it's just a plant that can juggle anything, mostly eyeballs.
+Decoration/Decoration_test7=Bucket-o-Cattail
+Decoration/Decoration_test7_bio=Looks like someone plucked some Cattails from the Evergreen Marsh and put them in a bucket of water to keep them alive! Neat-o!
+Decoration/Decoration_test8=Capsize Berry Tree
+Decoration/Decoration_test8_bio=Capsize Berry Trees are well-loved throughout the lost landscapes for their delicious berries. They're so delicious in fact, monsters don't often realize the magical side-effect of the berries, where they float up into the air and fall down right on their heads!
+Decoration/Decoration_test9=Spare Parts
+Decoration/Decoration_test9_bio=It's a jar of spare parts! What's it for? Who knows? Are they spare parts for Blipsqueak? Are they spare parts for Handmond just in case its organs fail? Are they even spare parts at all!?
+Decoration/Decoration_test10=Baloony
+Decoration/Decoration_test10_bio=They call him friend substitute. Lonely monsters come to Baloony at any time and share their stories with him. Our "friend" used to fly around freely, exploring the monster world, but he got stuck between two rocks with nothing left to do but to sway serenely from side to side. Nobody knows who created Baloony, but rumors say that it slightly resembles its creation. Who knows, maybe we will meet one day.
+Decoration/Decoration_test11=Blood Blossom Tree
+Decoration/Decoration_test11_bio=Okay... I've seen a lot of disgusting things from the Terra of Organs but this takes the cake! Like what on Galvana's Monster World is that!? It's just- HMMPH! I gotta go to the bathroom... I think I'm gonna throw up...
+Decoration/Decoration_test12=The King
+Decoration/Decoration_test12_bio=Nobody knows what "The King" is, but everyone collectively agrees that they should stay away from it. It elicits heebee-jeebees to anyone brave enough to look at it in the eye.
+
+Decoration/Decoration_knott=Mount Knottshurr
+Decoration/Decoration_knott_bio=Mount Knottshurr bio
+Decoration/Decoration_mors=Mountain Morsel
+Decoration/Decoration_mors_bio=Mountain Morsel bio
+ 
+
+ObstacleMushroomsbio=Removed fungi will be taken far away to wonderful new homes.
+
+Decoration/Obstacle_EM_1=Small Mushroom
+Decoration/Obstacle_EM_1_bio=It's a Small Mushroom. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_2=Medium Mushroom
+Decoration/Obstacle_EM_2_bio=It's a Medium Mushroom. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_3=Large Mushroom
+Decoration/Obstacle_EM_3_bio=It's a Large Mushroom. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_4=Devil's Fingers
+Decoration/Obstacle_EM_4_bio=Those are Devil's Fingers. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_5=Truffle
+Decoration/Obstacle_EM_5_bio=It's a truffle. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_6=Puff Shroom
+Decoration/Obstacle_EM_6_bio=It's a puff shroom. <ref>ObstacleMushroomsbio
+
+ObstaclePlacableShroom_bio=Remember how we said mushrooms and fungi that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's mushrooms and fungi and this marsh is their new home! Mushroom recycling is awesome.
+
+Decoration/Obstacle_placable_EM_1=<ref>Decoration/Obstacle_EM_1
+Decoration/Obstacle_placable_EM_1_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_2=<ref>Decoration/Obstacle_EM_2
+Decoration/Obstacle_placable_EM_2_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_3=<ref>Decoration/Obstacle_EM_3
+Decoration/Obstacle_placable_EM_3_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_4=<ref>Decoration/Obstacle_EM_4
+Decoration/Obstacle_placable_EM_4_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_5=<ref>Decoration/Obstacle_EM_5
+Decoration/Obstacle_placable_EM_5_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_6=<ref>Decoration/Obstacle_EM_6
+Decoration/Obstacle_placable_EM_6_bio=<ref>ObstaclePlacableShroom_bio
+
+ObstacleCommonRocks_bio=Removed rocks will be taken far away to wonderful new homes.
+ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted.
+
+Decoration/Obstacle_Candy_1=Small Rock.
+Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_2=Medium Rock
+Decoration/Obstacle_Candy_2_bio=It's a Medium Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_3=Big Rock
+Decoration/Obstacle_Candy_3_bio=It's a Big Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_4=Small Tree
+Decoration/Obstacle_Candy_4_bio=It's a Small Tree. <ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Candy_5=Medium Tree
+Decoration/Obstacle_Candy_5_bio=It's a Medium Tree. <ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Candy_6=Big Tree
+Decoration/Obstacle_Candy_6_bio=It's a Big Tree. <ref>ObstacleCommonTrees_bio
+
+ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
+
+Decoration/Obstacle_placable_Candy_1=<ref>Decoration/Obstacle_Candy_1
+Decoration/Obstacle_placable_Candy_1_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_2=<ref>Decoration/Obstacle_Candy_2
+Decoration/Obstacle_placable_Candy_2_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_3=<ref>Decoration/Obstacle_Candy_3
+Decoration/Obstacle_placable_Candy_3_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_4=<ref>Decoration/Obstacle_Candy_4
+Decoration/Obstacle_placable_Candy_4_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_5=<ref>Decoration/Obstacle_Candy_5
+Decoration/Obstacle_placable_Candy_5_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_6=<ref>Decoration/Obstacle_Candy_6
+Decoration/Obstacle_placable_Candy_6_bio=<ref>ObstaclePlacableCommon_bio
+ 
+
+ObstacleCommonBones_bio=Removed bones will be taken far away and crushed to bonemeal.
+
+ObstaclePlacableBones_bio=Remember how we said that bones that are removed from your islands get crushed to bonemeal? Good news - we lied and these are the bones that you got rid of. Live with that now :>
+
+ObstacleKnottTree=It contains a special power that can resurrect life. Don't worry, if you cut it down, it won't harm the ecosystem of this island. Everything here is dead anyway...
+ObstacleKnottRock=This rock, just like the rest of the rocks on this island, hold a potential for magical powers! But the ways of extracting said magic is lost to time. Oh well...
+
+Decoration/Obstacle_Knott_1=Fluff tree
+Decoration/Obstacle_Knott_1_bio=This is a Fluff tree. <ref>ObstacleKnottTree
+Decoration/Obstacle_Knott_2=Fluffier tree
+Decoration/Obstacle_Knott_2_bio=This is a Fluff tree but it's much mre fluffy that the usualy fluff tree. <ref>ObstacleKnottTree
+Decoration/Obstacle_Knott_3=The Fluffiest tree
+Decoration/Obstacle_Knott_3_bio=This is a Fluff tree. It's the fluffiest one yet. <ref>ObstacleKnottTree
+
+Decoration/Obstacle_Knott_4=Small Bone
+Decoration/Obstacle_Knott_4_bio=<ref>ObstacleCommonBones_bio
+Decoration/Obstacle_Knott_5=Medium Bone
+Decoration/Obstacle_Knott_5_bio=<ref>ObstacleCommonBones_bio
+Decoration/Obstacle_Knott_6=Big Bone
+Decoration/Obstacle_Knott_6_bio=<ref>ObstacleCommonBones_bio
+
+Decoration/Obstacle_Knott_7=<ref>Decoration/Obstacle_Candy_1
+Decoration/Obstacle_Knott_7_bio=<ref>ObstacleKnottRock
+Decoration/Obstacle_Knott_8=<ref>Decoration/Obstacle_Candy_2
+Decoration/Obstacle_Knott_8_bio=<ref>ObstacleKnottRock
+Decoration/Obstacle_Knott_9=<ref>Decoration/Obstacle_Candy_3
+Decoration/Obstacle_Knott_9_bio=<ref>ObstacleKnottRock
+
+Decoration/Obstacle_Knott_10=Dug-out Black Hole
+Decoration/Obstacle_Knott_10_bio=A Black Hole with an artificial origin. How peculiar!
+
+Decoration/Obstacle_placable_Knott_1=<ref>Decoration/Obstacle_Knott_1
+Decoration/Obstacle_placable_Knott_1_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_2=<ref>Decoration/Obstacle_Knott_2
+Decoration/Obstacle_placable_Knott_2_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_3=<ref>Decoration/Obstacle_Knott_3
+Decoration/Obstacle_placable_Knott_3_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_4=<ref>Decoration/Obstacle_Knott_4
+Decoration/Obstacle_placable_Knott_4_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_placable_Knott_5=<ref>Decoration/Obstacle_Knott_5
+Decoration/Obstacle_placable_Knott_5_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_placable_Knott_6=<ref>Decoration/Obstacle_Knott_6
+Decoration/Obstacle_placable_Knott_6_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_placable_Knott_7=<ref>Decoration/Obstacle_Knott_7
+Decoration/Obstacle_placable_Knott_7_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_8=<ref>Decoration/Obstacle_Knott_8
+Decoration/Obstacle_placable_Knott_8_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_9=<ref>Decoration/Obstacle_Knott_9
+Decoration/Obstacle_placable_Knott_9_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
+Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
+
+Decoration/Dog=Dog
+Decoration/Dog_bio=Dog goD.
+
+str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
+str_lvl=Lvl:
+str_lvlMax=MAX
+str_noEmpty=Leave blank to shuffle...
+str_PlayerLvl=Level 
+str_unlocked=You have unlocked:
+str_unlockedatLevel=Unlocked at level: 
+str_locked=???
+str_TeleportUnavailable=Not available on this island
+str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>
+str_extra=Extra
+
+diamonds - <color=#4EFFF5>
+coins - <color="yellow">
+food - <color=#F318D1>
+
+str_currency_coins=Coins
+str_currency_diamonds=Diamonds
+str_currency_food=Food
+str_currency_foodB=Baby Food
+str_currency_stars=Starpower
+str_currency_BloodCells=Blood Cells
+str_currency_BlueLog=Knottshurr Log
+str_currency_Log=Log
+str_currency_Bone=Bone
+str_currency_Dew=Dew
+str_currency_Candycane=Candycane
+str_currency_Candycorn=Candycorn
+str_currency_Cattail=Cattail
+str_currency_Flower_blue=Blue Poppy
+str_currency_Flower_red=Rose
+str_currency_Flower_yellow=Dandelion
+str_currency_Fruit_apple=Stralleberry
+str_currency_Foam=Foam
+str_currency_Seaweed=Seawees
+str_currency_Peppermint=Peppermint
+str_currency_Rock=Rock
+str_currency_Vortex=Dark Matter
+str_currency_Wool=Fluff
+str_currency_xp=XP
+str_currency_LVL=Level
+
+
+str_currency_ITM_amberstick=AmberPop
+str_currency_ITM_flowerjam=Flower Jam
+str_currency_ITM_buttergum=Butterfly Gum
+str_currency_ITM_mushroombroth=Mushroom Broth
+str_currency_ITM_cake=Cake
+str_currency_ITM_bonybaguette=Bone Baguette
+str_currency_ITM_salad=Salad
+str_currency_ITM_grain=Grain
+str_currency_ITM_rootbeer=Rootbeer
+str_currency_ITM_flingdrink=Fling Drink
+str_currency_ITM_applejuice=Apple Juice
+str_currency_ITM_bloodcandy=Hematogen
+
+comes from strawberry and apple. Stra + le
+
+str_currency=Technical Var
+
+
+str_limitedTime=Available for a limited time
+str_limitedTimeTimer=Available for:\n<time>
+
+str_warning=Hold up!
+str_tutorial=Tutorial
+str_popup_sellEgg=Are you sure you want to sell this egg for <sprite name=coins><color="yellow"><amount>?
+str_popup_speedUp=Are you sure you want to speed up the proccess for <sprite name=diamonds><color=#4EFFF5><amount>?
+str_popup_notEnough_diamonds=You don't have enough <color=#4EFFF5>Diamonds.
+str_popup_notEnough_coins=You don't have enough <color="yellow">Coins.
+str_popup_notEnough_food=You don't have enough <color=#F318D1>Food.
+str_popup_notEnough_foodB=You don't have enough <color=#CDFF3D>Baby food.
+str_popup_notEnough_stars=You don't have enough <color=#FFA400>Starpower.
+str_popup_notEnough=You don't have enough <color=green>Items</color>.
+str_popup_sell=Are you sure you want to sell this for <sprite name=coins><color="yellow"><amount>?
+str_popup_designer_cancel=Are you sure you want to cancel all the changes made in Designer mode?
+str_popup_designer_save1=Are you sure you want to save? It will cost <sprite name=coins><color="yellow"><amount>
+str_popup_designer_save2=Are you sure you want to save? You will get <sprite name=coins><color="yellow"><amount>
+str_popup_designer_save3=Are you sure you want to save? It will cost you nothing.
+str_popup_bakery_bake=Are you sure you want to bake <sprite name=food><color=#F318D1><amount></color> for <sprite name=coins><color="yellow"><amount2></color>?
+str_popup_bakery_collectFirst=Collect your previous order first.
+str_popup_breeding=You must select <color="green">two</color> monsters with <color="green">level 4</color> or above.
+str_popup_breeding_repeat=You haven't bred monsters before. Breed something first.
+str_popup_breeding_repeatNoMonster=The monsters you have used to breed are no longer on the island.
+str_popup_shopLimit=You can't have more than <amount> of this.
+str_popup_TimedNotReady=This structure is still functioning. Please wait until its function is complete or speed it up.
+str_teleport_entityNotOnThisIsland=This Monster can't be placed on <color="green"><islandName></color>.
+str_teleport_entityLevelNotEnough=To place this monster on <color="green"><islandName></color> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return your monster back to <color="green">Floating City</color> and feed it until the required level.
+str_teleport_unavailable=The Zeppelin is currently at <color="green"><islandName></color>. You must send it here first.
+str_teleport_unavailable_sendHere=The Zeppelin is currently at <color="green"><islandName></color>.\nWould you like to send it here?
+str_teleport_flying=The Zeppelin is currently flying to <color="green"><islandName></color>. Wait until it arrives or speed it up.
+str_teleport_unavailable_monster=The Zeppelin is currently not on this island.
+str_popup_shopUnavailbable=<type> are unavailable on this island.
+str_popup_upgrade=Would you like to upgrade this for <amount> <type>?
+str_popup_upgrade_items=Would you like to upgrade this?\nIt will cost you:
+str_popup_unlock=You discovered:\n<name>
+str_popup_notOnThisIsland=This item is not available on this island.
+str_popup_masherNoItemsSelected=You need to select items to mash! If you have none, try collecting some, or crafting some!
+str_popup_masherLimitReached=You have reached the limit of items you can add to the Masher!
+str_popup_stargazerNotRightLevel=The Observatory can not be activated yet. Expand your island first.
+
+str_popup_mapIsalndNotFinished=This island is still in development! After it is completed, all your progress on this island will be reset. (Play at your own risk)
+
+str_popup_islandComingSoon=New and Exciting things coming soon!
+str_popup_islandAlreadyOn=You are already on this island.
+
+str_island_comingsoon=Coming Soon!
+
+str_island_City=Floating City
+str_island_City_bio=Floating City bio
+
+str_island_EM=Evergreen Marsh
+str_island_EM_bio=Evergreen Marsh bio
+
+str_island_Organs=Terra of Organs
+str_island_Organs_bio=Terra of Organs bio
+
+str_island_Knottshurr=Knottshurr Island
+str_island_Knottshurr_bio=Knottshurr Island bio
+
+str_island_Meduza=M'Duzza's Crypt
+str_island_Meduza_bio=M'Duzza's Crypt bio
+
+str_island_Desert=Noramba Desert
+str_island_Desert_bio=Noramba Desert bio
+
+str_island_Candy=Candy Island
+str_island_Candy_bio=Candy Island bio
+
+str_island_Calamity=Calamity Island
+str_island_Calamity_bio=Calamity Island bio
+
+str_island_TI=Tutor's Island
+str_island_TI_bio=bio
+
+str_island_GM=Gamma Water Island
+str_island_GM_bio=bio
+
+str_island_EgyptPipes=Youtube only (Don't edit)
+
+str_island_dream=island_demented_dream_ERROR:
+str_island_dream_bio=what the actual fwog
+
+str_island_lvl=Lvl <lvl>
+
+str_island_unlock=Unlocked at\n<color=green>Level <lvl>
+
+str_island_instant=Instant
+
+str_island_monstercount=<mon>/<max>
+
+str_time_d=D
+str_time_h=H
+str_time_m=M
+str_time_s=S
+
+str_time_ds=d
+str_time_hs=h
+str_time_ms=m
+str_time_ss=s
+
+str_cleardata=Clear
+
+str_nebulaTimerDays=<time> Days Remaning
+str_nebulaTimer=<time> Remaning
+
+str_stars_light=Luminous Beacon
+str_stars_psychic=Subconscious Spiral
+str_stars_bone=Osseous Cross
+str_stars_faerie=Wings of Whimsy
+
+str_stars_water=Ocean's Tears
+str_stars_fire=Core Aflame
+str_stars_plant=Growing Green
+str_stars_air=Weathered Winds
+str_stars_earth=Earthen Ellipse
+str_stars_cold=Frozen Form
+str_stars_crystal=Crystalline Crop
+str_stars_mech=Mettle Gears
+str_stars_electricity=Immortal Jolt
+str_stars_poison=Poison's Mark
+str_stars_shadow=Shadowed Glare
+str_stars_plasma=Plasmic Ooze
+
+str_class_Natural=Natural
+str_class_Natural-r=Natural(rare)
+str_class_Magical=Magical
+str_class_Magical-r=Magical(rare)
+str_class_Supernatural=Supernatural
+str_class_Supernatural-r=Supernatural(rare)
+str_class_Celestial=Celestial
+str_class_Celestial-s=Supercelestial
+str_class_Lost=Strayed
+str_class_Lost-r=Strayed(rare)
+str_class_Gamma=Gamma
+str_class_Seasonal=Seasonal
+str_class_Seasonal-r=Seasonal(rare)
+str_class_Ethereal=Ethereal
+str_class_Ethereal-r=Ethereal(rare)
+str_class_Dipster=Dipster
+str_class_Mythical=Mythical
+str_class_Mythical-r=Mythical(rare)
+str_class_Legendary=Legendary
+
+str_teleporter=Symphonic Zeppelin
+str_teleporter2=Zeppelin
+str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><sprite name=diamonds><amount></color>?
+str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>
+str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><islandName></color>.
+str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><islandName></color>?
+str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
+str_popup_knottmaker_locked=This item is unavailable. Upgrade your Amalgamator to unlock it.
+str_popup_knottmakerNotSelected=Nothing is selected.
+str_popup_knottmaker_fail=Your crafting failed! But items you used were converted to diamonds.\nYou get <sprite name=diamonds><color=#4EFFF5><amount></color>
+str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some of the items back!
+str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
+
+str_popup_tutor1=Welcome to <color="purple">The Lost Landscapes!</color>\nA fan-made <color="green">My Singing Monsters</color> game!
+str_popup_tutor2=Hello! I'm Floot Fly. This here is my pal Toe Jammer. Let's get more monsters on this island.
+str_popup_tutor3=Go get a <color="green">Tweedle.</color>
+str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n As well, a gift has appeared in your mailbox! Have fun and happy monstering!
+
+str_noitems=No Items
+
+btn_shop=Market
+btn_mailbox=Mailbox
+str_taptocollectrewards=Tap them to collect
+str_mailbox_reward_collected=Collected
+
+str_setting=Settings
+str_setting_zoomBTN=Use zoom slider
+str_setting_notifN=Send notifications
+str_setting_EF=Elephant Fart
+str_setting_ambient=Ambient sounds
+str_doubleRewards=DOUBLE
+\nREWARDS!
+
+btn_shop_monsters=Monsters
+btn_shop_decorations=Decorations
+btn_shop_deco_paths=Paths
+btn_shop_deco_trees=Trees
+btn_shop_deco_all=All
+btn_shop_deco_obstacles=Obstacles
+btn_shop_deco_other=Other
+btn_shop_structures=Structures
+btn_shop_currency=Currency
+
+btn_shop_celestials=Celestials
+btn_shop_babyMomsters=Young Monsters
+
+btn_move=Move
+btn_mute=Mute
+btn_unmute=Unmute
+btn_info=Info
+btn_buyMore=Buy More
+btn_designerMode=Designer Mode
+btn_place=Place
+btn_flip=Flip
+btn_cancel=Cancel
+btn_save=Save
+btn_close=Close
+btn_back=Back
+btn_buy=Buy
+btn_sell=Sell
+btn_designerMode_randFlip=Random Flip
+btn_designerMode_erase=Erase
+btn_designerMode_paint=Paint
+btn_designerMode_change=Change
+btn_designerMode_save=Save
+designerMode_totalCost=Total cost: <sprite name=coins><color="yellow"><amount>
+designerMode_sellFor=Sell for: <sprite name=coins><color="yellow"><amount>
+
+obstacleMode_totalCost=Total cost: <sprite name=<type>><col><amount>
+
+btn_changeTime=Time Warp
+btn_compose=Compose
+btn_breed=Breed
+btn_speedup=Speed Up
+btn_map=Map
+btn_bake=Bake
+btn_feed=Feed
+btn_remove=Remove
+btn_removeMany=Remove Multiple
+btn_apply=Apply
+btn_repeat=Repeat
+btn_collect=Collect
+btn_goals=Goals
+btn_collectAll=Collect all
+btn_ok=OK
+btn_prev=Previous
+btn_next=Next
+btn_stars=Stargazer
+btn_roll=Roll \n<color=#FFA400>25 Starpower
+btn_book=Collection
+btn_ship=Zeppelin
+btn_unlock=Unlock
+btn_lock=Lock
+btn_teleportSend=Send
+btn_inf_bio=Bio
+btn_inf_stats=Stats
+btn_inf_islands=Islands
+btn_zap=Zap
+btn_inventory=Inventory
+btn_wakeUp=Wake up
+btn_upgrade=Upgrade
+btn_view=View
+btn_settings=Settings
+btn_craft=Craft
+btn_mash=Mash
+btn_minigames=Minigames
+btn_activate=Activate
+
+goal_breed_buy=Buy and place a <color="green"><entityName>
+goal_breed_an=Breed and place an <color="green"><entityName>
+goal_breed=Breed and place a <color="green"><entityName>
+
+goal_celestial=Acquire a <color="green"><entityName>
+goal_celestial_an=Acquire an <color="green"><entityName>
+
+goal_flip=Use the <color="green">flip</color> button when moving a monster.
+goal_rename=Rename a <color="green">monster.
+goal_levelUp_5=Feed 1 Monster to level <color="green">5.
+goal_levelUp_10=Feed 1 Monster to level <color="green">10.
+goal_levelUp_15=Feed 1 Monster to level <color="green">15.
+goal_levelUp_20=Feed 1 Monster to level <color="green">20.
+goal_placeBakery=Buy and place a <color="green">Bakery.
+goal_placeBreeding=Buy and place a <color="green">Breeding Structure.
+goal_removeObstacles=Remove <color="green"><amount></color> Obstacles.
+goal_designerMode=Try out the <color="green">Path Designer Mode.
+goal_placeDeco=Buy and place <color="green">"<entityName>".
+goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
+
+str_setting_credits=Credits
+
+str_credits_main=T.L.L. by:
+str_credits_execProd=Support:
+str_credits_art=Art:
+str_credits_anim=Animations:
+str_credits_mus=Music:
+str_credits_musSec=Secondary Music:
+str_credits_va=Voice Acting:
+str_credits_concept=Concepts:
+str_credits_writing=Writing:
+str_credits_trans_rus=Russian Translation:
+str_credits_trans_pr=Portuguese Translation:
+str_credits_thanks=Special Thanks:
+str_credits_cityContest=Contest Winners:
+
+
+Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
+str_class_YOOL=<YOURMISSINGYOOL>
+
+Monsters/Monster_olga=Olgaropipe
+Monsters/Monster_olga_bio=Sent into the chronic void, Hyddryd's aquatic element overwhelmed all matter and reformed monsters into new identites, creating new monsters like the kind and soft Olgaropipe. Transformed, they now shimmered with luminescence, gaining the ability to manipulate water. United, they became protectors of the void, their movements echoing cosmic tides. Through liquid currents, they coordinate a mesmerizing symphony, bringing newfound equilibrium to the Gamma Water Island and the ruins of the Monster World.
+Monsters/Monster_potbellyGM=Kelpebbul
+Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins of the monster world being transferred to a realm outside of space and time, the islands we know and love were turned into Gamma Islands, their inhabitants reborn into spectacular new forms. One such example is the Kelpebbul, the reformed plant elemental, who dazzles with a dreamy demeanor and charms with the sweetest of smiles. These stone monsters have the power to imbue lifeforce into any plant, rejuvinating flora of all sorts and giving them means to vocalize. These sprouts tend to have strange and unique voices, a result of discovering their singing abilities the first time. 
+Monsters/Monster_quibbleGM=Jastanaw
+Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think. 

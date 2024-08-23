@@ -1,0 +1,18 @@
+# if not added here they will be 1 by default. If it's negative, that means it's a contaminate. It will decrease the food amount
+DEF 1 1200 1
+
+Candycorn 3 80 20
+Candycane 3 80 20
+Peppermint 3 40 10
+ITM_amberstick 1 260 10
+ITM_flowerjam 3 780 75
+ITM_buttergum 4 1040 50
+ITM_mushroombroth 8 73 1
+ITM_cake 10 1300 50
+ITM_bonybaguette 5 1300 100
+ITM_salad 2 520 15
+ITM_grain 2 520 25
+ITM_rootbeer 10 2600 93
+ITM_flingDrink 50 13000 483
+ITM_appleJuice 4 1040 34
+ITM_bloodcandy 1 1 1

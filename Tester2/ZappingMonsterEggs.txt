@@ -1,0 +1,32 @@
+
+Maulch EM
+Monsters/Monster_potbelly 5
+Monsters/Monster_tweedle 5
+Monsters/Monster_toejammer 5
+Monsters/Monster_flootfly 4
+Monsters/Monster_oaktopus 4
+Monsters/Monster_dandidoo 4
+Monsters/Monster_likho 3
+Monsters/Monster_wadee 3
+Monsters/Monster_varrow 3
+Monsters/Monster_quibble 4
+Monsters/Monster_spunge 3
+Monsters/Monster_choral 2
+Monsters/Monster_dulsylvan 2
+Monsters/Monster_banno 2
+Monsters/Monster_stoopa 1
+Monsters/Monster_bridgit 1
+Monsters/Monster_phangler 1
+Monsters/Monster_frondley 1
+;
+Maulch City
+Structures/Structure_bakery 2
+Decoration/Decoration_test1 2
+;
+Wheezel Organs
+Monsters/Monster_handmond 1
+Monsters/Monster_theremind 1
+Monsters/Monster_whimstlop 1
+Monsters/Monster_reebro 1
+
+
