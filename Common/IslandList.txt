@@ -10,3 +10,8 @@ GM
 Knottshurr
 Meduza
 dream
+Minigame_Thumpies
+Minigame_stacking
+Minigame_Simon
+Stargazer
+Credits
