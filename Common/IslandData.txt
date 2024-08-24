@@ -14,4 +14,3 @@ Minigame_stacking 0 Complete z
 Minigame_Simon 0 Complete z
 Stargazer 0 Complete z
 Credits 0 Complete z
-EgyptPipes 0 Complete z
