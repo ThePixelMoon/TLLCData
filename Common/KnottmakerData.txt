@@ -17,9 +17,14 @@
 1000 Monsters/Knott_2_rare 2 Log=5,Fabric=15,Jewel=5 15 36000 5
 1000 Monsters/Knott_5_rare 5 Jewel=20,Relic=3 15 36000 5
 
+1000 Monsters/Knott_4_rare-d 4 Jewel=25,Fabric=5,Relic=2 20 57600 10
 1000 Monsters/Knott_10_rare 10 Jewel=40,Relic=3 20 57600 10
+1000 Monsters/Knott_7_rare-d 7 Log=5,Fabric=10,Metal=20 20 57600 10
+1000 Monsters/Knott_8_rare-d 8 Log=10,Jewel=20,Fabric=15,Bone=10 20 57600 10
 
 1000 Monsters/Knott_9_rare 9 Log=15,Fabric=20,Jewel=50,Relic=10 25 86400 15
+1000 Monsters/Knott_3_rare-d 3 Log=30,Jewel=10,Metal=25,Relic=10 25 86400 15
+1000 Monsters/Knott_6_rare-d 6 Log=20,Jewel=40,Fabric=7,Bone=10,Relic=10 25 86400 15
 
 1000 Monsters/Knott_special_rare-d special Log=40,Jewel=40,Fabric=40,Metal=40,Relic=15 30 259200 15
 

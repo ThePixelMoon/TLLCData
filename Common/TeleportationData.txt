@@ -34,7 +34,6 @@ Monsters/Monster_knife= 1000
 Monsters/Monster_fleechwurm_undof= 1000
 Monsters/Monster_wubbox_undof= 1000
 Monsters/Monster_wubbox_rare_undof= 1000
-Monsters/Monster_jobo= 1000
 ;
 EM 3600 4
 Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
@@ -114,7 +113,6 @@ Monsters/Knott_7= 1
 Monsters/Knott_8= 1
 Monsters/Knott_9= 1
 Monsters/Knott_10= 1
-Monsters/Knott_special= 1
 ;
 Meduza 0
 Monsters/Monster_whimstlop= 0
@@ -145,7 +143,6 @@ Monsters/Monster_blasoom=Monsters/Monster_blasoom 0
 Monsters/Monster_punkleton_young=Monsters/Monster_punkleton 17
 
 
-Monsters/Monster_punkleton= 0
 Monsters/Monster_stogg_undof= 0
 Monsters/Monster_rootitoot= 0
 Monsters/Monster_pummel= 0
@@ -161,9 +158,6 @@ GM 86400 20
 Monsters/Monster_toejammer_young=Monsters/Monster_olga 20
 Monsters/Monster_potbelly_young=Monsters/Monster_potbellyGM 20
 Monsters/Monster_quibble_young=Monsters/Monster_quibbleGM 20
-Monsters/Monster_olga= 0
-Monsters/Monster_potbellyGM= 0
-Monsters/Monster_quibbleGM= 0
 ;
 dream 0 -999
 Monsters/Monster_mammott_young=Monsters/Monster_mammott_dream 0

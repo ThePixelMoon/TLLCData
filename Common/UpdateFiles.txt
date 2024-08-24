@@ -1,8 +1,8 @@
 sdfghjkfgdfgfffffffffff78
 
 
-desert_midi midi-d
-desert_sound audio-d Desert
+desert_midi midi
+desert_sound audio Desert
 monster_trox entity-d Monsters/Monster_trox
 
 desert_scene scene-d Desert

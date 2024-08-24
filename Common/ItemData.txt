@@ -7,9 +7,8 @@ Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
 Fruit_apple 10 flowers
-Berries 10 flowers
 ;
-Island_EM: 75 150
+Island_EM: 110 150
 Flower_red 10 flowers
 Flower_yellow 10 flowers
 Flower_blue 15 flowers
@@ -40,7 +39,7 @@ Fruit_apple 100 fruits
 Fruit_orange 50 fruits
 Fruit_pear 10 fruits
 ;
-Island_TI: 20 40
+Island_TI: 40 40
 Dew 33 dewSpawn
 ;
 Island_Organs: 40 40

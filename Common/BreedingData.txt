@@ -22,8 +22,8 @@ Monsters/Monster_dulsylvan_rare 35 _rare
 Monsters/Monster_banno 35
 Monsters/Monster_stoopa 20
 
-Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 50
-Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 30
+Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 5
+Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 5
 
 Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 0
 Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 0
@@ -31,7 +31,7 @@ Monsters/Monster_frondley=Monsters/Monster_oaktopus+Monsters/Monster_dandidoo 0
 
 Monsters/Monster_toejammer_rare=Monsters/Monster_wadee+Monsters/Monster_quibble 4
 Monsters/Monster_oaktopus_rare=Monsters/Monster_quibble+Monsters/Monster_banno 4
-Monsters/Monster_quibble_rare=Monsters/Monster_stoopa+Monsters/Monster_flootfly 4
+Monsters/Monster_quibble_rare=Monsters/Monster_wadee+Monsters/Monster_dandidoo 4
 Monsters/Monster_varrow_rare=Monsters/Monster_likho+Monsters/Monster_stoopa 4
 Monsters/Monster_spunge_rare=Monsters/Monster_wadee+Monsters/Monster_toejammer 4
 Monsters/Monster_dulsylvan_rare=Monsters/Monster_dandidoo+Monsters/Monster_banno 4

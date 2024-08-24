@@ -7,7 +7,6 @@ Mushroom_2
 Fruit_apple
 Fruit_pear
 Fruit_orange
-Berries
 Log
 BlueLog
 Rock

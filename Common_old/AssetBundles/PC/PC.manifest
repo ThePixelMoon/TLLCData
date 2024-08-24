@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4221521189
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: monster_cataliszt
+      Dependencies: {}
+    Info_1:
+      Name: monster_ghazt_undof
+      Dependencies: {}
+    Info_2:
+      Name: dream
+      Dependencies: {}
+    Info_3:
+      Name: dreamaudio
+      Dependencies: {}

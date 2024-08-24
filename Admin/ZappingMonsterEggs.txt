@@ -31,7 +31,7 @@ Monsters/Monster_sprinklate 4
 ;
 Wubbox Candy
 Monsters/Monster_toejammer_undof 1
-Monsters/Monster_kayna_undof 1
+Monsters/Monster_kanya_undof 1
 Monsters/Monster_noggin_undof 1
 Monsters/Monster_fwog_undof 1
 Monsters/Monster_thrumble_undof 1
@@ -48,7 +48,7 @@ Monsters/Monster_sprinklate 1
 ;
 Wubbox_rare Candy
 Monsters/Monster_toejammer_rare_undof 1
-Monsters/Monster_kayna_rare_undof 1
+Monsters/Monster_kanya_rare_undof 1
 Monsters/Monster_noggin_rare_undof 1
 Monsters/Monster_fwog_rare_undof 1
 Monsters/Monster_thrumble_rare_undof 1

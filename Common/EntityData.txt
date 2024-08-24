@@ -145,17 +145,17 @@ Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost wh
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 
 
-Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_1 0 0
-Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_2 0 0
-Monsters/Knott_3 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_3 0 0
-Monsters/Knott_4 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_4 0 0
-Monsters/Knott_5 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_5 0 0
-Monsters/Knott_6 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_6 0 0
-Monsters/Knott_7 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_7 0 0
-Monsters/Knott_8 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_8 0 0
-Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_9 0 0
-Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_10 0 0
-Monsters/Knott_special diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=10@43200@diamonds=10,stars=20 Lost ,Knott_special 0 0
+Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_1 0 0
+Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_2 0 0
+Monsters/Knott_3 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_3 0 0
+Monsters/Knott_4 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_4 0 0
+Monsters/Knott_5 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_5 0 0
+Monsters/Knott_6 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_6 0 0
+Monsters/Knott_7 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_7 0 0
+Monsters/Knott_8 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_8 0 0
+Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_9 0 0
+Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 diamonds=1,stars=10,stars=1@43200@diamonds=2,stars=1 Lost ,Knott_10 0 0
+Monsters/Knott_special diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=10,stars=1@43200@diamonds=10,stars=2,stars=1 Lost ,Knott_special 0 0
 
 Monsters/Knott_1_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_1_rare 0 0
 Monsters/Knott_2_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_2_rare 0 0
@@ -203,8 +203,6 @@ Monsters/Monster_gumtromp coins=25000 candy 21600 7 coins=4@60@coins=57 Lost gum
 Monsters/Monster_gumtromp_rare diamonds=225 candy 28800 14 coins=8@60@coins=100 Lost-r gumtromp_rare,gumtromp_rare 0 0
 
 Monsters/Monster_keytrus diamonds=300 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus,keytrus 0 0
-Monsters/Monster_keytrus_rare diamonds=400 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus_rare,keytrus_rare 0 0
-
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
 Monsters/Monster_marshflamo diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
 Monsters/Monster_brasscuit diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit,brasscuit 0 0
@@ -221,13 +219,13 @@ Monsters/Monster_knife diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 M
 
 Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 5
 
-Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 10
-Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 10
-Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 10
-Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 10
-Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 10
-Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 10
-Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 10
+Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
+Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 0
+Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 0
+Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 0
+Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 0
+Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
+Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
 
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
@@ -282,15 +280,6 @@ EM_path7 coins=175 0 0
 Organ_path1 coins=500 0 0
 Organ_path2 coins=500 0 0
 Organ_path3 coins=850 0 0
-
-Candy_path1 coins=500 0 0
-Candy_path2 coins=500 0 0
-Candy_path3 coins=500 0 0
-Candy_path4 coins=500 0 0
-Candy_path5 coins=500 0 0
-Candy_path6 coins=500 0 0
-Candy_path7 coins=500 0 0
-Candy_path8 coins=500 0 0
 
 Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 

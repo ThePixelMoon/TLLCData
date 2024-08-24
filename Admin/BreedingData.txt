@@ -8,7 +8,6 @@ Monsters/Monster_flootfly 70
 Monsters/Monster_oaktopus 70
 Monsters/Monster_oaktopus_rare 70 _rare
 Monsters/Monster_quibble 70
-Monsters/Monster_quibble_rare 70 _rare
 Monsters/Monster_dandidoo 70
 Monsters/Monster_wadee 65
 Monsters/Monster_likho 65
@@ -22,21 +21,21 @@ Monsters/Monster_dulsylvan_rare 35 _rare
 Monsters/Monster_banno 35
 Monsters/Monster_stoopa 20
 
-Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 5
-Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 5
+Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 100
+Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 100
 
 Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 0
 Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 0
 Monsters/Monster_frondley=Monsters/Monster_oaktopus+Monsters/Monster_dandidoo 0
 
 Monsters/Monster_toejammer_rare=Monsters/Monster_wadee+Monsters/Monster_quibble 4
-Monsters/Monster_oaktopus_rare=Monsters/Monster_quibble+Monsters/Monster_banno 4
-Monsters/Monster_quibble_rare=Monsters/Monster_stoopa+Monsters/Monster_flootfly 4
-Monsters/Monster_varrow_rare=Monsters/Monster_likho+Monsters/Monster_stoopa 4
+Monsters/Monster_oaktopus_rare=Monsters/Monster_choral+Monsters/Monster_banno 4
+Monsters/Monster_quibble_rare=Monsters/Monster_wadee+Monsters/Monster_dandidoo 4
+Monsters/Monster_varrow_rare=Monsters/Monster_tweedle+Monsters/Monster_dulsylvan 4
 Monsters/Monster_spunge_rare=Monsters/Monster_wadee+Monsters/Monster_toejammer 4
 Monsters/Monster_dulsylvan_rare=Monsters/Monster_dandidoo+Monsters/Monster_banno 4
-Monsters/Monster_banno_rare=Monsters/Monster_oaktopus+Monsters/Monster_toejammer 4
-Monsters/Monster_phangler_rare=Monsters/Monster_dulsylvan+Monsters/Monster_choral 4
+Monsters/Monster_banno_rare=Monsters/Monster_quibble+Monsters/Monster_dulsylvan 4
+Monsters/Monster_phangler_rare=Monsters/Monster_dulsylvan+Monsters/Monster_likho 4
 ;
 City:
 Monsters/Monster_potbelly_young 85
@@ -81,34 +80,23 @@ Monsters/Monster_whimstlop=Monsters/Monster_handmond+Monsters/Monster_cybop 40
 ;
 Candy:
 Monsters/Monster_toejammer_undof 85
-Monsters/Monster_toejammer_undof_rare 85 _rare
 Monsters/Monster_kayna_undof 85
 Monsters/Monster_kayna_rare_undof 85 _rare
 Monsters/Monster_noggin_undof 85
 Monsters/Monster_noggin_rare_undof 85 _rare
 Monsters/Monster_fwog_undof 70
 Monsters/Monster_thrumble_undof 30
-Monsters/Monster_thrumble_rare_undof 30 _rare
 Monsters/Monster_phangler_undof 40
-Monsters/Monster_phangler_rare_undof 40 _rare
-Monsters/Monster_stogg_rare_undof 40
-Monsters/Monster_stogg_undof 40 _rare
+Monsters/Monster_stogg_undof 40
 Monsters/Monster_gumtromp 70
 Monsters/Monster_gumtromp_rare 70 _rare
 Monsters/Monster_keytrus 25
-Monsters/Monster_keytrus_rare 25 _rare
 Monsters/Monster_koodahcane 35
-Monsters/Monster_koodahcane_rare 35 _rare
 Monsters/Monster_marshflamo 20
-Monsters/Monster_marshflamo_rare 20 _rare
 Monsters/Monster_brasscuit 35
-Monsters/Monster_brasscuit_rare 35 _rare
 Monsters/Monster_gobstomper 20
-Monsters/Monster_gobstomper_rare 20 _rare
 Monsters/Monster_claramel 35
-Monsters/Monster_claramel_rare 35 _rare
 Monsters/Monster_sprinklate 15
-Monsters/Monster_sprinklate_rare 15 _rare
 
 Monsters/Monster_gumtromp_rare=Monsters/Monster_brasscuit+Monsters/Monster_claramel 10
 Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_claramel 10
@@ -118,10 +106,6 @@ Monsters/Monster_noggin_rare_undof=Monsters/Monster_brasscuit+Monsters/Monster_t
 Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_thrumble_undof 10
 Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_brasscuit 10
 
-Monsters/Monster_toejammer_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_thrumble_undof 10
-Monsters/Monster_toejammer_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_calramel 10
-Monsters/Monster_toejammer_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 10
-
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_brasscuit 10
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_claramel+Monsters/Monster_brasscuit 10
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 10
@@ -130,8 +114,6 @@ Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monst
 Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 3
 
 Monsters/Monster_jamboree_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 4
-Monsters/Monster_jamboree_rare_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 2
-
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 2
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 2
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 2

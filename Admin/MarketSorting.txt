@@ -1,6 +1,6 @@
 
 EM
-monsters:monsters=btn_shop_monsters
+monsters:monsters=btn_shop_monsters,monster_secret=btn_shop_monsters,monster_rares=btn_shop_monsters
 decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_obstacles=btn_shop_deco_obstacles,deco_other=btn_shop_deco_other
 structures:structures
 composer:composer
@@ -36,7 +36,7 @@ structures:structures
 composer:composer
 ;
 Candy
-monsters:monsters=btn_shop_monsters,monsters_rare=btn_shop_monsters_rare
+monsters:monsters=btn_shop_monsters
 decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_obstacles=btn_shop_deco_obstacles,deco_other=btn_shop_deco_other
 structures:structures
 composer:composer

@@ -5,7 +5,7 @@ Monsters/Monster_toejammer diamonds=25
 Monsters/Monster_potbelly diamonds=25
 Monsters/Monster_tweedle diamonds=25
 Monsters/Monster_flootfly diamonds=25
-Monsters/Monster_oaktopus diamonds=50
+Monsters/Monster_oaktopus diamonds=30
 Monsters/Monster_dandidoo diamonds=50
 Monsters/Monster_likho diamonds=75
 Monsters/Monster_wadee diamonds=75
@@ -60,6 +60,7 @@ Structures/Structure_breeding
 Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_bass
+Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -127,10 +128,10 @@ Monsters/Monster_tweedle_young
 Monsters/Monster_toejammer_young
 Monsters/Monster_noggin_young
 Monsters/Monster_kayna_young
-Monsters/Monster_fluoress_young coins=200
-Monsters/Monster_theremind_young coins=300
-Monsters/Monster_flootfly_young coins=300
-Monsters/Monster_clackula_young coins=400
+Monsters/Monster_fluoress_young
+Monsters/Monster_theremind_young
+Monsters/Monster_flootfly_young
+Monsters/Monster_clackula_young
 Monsters/Monster_oaktopus_young
 Monsters/Monster_dandidoo_young
 Monsters/Monster_maw_young
@@ -148,8 +149,22 @@ Monsters/Monster_gloptic_young
 Monsters/Monster_punkleton_young
 -
 monsters_celestials:
+Monsters/Monster_hornacle
+Monsters/Monster_loodvigg
+Monsters/Monster_blasoom
+Monsters/Monster_torrt
+Monsters/Monster_scaratar
+Monsters/Monster_syncopite
 Monsters/Monster_attmoz
+Monsters/Monster_vhamp
+Monsters/Monster_furnoss
+Monsters/Monster_glaishur
+Monsters/Monster_galvana
+Monsters/Monster_plixie
+Monsters/Monster_light 
+Monsters/Monster_psychic
 Monsters/Monster_faerie
+Monsters/Monster_bone
 -
 decorations:
 Decoration/Decoration_test
@@ -169,9 +184,11 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_crafter
 Structures/Structure_masher
 Structures/Structure_breeding_city
 Structures/Structure_jukebox
+Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -247,6 +264,7 @@ Decoration/Obstacle_placable_Knott_10
 -
 structures:
 Structures/Structure_bakery
+Structures/Structure_timemachine
 
 -
 deco_paths:
@@ -319,6 +337,7 @@ structures:
 Structures/Structure_breeding
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 -
 deco_paths:
 Organ_path1
@@ -348,16 +367,16 @@ Decoration/Dog
 ;
 Meduza
 monsters:
-Monsters/Monster_mammott_meduza diamonds=10
-Monsters/Monster_noggin_meduza diamonds=10
-Monsters/Monster_theremind_meduza diamonds=10
-Monsters/Monster_maw_meduza diamonds=10
-Monsters/Monster_knucklehead_meduza diamonds=10
-Monsters/Monster_sox_meduza diamonds=10
-Monsters/Monster_pummel_meduza diamonds=10
-Monsters/Monster_pongping_meduza diamonds=10
-Monsters/Monster_whimstlop_meduza diamonds=10
-Monsters/Monster_meduza diamonds=60
+Monsters/Monster_mammott_meduza diamonds=1000
+Monsters/Monster_noggin_meduza diamonds=1000
+Monsters/Monster_theremind_meduza diamonds=1000
+Monsters/Monster_maw_meduza diamonds=1000
+Monsters/Monster_knucklehead_meduza diamonds=1000
+Monsters/Monster_sox_meduza diamonds=1000
+Monsters/Monster_pummel_meduza diamonds=1000
+Monsters/Monster_pongping_meduza diamonds=1000
+Monsters/Monster_whimstlop_meduza diamonds=1000
+Monsters/Monster_meduza diamonds=10000
 -
 decorations:
 Decoration/Decoration_test
@@ -377,6 +396,7 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_timemachine
 
 -
 deco_paths:
@@ -414,9 +434,8 @@ Monsters/Monster_scaratar diamonds=3500
 Monsters/Monster_flootfly diamonds=75
 Monsters/Monster_furcorn diamonds=125
 Monsters/Monster_rootitoot diamonds=150
-Monsters/Monster_trox Vortex=3
-Monsters/Monster_spurrit_desert Vortex=4
-Monsters/Monster_bisonorus Vortex=1
+Monsters/Monster_spurrit_desert diamonds=1000
+Monsters/Monster_bisonorus diamonds=225
 -
 monster_rares:
 -
@@ -440,6 +459,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 
 -
 deco_paths:
@@ -503,27 +523,7 @@ Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
 Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
--
-monsters_rare:
-Monsters/Monster_toejammer_rare_undof
-Monsters/Monster_noggin_rare_undof
-Monsters/Monster_kayna_rare_undof
-Monsters/Monster_gumtromp_rare
-Monsters/Monster_fwog_rare_undof
-Monsters/Monster_stogg_rare_undof
-Monsters/Monster_phangler_rare_undof
-Monsters/Monster_marshflamo_rare
-Monsters/Monster_koodahcane_rare
-Monsters/Monster_gobstomper_rare
-Monsters/Monster_thrumble_rare_undof
-Monsters/Monster_keytrus_rare
-Monsters/Monster_claramel_rare
-Monsters/Monster_brasscuit_rare
-Monsters/Monster_sprinklate_rare
-Monsters/Monster_jamboree_rare_undof
-Monsters/Monster_ghazt_rare_undof
-Monsters/Monster_knife_rare
-Monsters/Monster_wubbox_rare_undof
+Monsters/Monster_treble
 -
 decorations:
 Decoration/Decoration_test
@@ -553,16 +553,10 @@ Structures/Structure_breeding_undof
 Structures/Structure_breeding_undof2
 Structures/Structure_breeding_undof3
 Structures/Structure_bakery
+Structures/Structure_timemachine
 -
 deco_paths:
-Candy_path1
-Candy_path2
-Candy_path3
-Candy_path4
-Candy_path5
-Candy_path6
-Candy_path7
-Candy_path8
+EM_path1
 -
 deco_trees:
 Decoration/Decoration_test
@@ -595,22 +589,22 @@ Decoration/Obstacle_placable_Candy_6
 Calamity
 monsters:
 Monsters/Monster_stogg_undof
-Monsters/Monster_varrow Vortex=1
-Monsters/Monster_boskus Vortex=1
-Monsters/Monster_pango Vortex=1
-Monsters/Monster_denchuhs Vortex=1
-Monsters/Monster_banno Vortex=1
+Monsters/Monster_varrow
+Monsters/Monster_boskus
+Monsters/Monster_pango
+Monsters/Monster_denchuhs
+Monsters/Monster_banno
 Monsters/Monster_rootitoot
-Monsters/Monster_pummel Vortex=1
-Monsters/Monster_clamble Vortex=1
-Monsters/Monster_deedge Vortex=1
-Monsters/Monster_tiawa Vortex=1
-Monsters/Monster_arackulele Vortex=1
+Monsters/Monster_pummel
+Monsters/Monster_clamble
+Monsters/Monster_deedge
+Monsters/Monster_tiawa
+Monsters/Monster_arackulele
 Monsters/Monster_punkleton
-Monsters/Monster_ffydill Vortex=1
+Monsters/Monster_ffydill
 Monsters/Monster_blasoom
-Monsters/Monster_poewk Vortex=1
-Monsters/Monster_pixolotl Vortex=1
+Monsters/Monster_poewk
+Monsters/Monster_pixolotl
 -
 decorations:
 Decoration/Decoration_test
@@ -632,6 +626,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -658,11 +653,11 @@ Decoration/Dog
 ;
 TI
 monsters:
-Monsters/Monster_quibble diamonds=400
-Monsters/Monster_oaktopus diamonds=400
-Monsters/Monster_reedling_young_singer diamonds=600
+Monsters/Monster_quibble
+Monsters/Monster_oaktopus
+Monsters/Monster_reedling_young_singer
 Monsters/Monster_loodvigg
-Monsters/Monster_spurrit Vortex=10
+Monsters/Monster_spurrit
 -
 decorations:
 Decoration/Decoration_test
@@ -684,6 +679,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -710,8 +706,8 @@ Decoration/Dog
 ;
 dream
 monsters:
-Monsters/Monster_cataliszt diamonds=50
-Structures/Structure_jukebox_dream coins=3070
+Monsters/Monster_cataliszt diamonds=10
+Structures/Structure_jukebox_dream coins=307030
 -
 monsters2:
 Monsters/Monster_mammott_dream
@@ -723,9 +719,8 @@ Monsters/Monster_deedge_dream
 ;
 GM
 monsters:
-Monsters/Monster_olga diamonds=1000
-Monsters/Monster_potbellyGM diamonds=1000
-Monsters/Monster_quibbleGM diamonds=2000
+Monsters/Monster_olga
+Monsters/Monster_potbellyGM
 -
 decorations:
 Decoration/Decoration_test
@@ -770,7 +765,17 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
 ;
-test
-deco_paths:
-EM_path1
+EgyptPipes
+monsters:
+Monsters/Bonapetite
+Monsters/Congle
+Monsters/Gnarls
+Monsters/Krillby
+Monsters/Pladdie
+Monsters/Buzzinga
+Monsters/Shlep
+Monsters/Scaratar
+Monsters/Loodvigg
+Monsters/Uuduk
+Monsters/Whimmzies
 ;

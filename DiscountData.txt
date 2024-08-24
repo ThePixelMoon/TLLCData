@@ -9,17 +9,6 @@ CostOverwrite=250,diamonds
 HasDeadline=true
 Deadline=11/14/2023 03:01:09 PM
 ;
-ID=Monsters/Monster_jobo
-MarketSortersID=monsters
-IsIslandSpecific=true
-Islands=Candy
-ShowOldCost=true
-HasCostOvrwrite=true
-IsCostOvrwritePercentage=true
-CostOverwrite=50
-HasDeadline=true
-Deadline=11/26/2023 12:00:00 AM
-;
 ID=Monsters/Monster_varrow_rare
 MarketSortersID=monsters
 IsIslandSpecific=true

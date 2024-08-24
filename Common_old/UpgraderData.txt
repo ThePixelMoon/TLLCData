@@ -1,0 +1,21 @@
+
+Castle Candy
+Structures/Structure_castle_undof 60 coins=10000 10000
+Structures/Structure_castle_undof2 3600 coins=18000 15000
+Structures/Structure_castle_undof3 18000 coins=26000 20000
+Structures/Structure_castle_undof4 36000 diamonds=10 20000
+Structures/Structure_castle_undof5 54000 diamonds=16 20000
+Structures/Structure_castle_undof6 86400 diamonds=20 20000
+;
+Castle Placeholder
+Structures/Structure_castle_undof 60 coins=10000 10000
+;
+Breeding Candy
+Structures/Structure_breeding_undof 0 diamonds=25 10000
+Structures/Structure_breeding_undof2 0 diamonds=25 10000
+;
+Knottmaker Knottshurr
+Structures/Structure_knottmaker1 0 BlueLog=10,Rock=10,Vortex=3 10000
+Structures/Structure_knottmaker2 0 BlueLog=10,Rock=15,Bone=10,Vortex=3 10000
+Structures/Structure_knottmaker3 0 BlueLog=20,Rock=20,Bone=20,Wool=20,Vortex=5 10000
+Structures/Structure_knottmaker4 0 diamonds=25 10000

@@ -220,7 +220,7 @@ Monsters/Monster_flootfly=Mosca-da-Flauta
 Monsters/Monster_flootfly_bio=A mística Mosca-da-Flauta é um dos monstros mais comuns de se encontras nas Paisagens Perdidas, pois, ele é um dos mais amigáveis nos arredores! Moscas-da-Flauta amam fazer festas do chá nos lugares mais bizarros! Convites para uma festa do chá são sempre reverenciados e aceitos com alegria, porque é um ótimo lugar para socializar e fofocar!
 
 Monsters/Monster_clackula_young=Estrácula Bebê
-Monsters/Monster_clackula_young_bio=Apesar de tímido e quieto, as mãos de um pequeno Estrácula tem uma ótima utilidade! O formato afiado e o corte de seus dentes de leite, causam uma impressão assustadora para outros monstros, seus companheiros de ilha fazem questão de manter a calma e paciência com esse monstro, afinal, Estráculas estão frequentemente aprendendo a se comportar e ter boas maneiras numa mesa de jantar por exemplo... 
+Monsters/Monster_clackula_young_bio=Young Clackula bio
 
 Monsters/Monster_clackula=Estrácula
 Monsters/Monster_clackula_bio=Clackula bio
@@ -289,10 +289,11 @@ Monsters/Monster_stoopa=Stupa
 Monsters/Monster_stoopa_bio=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
 
 Monsters/Monster_gloptic=Visscolha
-Monsters/Monster_gloptic_bio=vi
+Monsters/Monster_gloptic_bio=Young Gloptic bio
 
 Monsters/Monster_gloptic_young=Visscolha Bebê
-Monsters/Monster_gloptic_young_bio=A glótica Visscolha Jovem é conhecida por sua pele escorregadia e muco pegajoso, resultado de quedas causadas pela falta de jeito juvenil. Adaptadas a uma gravidade mais baixa, essas criaturas possuem globos oculares grandes e expostos, mas surpreendentemente, não são alvos fáceis. Uma camada espessa ao redor dos olhos, como uma lente protetora evolutiva, protege contra danos diretos. No entanto, essa lente acumula o muco natural, retardando sua visão e contribuindo para mais escorregões. O habitat ideal para a Visscolha Jovem deve incluir preenchimento para suavizar suas quedas e facilitar seu desenvolvimento.
+Monsters/Monster_gloptic_young_bio=Young Gloptic bio
+
 
 ###--Mythicals------------------------------------------###
 Monsters/Monster_wheezel=Sibilinha
@@ -477,23 +478,23 @@ Monsters/VOIDCORN=<color="red">V O I D C O R N
 WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
 
 Monsters/Monster_dipster_1=Dó
-Monsters/Monster_dipster_1_bio=
-Tímidos à luz solar, os Acanhados constroem suas casas no subsolo. A música abafada que vem de cima dá aos Acanhados a coragem de se levantarem e se juntarem à melodia harmoniosa,  mesmo que seja apenas uma nota de cada vez... Os Acanhados são criaturas engenhosas e coletam materiais naturais para enfeitar as entradas de seus túneis e diferencia-las dos demais. Ninguém sabe até onde vai um buraco de um Acanhado, apenas eles mesmos!
+Monsters/Monster_dipster_1_bio=Do bio
 Monsters/Monster_dipster_2=Ré
-Monsters/Monster_dipster_2_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_2_bio=Re bio
 Monsters/Monster_dipster_3=Mi
-Monsters/Monster_dipster_3_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_3_bio=Mi bio
 Monsters/Monster_dipster_4=Fá
-Monsters/Monster_dipster_4_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_4_bio=Fa bio
 Monsters/Monster_dipster_5=Sol
-Monsters/Monster_dipster_5_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_5_bio=Sol bio
 Monsters/Monster_dipster_6=Lá
-Monsters/Monster_dipster_6_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_6_bio=La bio
 Monsters/Monster_dipster_7=Si
-Monsters/Monster_dipster_7_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_7_bio=Si bio
 
 Monsters/Monster_percFrog=Sapatida
-Monsters/Monster_percFrog_bio=Sapinho :), Como vc conseguiu ele??
+Monsters/Monster_percFrog_bio=Amphibeat is a frog. How did you even get this monster? Did you get the combo from my 20k special video? If not then idk..    Azu wuz here :3
+
 
 #--STRUCTURES--##
 ###--Castles------------------------------------------###
@@ -629,7 +630,7 @@ Monsters/Monster_stogg_undof=Estegão
 Monsters/Monster_stogg_undof_bio=Como ávidos colecionadores de rochas, Estegães adoram cavar a terra com suas poderosas pernas dianteiras para encontrar novos minerais brilhantes. Infelizmente, este Monstro distraído também gosta de enterrar seu tesouro, muitas vezes esquecendo a localização logo depois.
 
 Monsters/Monster_thrumble_undof=Cantarolador
-Monsters/Monster_thrumble_undof_bio=Ávidos e com bocas largas, Cantaroladores tendem a engolir Agrados inteiros. Suas gargantas alongadas podem se espremer e se esticar para fornecer aos Agrados tempo suficiente para serem pulverizados pelas reverberações da vvibração da assinatura deste Monstro desajeitado. Ao zumbir com o estomago vazio, seus bolsões de ar borbulhantes podem se expandir e provocar uma súbita onda de risadinhas!
+Monsters/Monster_thrumble_undof_bio=EscaramuÃ§a de sÃ¡bado  Lanches Ã¡vidos com bocas largas, Cantaroladores tendem a engolir Agrados inteiros. Suas gargantas alongadas podem se espremer e se esticar para fornecer aos Agrados tempo suficiente para serem pulverizados pelas reverberaÃ§Ãµes da vibraÃ§Ã£o da assinatura deste Monstro desajeitado. Ao zumbir com o estÃ´mago vazio, bolsÃµes de ar borbulhantes podem se expandir e provocar uma sÃºbita onda de risadinhas!
 
 ###--Candy------------------------------------------###
 Monsters/Monster_knife=Dangata
@@ -693,32 +694,36 @@ Monsters/Monster_fleechwurm_undof_awake_bio=Além de serem usados para tocar mú
 
 #--PATHS--#
 EM_path1=Caminho de Pedras Encharcadas
+
 EM_path2=Caminho de Pedrinhas Pingando
+
 EM_path3=Grama Brilhante #1
+
 EM_path4=Grama Brilhante #2
+
 EM_path5=Caminho do Toco 
+
 EM_path6=Lascas de Madeira
+
 EM_path7=Caminho de Bolharito Super-Crescido 
 
 Desert_path1=Caminho de Âmbar
+
 Desert_path2=Caminho da Relíquia
+
 Desert_path3=Caminho da Flolhagem Petrificada
+
 Desert_path4=Tilojos de Areia
+
 Desert_path5=Tilojos de Areia Corbertos
+
 Desert_path6=Tilojo de Areia
 
 Organ_path1=Caminho da Célula De Sangue Vermelha
-Organ_path2=Caminho de Glóbulos Brancos
-Organ_path3=Caminho de Bolharito Hematógeno
 
-Candy_path1=caminho de Biscoito
-Candy_path2=Caminho de Chocolíto 
-Candy_path2=Caminho de Chocolíto Branco
-Candy_path3=Caminho de Algodão Doce Azul
-Candy_path4=Caminho de Algodão Doce Rosa
-Candy_path5=Caminho de Chiclete Mascado
-Candy_path6=Caminho de Farelos
-Candy_path7=Caminho de Granulados Surpresa
+Organ_path2=Caminho da Célula De Sangue Vermelha
+
+Organ_path3=Caminho de Bolharito Hematógeno
 
 #--DECORATIONS--##
 Decoration/Decoration_test=Notárvore
@@ -957,9 +962,6 @@ str_currency_ITM_rootbeer=Raizveja
 str_currency_ITM_flingdrink=Coisinha de Beber
 str_currency_ITM_applejuice=Suquinho de Maça
 str_currency_ITM_bloodcandy=Gematogen
-str_currency_Dew=Orvalho
-str_currency_Foam=Espuma
-str_currency_Seaweed=Algas
 
 str_currency=Variável Técnica
 str_noitems - Sem itens
@@ -993,8 +995,7 @@ str_teleport_entityLevelNotEnough=Para colocar esse monstro em <color="green"><i
 str_teleport_unavailable=O Zepelim está <color="green"><islandName></color> no momento. Você tem que trazê-lo até aqui primeiro.
 str_teleport_flying=O Zepelim está voando até <color="green"><islandName></color>. Espere até que ele chegue ao seu destino ou o acelero com diamantes
 str_teleport_unavailable_monster=O Zepelim não está nessa ilha.
-str_teleport_unavailable_sendHere=O Zepelim está em <islandName> no momento.\nQuer traze-lo até aqui?
-str_popup_shopUnavailbable=<type> indisponível nesta ilha!
+str_popup_shopUnavailbable=<type> indisponpível nesta ilha!
 str_popup_upgrade=Quer melhorar isso por <amount> <type>?
 str_popup_upgrade_items=Quer melhorar isso?\nIsso irá te custar:
 str_popup_notEnough=Você não tem <color=green>Itens</color> o suficiente.
@@ -1060,12 +1061,9 @@ str_island_TI_bio=bio
 str_island_GM=Ilha de Água da Matriz
 str_island_GM_bio=bio
 
+
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=mais que carvalhos é isso-
-
-str_dunes_release=Bem Vindo às Dunas Arcaicas
-str_dunes_desc=Essa ilha, anteriormente considerada inacessível, habilitou o Zepelim a voar até essa dimensão com o poder e mágia do Hei!
-str_dunes_skyship=Teleportar até as Dunas Arcaicas? Isso irá transformar seus monstros em casulos de areia.
 
 #--STARS--##
 str_stars_light=Sinal Luminoso

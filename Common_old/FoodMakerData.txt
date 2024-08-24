@@ -1,0 +1,5 @@
+ITM_flowerjam Flower_blue=10,Lilly=5,Cattail=10 2
+ITM_buttergum Butterfly=4,Candycane=3 4
+ITM_cake food=50 2
+ITM_bonybaguette Bone=1,ITM_grain=4 1
+ITM_grain Cattail=10,Flower_yellow=5 4
