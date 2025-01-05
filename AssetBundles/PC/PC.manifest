@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4221521189
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: egyptpipes_audio
+      Dependencies: {}
+    Info_1:
+      Name: egyptpipes_entities
+      Dependencies: {}
+    Info_2:
+      Name: egyptpipes_midi
+      Dependencies: {}
+    Info_3:
+      Name: egyptpipes_scene
+      Dependencies: {}
