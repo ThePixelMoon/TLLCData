@@ -230,6 +230,18 @@ Monsters/Monster_knife_rare diamonds=800 mythical-o 65108 35 coins=10@120@coins=
 
 Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 5
 
+Monsters/Bonapetite coins=0 electricity 0 25 coins=0@120@coins=60 encased , 0 0
+Monsters/Congle coins=0 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
+Monsters/Gnarls coins=0 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
+Monsters/Krillby coins=0 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
+Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
+Monsters/Scaratar coins=0 celestial 0 20 coins=0@120@coins=60 encased , 0 0
+Monsters/Uuduk coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
+Monsters/Whimmzies coins=0 fire@light 0 5 coins=0@120@coins=60 encased , 0 0
+Monsters/Loodvigg coins=0 celestial 0 25 coins=0@120@coins=60 encased , 0 0
+Monsters/Buzzinga coins=0 mythical-o 0 15 coins=0@120@coins=60 encased , 0 0
+Monsters/Shlep coins=0 dream@mythical-o 0 20 coins=0@120@coins=60 encased , 0 0
+
 Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
 Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 0
 Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 0
@@ -364,7 +376,6 @@ Decoration/Obstacle_placable_Knott_10 diamonds=10 xpWhenPlaced:100 0 0
 
 Decoration/Dog food=2000 xpWhenPlaced:100 20 0
 
-
 Monsters/Monster_mammott_dream coins=0 nightmare 0 1 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Monster_deedge_dream coins=0 nightmare 0 15 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Monster_likho_dream coins=0 nightmare 0 5 coins=0@120@coins=60 nightmare , 0 0
@@ -375,15 +386,3 @@ Monsters/Monster_ghazt_dream coins=0 nightmare 0 15 coins=0@120@coins=60 nightma
 Monsters/VOIDCORN_dream coins=0 nightmare 0 150 coins=0@120@coins=60 YOOL , 0 0
 Monsters/Monster_dragong_dream coins=0 nightmare 0 20 coins=0@120@coins=60 nightmare , 0 0
 
-
-Monsters/Bonapetite coins=0 electricity 0 25 coins=0@120@coins=60 encased , 0 0
-Monsters/Congle coins=0 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Gnarls coins=0 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
-Monsters/Krillby coins=0 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Scaratar coins=0 celestial 0 20 coins=0@120@coins=60 encased , 0 0
-Monsters/Uuduk coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Whimmzies coins=0 fire@light 0 5 coins=0@120@coins=60 encased , 0 0
-Monsters/Loodvigg coins=0 celestial 0 25 coins=0@120@coins=60 encased , 0 0
-Monsters/Buzzinga coins=0 mythical-o 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Shlep coins=0 dream@mythical-o 0 20 coins=0@120@coins=60 encased , 0 0
