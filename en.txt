@@ -886,6 +886,9 @@ str_island_Candy_bio=Although it is considered an Outer Island, it has its own u
 str_island_Calamity=Calamity Island
 str_island_Calamity_bio=Calamity Island bio
 
+str_island_composer=Composer Island
+str_island_composer_bio=Composer Island bio
+
 str_island_TI=Tutor's Island
 str_island_TI_bio=This huge tree is tree-schoolhouse for young monsters. They are sent here to learn how to sing again! Thank to few monsters, now natural and fire can sing again and they will grow up to move into new home, well not sure if they will feel like it or not but it’ll work, right?
 
