@@ -250,6 +250,9 @@ Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dip
 Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
 Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
 
+Monsters/Monster_toejammer_composer coins=0 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
+Monsters/Monster_likho_composer diamonds=0 plant@faerie 36000 20 coins=1@80@coins=150 Magical likho,likho 6 0
+
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
 Structures/Structure_breeding_undof coins=0,diamonds=40 0 2
