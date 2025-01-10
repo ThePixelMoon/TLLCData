@@ -9,5 +9,6 @@ msm.fan for fixing the shop buttons
 quinntendo for helping me add Archaic Dunes
 soykanduru for finding a copy of TLLPS 1.3
 MarcelSock for having an archive of the server files
+soykanduru for rare keytrus
 
 and everyone in the discord server for supporting me
