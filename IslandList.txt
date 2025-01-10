@@ -6,7 +6,7 @@ TI
 EgyptPipes
 Desert
 Calamity
-composer
+Composer
 GM
 Knottshurr
 Meduza
