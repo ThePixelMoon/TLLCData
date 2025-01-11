@@ -886,6 +886,9 @@ str_island_Candy_bio=Although it is considered an Outer Island, it has its own u
 str_island_Calamity=Calamity Island
 str_island_Calamity_bio=Calamity Island bio
 
+str_island_Noches=Noches de Hungria
+str_island_Noches_bio=Noches de Hungria bio
+
 str_island_Composer=Composer Island
 str_island_Composer_bio=Composer Island bio
 

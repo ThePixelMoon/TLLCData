@@ -878,6 +878,10 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
 ;
+Noches
+monsters:
+Monsters/Monster_furcorn diamonds=0
+;
 Ohio
 decorations:
 Decoration/Decoration_test
