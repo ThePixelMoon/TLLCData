@@ -901,8 +901,8 @@ str_island_EgyptPipes_bio=So, where were 3 fire expansion monsters goes, to safe
 str_island_dream=Demented Island
 str_island_dream_bio=what the actual fwog
 
-str_island_ohio=Ohio Island
-str_island_ohio_bio=Sticking out your Yap for the Handmond\nYour so Plixie\nYour so Caramel\nI just wanna be your Dipster\nFreaking come here\nGive me your Gobstomper
+str_island_Ohio=Ohio Island
+str_island_Ohio_bio=Sticking out your Yap for the Handmond\nYour so Plixie\nYour so Caramel\nI just wanna be your Dipster\nFreaking come here\nGive me your Gobstomper
 
 str_island_lvl=Lvl <lvl>
 

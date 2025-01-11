@@ -98,20 +98,13 @@ Decoration/Decoration_test12
 Decoration/Dog
 -
 composer:
-Monsters/Composer/Monster_toejammer_composer coins=10
-Monsters/Composer/Monster_potbelly_composer coins=10
-Monsters/Composer/Monster_tweedle_composer coins=10
-Monsters/Composer/Monster_flootfly_composer coins=10
-Monsters/Composer/Monster_choral_composer coins=10
-Monsters/Composer/Monster_likho_composer coins=10
-Monsters/Composer/Monster_wadee_composer coins=10
-Monsters/Composer/Monster_quibble_composer coins=10
-Monsters/Composer/Monster_stoopa_composer coins=10
+Monsters/composer/Monster_toejammer_composer coins=0
+Monsters/composer/Monster_likho_composer coins=0
 ;
 Composer
 monsters:
-Monsters/Composer/Monster_toejammer_composer coins=0
-Monsters/Composer/Monster_likho_composer coins=0
+Monsters/composer/Monster_toejammer_composer coins=0
+Monsters/composer/Monster_likho_composer coins=0
 ;
 City
 monsters:
