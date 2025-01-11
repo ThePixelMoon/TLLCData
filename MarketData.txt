@@ -881,6 +881,7 @@ Decoration/Dog
 Noches
 monsters:
 Monsters/Monster_furcorn diamonds=0
+Monsters/Monster_ffydill diamonds=0
 ;
 Ohio
 decorations:
