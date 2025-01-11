@@ -1,2 +1,1 @@
-monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 monster_knife_rare entity Monsters/Monster_knife_rare
