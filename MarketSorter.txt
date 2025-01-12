@@ -1,3 +1,4 @@
+;
 City
 monsters:monsters=btn_shop_babyMomsters,monsters_celestials=btn_shop_celestials
 decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_other=btn_shop_deco_other
