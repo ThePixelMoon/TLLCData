@@ -1,3 +1,8 @@
+TI
+monsters:monsters=btn_shop_monsters
+decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_other=btn_shop_deco_other
+structures:structures
+composer:composer
 ;
 City
 monsters:monsters=btn_shop_babyMomsters,monsters_celestials=btn_shop_celestials
@@ -43,12 +48,6 @@ composer:composer
 ;
 Calamity
 monsters:monsters=btn_shop_monsters,monster_rares=btn_shop_rares
-decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_other=btn_shop_deco_other
-structures:structures
-composer:composer
-;
-TI
-monsters:monsters=btn_shop_monsters
 decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_other=btn_shop_deco_other
 structures:structures
 composer:composer
