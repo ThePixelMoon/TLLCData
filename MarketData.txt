@@ -99,7 +99,7 @@ Decoration/Dog
 -
 composer:
 Monsters/composer/Monster_toejammer_composer coins=0
-Monsters/composer/Monster_likho_composer coins=0
+Monsters/composer/Monster_tweedle_composer coins=0
 ;
 Composer
 monsters:
