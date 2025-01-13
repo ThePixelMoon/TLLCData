@@ -103,7 +103,6 @@ Monsters/composer/Monster_toejammer_composer coins=0
 Monsters/composer/Monster_tweedle_composer coins=0
 Monsters/composer/Monster_potbelly_composer coins=0
 Monsters/composer/Monster_flootfly_composer coins=0
-Monsters/composer/Monster_likho_composer coins=0
 ;
 City
 monsters:
