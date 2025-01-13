@@ -150,7 +150,6 @@ Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
 Monsters/Monster_phangler_undof
 Monsters/Monster_marshflamo
-Monsters/Monster_marshflamo_rare
 Monsters/Monster_koodahcane
 Monsters/Monster_gobstomper
 Monsters/Monster_thrumble_undof
@@ -210,6 +209,15 @@ Monsters/Scaratar
 Monsters/Loodvigg
 Monsters/Uuduk
 Monsters/Whimmzies
+;
+composer:
+Monsters/composer/Monster_toejammer_composer
+Monsters/composer/Monster_tweedle_composer
+Monsters/composer/Monster_flootfly_composer
+;
+Noches:
+Monsters/Monster_furcorn
+Monsters/Monster_ffydill
 ;
 dream:
 Monsters/Monster_cataliszt
