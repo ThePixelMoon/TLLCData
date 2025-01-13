@@ -96,17 +96,13 @@ Decoration/Decoration_test9
 Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Dog
--
-composer:
-Monsters/composer/Monster_toejammer_composer coins=0
-Monsters/composer/Monster_tweedle_composer coins=0
-Monsters/composer/Monster_potbelly_composer coins=0
-Monsters/composer/Monster_flootfly_composer coins=0
-Monsters/composer/Monster_likho_composer coins=0
 ;
 Composer
 monsters:
 Monsters/composer/Monster_toejammer_composer coins=0
+Monsters/composer/Monster_tweedle_composer coins=0
+Monsters/composer/Monster_potbelly_composer coins=0
+Monsters/composer/Monster_flootfly_composer coins=0
 Monsters/composer/Monster_likho_composer coins=0
 ;
 City
