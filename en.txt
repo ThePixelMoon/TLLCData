@@ -866,6 +866,9 @@ str_island_comingsoon=Coming Soon!
 str_island_City=Floating City
 str_island_City_bio=Floating City bio
 
+str_island_Arcanum=Monstriana's Arcanum
+str_island_Arcanum_bio=Monstriana's Arcanum bio
+
 str_island_EM=Evergreen Marsh
 str_island_EM_bio=Lurking in the depths of the "Evergreen woods", the evergrowing "Evergreen marsh" takes place. Despite the motherland of the marsh already being spellworking, the slimy landscape is enchanted evermore with fairy-tale creatures from around the Slav. Legends affirm, that a being once wondered to the quagmire, shall see the world over disparate. Not many relish the change given upon themselves by the bewitched place that is the Evergreen marsh, so be careful, and step lightly, for in the heart of the marsh one’s future is murkier than the swamp water, and cloudier than the emerald dome seen above the wigged top…
 
