@@ -70,6 +70,10 @@ Monsters/Monster_gloptic_young_bio=Gloptic puddlings are notoriously slippery, w
 Monsters/Monster_punkleton_young=Young Punkleton
 Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emerged from the pumpkins that litter the Floating City, enchanted by the harvest moon. The gourdly ghouls love to creep up behind fellow monsterlings, before surprising them- with loads of tasty treats!
 
+#UHH#
+Monsters/Monster_goku=Goku
+Monsters/Monster_goku_bio=Goku is a powerful being. He could kill the Wubbox himself, with just one hand!
+
 #ADULT OFFICIAL SINGLES#
 Monsters/Monster_potbelly=Potbelly
 Monsters/Monster_potbelly_bio=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
