@@ -1,4 +1,3 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://raw.githubusercontent.com/ThePixelMoon/TLLCData/refs/heads/tllps/Images/jodo.png;Clear
 
-intro3;everyone;Surprise!;Free resources, yeah!;icon@gift;diamonds@10000;foodB@5000;coins@100000000;Vortex@100;Relic@500
-Ez;IJGDcaCDNEbMXZIFBSWdVTMYDUCXTde;This you?;lol;url@https://raw.githubusercontent.com/ThePixelMoon/TLLCData/refs/heads/tllps/Images/gumtromp.png;diamonds@-1;
+intro3;everyone;???;Surprise! Free resources, just for you!;icon@gift;diamonds@10000;foodB@5000;coins@100000000;Vortex@1000;Relic@5000;url@https://raw.githubusercontent.com/ThePixelMoon/TLLCData/refs/heads/tllps/Images/gumtromp.png;diamonds@-1;

@@ -624,6 +624,7 @@ Monsters/Monster_ffydill Vortex=0
 Monsters/Monster_blasoom Coins=0
 Monsters/Monster_poewk Vortex=0
 Monsters/Monster_pixolotl Vortex=0
+Monsters/Monster_goku Vortex=0
 -
 monster_rares:
 Monsters/Monster_banno_rare Vortex=0

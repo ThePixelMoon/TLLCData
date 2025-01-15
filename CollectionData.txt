@@ -189,6 +189,7 @@ Monsters/Monster_deedge
 Monsters/Monster_deedge_rare
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
+Monsters/Monster_goku
 ;
 GM:
 Monsters/Monster_olga
