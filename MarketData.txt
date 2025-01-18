@@ -807,6 +807,7 @@ monsters:
 Monsters/Monster_olga diamonds=0
 Monsters/Monster_potbellyGM diamonds=0
 Monsters/Monster_quibbleGM diamonds=0
+Monsters/Monster_percFrog diamonds=0
 -
 monster_rares:
 Monsters/Monster_quibblegm_rare diamonds=0
