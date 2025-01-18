@@ -1,4 +1,7 @@
-
+Arcanum
+monsters:
+Monsters/Monster_kayna_rare_undof coins=0
+;
 EM
 monsters:
 Monsters/Monster_toejammer diamonds=0
