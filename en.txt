@@ -254,7 +254,7 @@ Monsters/Monster_spunge_rare=Rare Spunge
 Monsters/Monster_spunge_rare_bio=The dry-eyed Rare Spunge is a fascinating example of the adaptations that environment based mutations can bring about. Seeming to stem from particularly composed waters, mutations through this wacky spunge have changed almost everything about this Spunge, from its color to the amount of each organ it has. Some even suspect it may have a second mouth inside of its body. Ew. Just Ew. 
 
 Monsters/Monster_percFrog=Amphibeat
-Monsters/Monster_percFrog_bio=Amphibeat is a frog. With bricks. It doesn't even sing.
+Monsters/Monster_percFrog_bio=Amphibeat is a frog. A literal frog, with bricks. It doesn't even sing.
 
 Monsters/Monster_phangler_rare=Rare Phangler
 Monsters/Monster_phangler_rare_bio=Glub Glub Glub. The Rare Phangler ate a little too much mud from the bottom of the marsh waters, and its tail fell off. Luckily it had extra in its pockets, so it stuck those on and used them as arms!
@@ -269,7 +269,7 @@ Monsters/Monster_banno_rare=Rare Banno
 Monsters/Monster_banno_rare_bio=Rare Banno is an extraordinary monster, with the biggest gyatt in the monster world
 
 Monsters/Special/Monster_melochness=Meloch-Ness
-Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit. It doesn't even sing.
+Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit.
 
 Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
 Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_bio
