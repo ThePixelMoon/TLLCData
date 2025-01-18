@@ -38,7 +38,7 @@ Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma 
 Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 Monsters/Monster_quibbleGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 Monsters/Monster_quibblegm_rare diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma quibblegm_rare,quibblegm_rare 0 0
-
+Monsters/Monster_fwogGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma fwogGM,fwogGM 0 0
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
 Monsters/Monster_mammott_meduza coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
