@@ -63,6 +63,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_crafter
+Structures/Structure_timemachine
 Structures/Structure_bakery
 Structures/Structure_breeding
 Structures/Structure_breeding_city
@@ -114,6 +115,7 @@ Monsters/composer/Monster_flootfly_composer coins=0
 -
 structures:
 Structures/Structure_crafter
+Structures/Structure_timemachine
 Structures/Structure_bakery
 Structures/Structure_breeding
 Structures/Structure_breeding_city
@@ -287,6 +289,7 @@ Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
 Structures/Structure_breeding_undof2
 Structures/Structure_breeding_undof3
+Structures/Structure_timemachine
 -
 deco_paths:
 EM_path1
@@ -357,6 +360,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 Structures/Structure_breeding
 Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
@@ -423,6 +427,7 @@ structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_breeding
+Structures/Structure_timemachine
 Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
 Structures/Structure_breeding_undof2
@@ -468,8 +473,6 @@ Monsters/Monster_spurrit_desert Vortex=0
 Monsters/Monster_bisonorus Vortex=0
 Monsters/Monster_clamble Vortex=0
 -
-monster_rares:
--
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
@@ -489,6 +492,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_crafter
+Structures/Structure_timemachine
 Structures/Structure_bakery
 Structures/Structure_breeding
 Structures/Structure_breeding_city
@@ -602,6 +606,7 @@ Candy_path8
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 Structures/Structure_breeding
 Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
@@ -692,6 +697,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 Structures/Structure_breeding
 Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
@@ -749,6 +755,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 Structures/Structure_breeding
 Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
@@ -831,6 +838,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_bass
+Structures/Structure_timemachine
 Structures/Structure_crafter
 Structures/Structure_bakery
 Structures/Structure_breeding
@@ -895,6 +903,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_crafter
+Structures/Structure_timemachine
 Structures/Structure_bakery
 Structures/Structure_breeding
 Structures/Structure_breeding_city
@@ -936,6 +945,15 @@ Noches
 monsters:
 Monsters/Monster_furcorn diamonds=0
 Monsters/Monster_ffydill diamonds=0
+structures:
+Structures/Structure_crafter
+Structures/Structure_timemachine
+Structures/Structure_bakery
+Structures/Structure_breeding
+Structures/Structure_breeding_city
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
 ;
 Ohio
 decorations:
@@ -958,6 +976,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Structures/Structure_timemachine
 Structures/Structure_breeding
 Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
