@@ -95,6 +95,7 @@ Monsters/Knott_8_rare
 Monsters/Knott_9_rare
 Monsters/Knott_10_rare
 Monsters/Knott_special_rare
+Monsters/Monster_syncopite
 ;
 Desert:
 Monsters/Monster_scaratar
@@ -104,6 +105,7 @@ Monsters/Monster_rootitoot
 Monsters/Monster_trox
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
+Monsters/Monster_arackulele
 ;
 Organs:
 Monsters/Monster_handmond
