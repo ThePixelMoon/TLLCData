@@ -860,8 +860,6 @@ str_popup_masherNoItemsSelected=You need to select items to mash! If you have no
 str_popup_masherLimitReached=You have reached the limit of items you can add to the Masher!
 str_popup_stargazerNotRightLevel=The Observatory can not be activated yet. Expand your island first.
 
-str_popup_mapIsalndNotFinished=just press ok on this one, it should've been island not finished popup
-
 str_popup_islandComingSoon=New and Exciting things coming soon!
 str_popup_islandAlreadyOn=You are already on this island.
 
