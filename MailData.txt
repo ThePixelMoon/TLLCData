@@ -2,5 +2,5 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 intro3;everyone;???;Surprise! Free resources, just for you!;icon@gift;diamonds@100000;foodB@500000;coins@100000000;Vortex@100000;Relic@5000
 
-thieves-dontannounce;everyone;Regarding the stealers;Recently, it has come to my attention that SOME people have been stealing TLLPS.\nI will not say the names, but let's just say, yes, i've seen your YouTube channel.\n\nSo, everyone else, please, if you can support the development team by joining the discord server at https://discord.gg/ZxTPRE2GXC.;icon@gift;diamonds@1
+thieves-dontannounce;everyone;Regarding the stealers;Recently, it has come to my attention that SOME people have been stealing TLLPS.\nI will not say the names, but let's just say, yes, i've seen your YouTube channel.\n\nSo, everyone else, please, if you can support the development team by joining the Hacked Landscapes discord server.;icon@gift;diamonds@1
 
