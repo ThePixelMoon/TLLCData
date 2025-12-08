@@ -1,3 +1,3 @@
-ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://raw.githubusercontent.com/ThePixelMoon/TLLCData/refs/heads/tllps/Images/jodo.png;Clear
+ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://raw.githubusercontent.com/ThePixelMoon/TLLCData/refs/heads/new/Images/jodo.png;Clear
 
 intro3;everyone;???;Surprise! Free resources, just for you!;icon@gift;diamonds@100000;foodB@500000;coins@100000000;Vortex@100000;Relic@5000
