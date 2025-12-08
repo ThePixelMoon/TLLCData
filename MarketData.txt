@@ -1,7 +1,3 @@
-Arcanum
-monsters:
-Monsters/Monster_kayna_rare_undof coins=0
-;
 EM
 monsters:
 Monsters/Monster_toejammer diamonds=0
@@ -816,9 +812,6 @@ Monsters/Monster_potbellyGM diamonds=0
 Monsters/Monster_quibbleGM diamonds=0
 Monsters/Monster_fwogGM diamonds=0
 -
-monster_rares:
-Monsters/Monster_quibblegm_rare diamonds=0
--
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
@@ -905,78 +898,6 @@ structures:
 Structures/Structure_crafter
 Structures/Structure_timemachine
 Structures/Structure_bakery
-Structures/Structure_breeding
-Structures/Structure_breeding_city
-Structures/Structure_breeding_undof
-Structures/Structure_breeding_undof2
-Structures/Structure_breeding_undof3
--
-deco_paths:
-Desert_path1
-Desert_path2
-Desert_path3
-Desert_path4
-Desert_path5
-Desert_path6
-EM_path5
-EM_path7
--
-deco_trees:
-Decoration/Decoration_test
-Decoration/Decoration_test2
-Decoration/Decoration_test3
-Decoration/Decoration_test5
-Decoration/Decoration_test8
-Decoration/Decoration_test11
--
-deco_other:
-Decoration/Decoration_test1
-Decoration/Decoration_test4
-Decoration/Decoration_test6
-Decoration/Decoration_test7
-Decoration/Decoration_test9
-Decoration/Decoration_test10
-Decoration/Decoration_test12
-Decoration/Decoration_knott
-Decoration/Decoration_mors
-Decoration/Dog
-;
-Noches
-monsters:
-Monsters/Monster_furcorn diamonds=0
-Monsters/Monster_ffydill diamonds=0
-structures:
-Structures/Structure_crafter
-Structures/Structure_timemachine
-Structures/Structure_bakery
-Structures/Structure_breeding
-Structures/Structure_breeding_city
-Structures/Structure_breeding_undof
-Structures/Structure_breeding_undof2
-Structures/Structure_breeding_undof3
-;
-Ohio
-decorations:
-Decoration/Decoration_test
-Decoration/Decoration_test1
-Decoration/Decoration_test2
-Decoration/Decoration_test3
-Decoration/Decoration_test4
-Decoration/Decoration_test5
-Decoration/Decoration_test6
-Decoration/Decoration_test7
-Decoration/Decoration_test8
-Decoration/Decoration_test9
-Decoration/Decoration_test10
-Decoration/Decoration_test11
-Decoration/Decoration_test12
-Decoration/Decoration_knott
-Decoration/Decoration_mors
--
-structures:
-Structures/Structure_crafter
-Structures/Structure_bakery
-Structures/Structure_timemachine
 Structures/Structure_breeding
 Structures/Structure_breeding_city
 Structures/Structure_breeding_undof
