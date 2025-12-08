@@ -17,7 +17,6 @@ Monsters/Monster_varrow diamonds=60 air@faerie 36000 20 coins=1@80@coins=150 Mag
 Monsters/Monster_stoopa diamonds=130 water@faerie@air@plant 79200 40 coins=1@28@coins=550 Magical stoopa,stoopa 6 0
 
 Monsters/Monster_deedge diamonds=120 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge,deedge 6 0
-Monsters/Monster_deedge_rare diamonds=240 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge_rare,deedge_rare 6 0
 
 Monsters/Monster_toejammer_rare diamonds=75 water 600 10 coins=2@120@coins=120 Natural-r toejammer_rare,toejammer_rare 0 0
 Monsters/Monster_oaktopus_rare diamonds=80 water@plant 57600 30 coins=2@80@coins=180 Natural-r oaktopus_rare,oaktopus_rare 0 0
@@ -210,25 +209,20 @@ Monsters/Monster_keytrus_rare diamonds=600 earth-o@water-o@candy 57600 5 coins=1
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
 
 Monsters/Monster_marshflamo diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
-Monsters/Monster_marshflamo_rare diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo_rare,marshflamo_rare 0 0
 
 Monsters/Monster_brasscuit diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit,brasscuit 0 0
 Monsters/Monster_gobstomper diamonds=150 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper,gobstomper 0 0
 Monsters/Monster_claramel diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel,claramel 0 0
 
 Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
-Monsters/Monster_sprinklate_rare diamonds=800 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate_rare,sprinklate_rare 0 0
 
 Monsters/Monster_jamboree_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
 Monsters/Monster_ghazt_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
-
-Monsters/Monster_goku diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal goku,goku 0 0
 
 Monsters/Monster_jobo Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
 Monsters/Monster_treble Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
 
 Monsters/Monster_knife diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife,knife 0 0
-Monsters/Monster_knife_rare diamonds=800 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife_rare,knife_rare 0 0
 
 Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 5
 
