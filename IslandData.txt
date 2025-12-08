@@ -8,7 +8,7 @@ Calamity 20 Complete z
 GM 15 Incomplete z
 TI 0 Incomplete z
 Meduza 25 Incomplete NoZeppelin
-Composer 0 Complete NoZeppelin
+dream 0 Complete z
 Minigame_Thumpies 0 Complete z
 Minigame_stacking 0 Complete z
 Minigame_Simon 0 Complete z
