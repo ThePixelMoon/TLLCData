@@ -738,7 +738,6 @@ monsters:
 Monsters/Monster_olga diamonds=0
 Monsters/Monster_potbellyGM diamonds=0
 Monsters/Monster_quibbleGM diamonds=0
-Monsters/Monster_fwogGM diamonds=0
 -
 decorations:
 Decoration/Decoration_test
