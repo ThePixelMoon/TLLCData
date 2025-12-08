@@ -2,4 +2,4 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 intro3;everyone;???;Surprise! Free resources, just for you!;icon@gift;diamonds@100000;foodB@500000;coins@100000000;Vortex@100000;Relic@5000
 
-intro2;everyone;Regarding the stealers;Recently, it has come to my attention that SOME people have been stealing TLLPS.\nI will not say the names, but let's just say, yes, i've seen your YouTube channel.\n\nSo, everyone else, please, if you can support the development team by joining the discord server at https://discord.gg/ZxTPRE2GXC.;icon@gift;diamonds@1
+intro2;everyone;Regarding the unofficial links;If you have downloaded TLLPS anywhere that isn't the official Hacked Landscapes discord, do NOT share the link you used but the official discord one (where you should join to get the original version AND to actually support us, unlike those who spread the fake download): https://discord.gg/ZxTPRE2GXC\n\nThere is a list of people who have shared TLLPS without crediting the owner. If it's someone on youtube, unsubscribe to them.\n\nElicrabs (Youtube)\nminecrafter_random (Reddit)\nIllustrious_Rub2949 (Reddit);icon@gift;diamonds@1
