@@ -20,10 +20,6 @@ Monsters/Monster_banno diamonds=0
 Monsters/Monster_stoopa diamonds=0
 Monsters/Monster_maulch coins=0
 -
-monster_secret:
-Monsters/Monster_percFrog
-Monsters/Special/Monster_melochness
--
 monster_rares:
 Monsters/Monster_toejammer_rare
 Monsters/Monster_oaktopus_rare
@@ -102,22 +98,6 @@ Decoration/Decoration_test9
 Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Dog
-;
-Composer
-monsters:
-Monsters/composer/Monster_toejammer_composer coins=0
-Monsters/composer/Monster_tweedle_composer coins=0
-Monsters/composer/Monster_flootfly_composer coins=0
--
-structures:
-Structures/Structure_crafter
-Structures/Structure_timemachine
-Structures/Structure_bakery
-Structures/Structure_breeding
-Structures/Structure_breeding_city
-Structures/Structure_breeding_undof
-Structures/Structure_breeding_undof2
-Structures/Structure_breeding_undof3
 ;
 City
 monsters:
