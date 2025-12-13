@@ -36,7 +36,7 @@ Monsters/Monster_pango diamonds=40 air@cold 28800 15 coins=1@80@coins=90 Natural
 Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
 Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 Monsters/Monster_quibbleGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
-Monsters/Monster_fwogGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma fwogGM,fwogGM 0 0
+
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
 Monsters/Monster_mammott_meduza coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
@@ -107,8 +107,8 @@ Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seas
 Monsters/Monster_furcorn diamonds=40 plant@cold 28800 15 coins=1@80@coins=90 Natural furcorn,furcorn 4 0
 Monsters/Monster_spurrit_desert diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
-Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 1 5
-Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 1 5
+Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 5
+Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 100 5
 
 Monsters/Monster_arackulele diamonds=6000 mech@shadow 10 100 coins=2@72@coins=1000 Ethereal arackulele,arackulele 0 0
 Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal reebro,reebro 0 0
@@ -203,18 +203,14 @@ Monsters/Monster_gumtromp coins=25000 candy 21600 7 coins=4@60@coins=57 Lost gum
 Monsters/Monster_gumtromp_rare diamonds=225 candy 28800 14 coins=8@60@coins=100 Lost-r gumtromp_rare,gumtromp_rare 0 0
 
 Monsters/Monster_keytrus diamonds=300 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus,keytrus 0 0
+Monsters/Monster_keytrus_rare diamonds=400 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus_rare,keytrus_rare 0 0
 
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
-
 Monsters/Monster_marshflamo diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
-
 Monsters/Monster_brasscuit diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit,brasscuit 0 0
 Monsters/Monster_gobstomper diamonds=150 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper,gobstomper 0 0
 Monsters/Monster_claramel diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel,claramel 0 0
-
 Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
-Monsters/Monster_sprinklate_rare diamonds=800 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate_rare,sprinklate_rare 0 0
-
 Monsters/Monster_jamboree_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
 Monsters/Monster_ghazt_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
 
@@ -222,29 +218,16 @@ Monsters/Monster_jobo Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legend
 Monsters/Monster_treble Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
 
 Monsters/Monster_knife diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife,knife 0 0
-Monsters/Monster_knife_rare diamonds=800 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife_rare,knife_rare 0 0
 
 Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 5
 
-Monsters/Bonapetite coins=0 electricity 0 25 coins=0@120@coins=60 encased , 0 0
-Monsters/Congle coins=0 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Gnarls coins=0 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
-Monsters/Krillby coins=0 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Scaratar coins=0 celestial 0 20 coins=0@120@coins=60 encased , 0 0
-Monsters/Uuduk coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Whimmzies coins=0 fire@light 0 5 coins=0@120@coins=60 encased , 0 0
-Monsters/Loodvigg coins=0 celestial 0 25 coins=0@120@coins=60 encased , 0 0
-Monsters/Buzzinga coins=0 mythical-o 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Shlep coins=0 dream@mythical-o 0 20 coins=0@120@coins=60 encased , 0 0
-
-Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
-Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 0
-Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 0
-Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 0
-Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 0
-Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
-Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
+Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 10
+Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 10
+Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 10
+Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 10
+Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 10
+Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 10
+Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 10
 
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
@@ -299,6 +282,15 @@ EM_path7 coins=175 0 0
 Organ_path1 coins=500 0 0
 Organ_path2 coins=500 0 0
 Organ_path3 coins=850 0 0
+
+Candy_path1 coins=500 0 0
+Candy_path2 coins=500 0 0
+Candy_path3 coins=500 0 0
+Candy_path4 coins=500 0 0
+Candy_path5 coins=500 0 0
+Candy_path6 coins=500 0 0
+Candy_path7 coins=500 0 0
+Candy_path8 coins=500 0 0
 
 Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 
@@ -372,13 +364,31 @@ Decoration/Obstacle_placable_Knott_10 diamonds=10 xpWhenPlaced:100 0 0
 
 Decoration/Dog food=2000 xpWhenPlaced:100 20 0
 
-Monsters/Monster_mammott_dream coins=0 nightmare 0 1 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Monster_deedge_dream coins=0 nightmare 0 15 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Monster_likho_dream coins=0 nightmare 0 5 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Monster_quibble_dream coins=0 nightmare 0 5 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Monster_stogg_dream coins=0 nightmare 0 5 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Monster_toejammer_dream coins=0 nightmare 0 1 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Monster_ghazt_dream coins=0 nightmare 0 15 coins=0@120@coins=60 nightmare , 0 0
-Monsters/VOIDCORN_dream coins=0 nightmare 0 150 coins=0@120@coins=60 YOOL , 0 0
-Monsters/Monster_dragong_dream coins=0 nightmare 0 20 coins=0@120@coins=60 nightmare , 0 0
 
+Monsters/Monster_mammott_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Monster_deedge_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Monster_likho_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Monster_quibble_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Monster_stogg_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Monster_toejammer_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Monster_ghazt_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/VOIDCORN_dream coins=0 nightmare 0 150 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Monster_dragong_dream coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+
+
+Monsters/Bonapetite coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Congle coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Gnarls coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Krillby coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Pladdie coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Scaratar coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Uuduk coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Whimmzies coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Loodvigg coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Buzzinga coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Shlep coins=0 nightmare 0 999999 coins=0@120@coins=60 nightmare , 0 0
+
+
+Monsters/Monster_knife_rare diamonds=800 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife_rare,knife_rare 0 0
+Monsters/Monster_sprinklate_rare diamonds=800 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate_rare,sprinklate_rare 0 0
+Monsters/Monster_fwogGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma fwogGM,fwogGM 0 0
