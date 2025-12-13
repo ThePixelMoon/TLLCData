@@ -123,6 +123,8 @@ Monsters/Monster_quibble_rare=Rare Quibble
 Monsters/Monster_quibble_rare_bio=Some Quibbles flat out refuse to grow up – in fact, it's one of the few things the two heads can agree upon. Rare Quibbles, who naturally retain the short, stout beaks of their youth, really commit: they preen their crests into radical feather-dos and never replace the colorful keyboards they played as hatchlings. They do need to use beak extenders to reach the rocks... but whatever, man. Still totally hardcore.
 Monsters/Monster_knife_rare=Rare Banchi
 Monsters/Monster_knife_rare=Rare banchi is the blank n' white version of Banchi, which was formed by a random thunderstorm on Candy Island.. Who knows, probably those are some fake news!
+Monsters/Monster_keytrus_rare=Rare Keytrus
+Monsters/Monster_keytrus_rare_bio=In a world that glorifies needs, Flasq'ua liberates your Wants. Wanta Flasq'ua? Well this little creature can help you with that! The Rare Keytrus mostly hides in rocks so other monsters won't drink them because it looks like the small drink the Normal monsters drink (it also drinks it's own kind, so it's a cannibal.).  Inside it's body is acid, like literal acid that melts stuff. So DONT actually try to drink Rare Keytrus.
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
@@ -536,9 +538,6 @@ Monsters/Monster_gumtromp_rare_bio=A seemingly normal monster has a sweet secret
 
 Monsters/Monster_keytrus=Keytrus
 Monsters/Monster_keytrus_bio=Like its surprisingly-close kin, the Koodahcane, Keytrus is far-disconnected from its fellow candy monsters via its complete inedibility! In fact, Keytrus often find themselves scavenging about the surface of the Konficshonn colossal for sour sweets and delicacies! This sweet -- or, rather, sour -- tooth is only satiated by the disc-shaped fruits found growing in the colossal's beard. It then uses specialized claws at the tips of its limbs, normally covered by leaflike feathers, to slice the orange in half, revealing 4 quadrants of flesh that can be tapped to produce a wonderfully whimsical tink! These fruits, called Discus Fruits by the other monsters, are actually not sour at all, but Keytrus doesn't know that... don't ruin its fun.
-
-Monsters/Monster_keytrus_rare=Rare Keytrus
-Monsters/Monster_keytrus_rare_bio=In a world that glorifies needs, Flasq'ua liberates your Wants. Wanta Flasq'ua? Well this little creature can help you with that! The Rare Keytrus mostly hides in rocks so other monsters won't drink them because it looks like the small drink the Normal monsters drink (it also drinks it's own kind, so it's a cannibal.).  Inside it's body is acid, like literal acid that melts stuff. So DONT actually try to drink Rare Keytrus.
 
 Monsters/Monster_koodahcane=Koodahcane
 Monsters/Monster_koodahcane_bio=The sweetening antlers of the Koodahcane are beloved by all inhabitants of the Candy Island. All sugar in the bloodstream of these scaly fish are accumulated on the tip of their skull and grown like hair. When it reaches a tipping point, Once a month or so, these sucrose-filled cranial canes are shed and left to be collected around the island, as sweet treats. 
