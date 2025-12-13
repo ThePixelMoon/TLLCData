@@ -865,17 +865,17 @@ Decoration/Dog
 ;
 EgyptPipes
 monsters:
-Monsters/Bonapetite
-Monsters/Congle
-Monsters/Gnarls
-Monsters/Krillby
-Monsters/Pladdie
-Monsters/Buzzinga
-Monsters/Shlep
-Monsters/Scaratar
-Monsters/Loodvigg
-Monsters/Uuduk
-Monsters/Whimmzies
+Monsters/Bonapetite diamonds=1000
+Monsters/Congle diamonds=1000
+Monsters/Gnarls diamonds=1000
+Monsters/Krillby diamonds=1000
+Monsters/Pladdie diamonds=1000
+Monsters/Buzzinga diamonds=1000
+Monsters/Shlep diamonds=1000
+Monsters/Scaratar diamonds=1000
+Monsters/Loodvigg diamonds=1000
+Monsters/Uuduk diamonds=1000
+Monsters/Whimmzies diamonds=1000
 -
 decorations:
 Decoration/Decoration_test
