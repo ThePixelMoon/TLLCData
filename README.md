@@ -1,8 +1,8 @@
 # The Lost Landscapes Private Server (TLLPS)
 
-TLLPS is a private server for the game "My Singing Monsters: The Lost Landscapes". this repo contains the server files.
-distributing TLLPS is allowed, only if you credit the [discord server](https://discord.gg/tmvFMkqSgf), or "gmod13" in Discord.
-TLLPS is protected by Apache License 2.0, im just putting the rules in the readme file. **i know you're lazy to read the whole license.**
+TLLPS is a private server for the game "My Singing Monsters: The Lost Landscapes". This repo contains the server files.
+Distributing TLLPS **is** allowed, BUT ONLY if you credit the [discord server](https://discord.gg/tmvFMkqSgf), or "gmod13" in Discord.
+TLLPS is protected by Apache License 2.0, im just putting the rules in the readme file. **I know you're lazy to read the whole license.**
 
 ## How to setup?
 

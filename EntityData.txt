@@ -17,7 +17,6 @@ Monsters/Monster_varrow diamonds=60 air@faerie 36000 20 coins=1@80@coins=150 Mag
 Monsters/Monster_stoopa diamonds=130 water@faerie@air@plant 79200 40 coins=1@28@coins=550 Magical stoopa,stoopa 6 0
 
 Monsters/Monster_deedge diamonds=120 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge,deedge 6 0
-Monsters/Monster_deedge_rare diamonds=240 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge_rare,deedge_rare 6 0
 
 Monsters/Monster_toejammer_rare diamonds=75 water 600 10 coins=2@120@coins=120 Natural-r toejammer_rare,toejammer_rare 0 0
 Monsters/Monster_oaktopus_rare diamonds=80 water@plant 57600 30 coins=2@80@coins=180 Natural-r oaktopus_rare,oaktopus_rare 0 0
@@ -37,7 +36,6 @@ Monsters/Monster_pango diamonds=40 air@cold 28800 15 coins=1@80@coins=90 Natural
 Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
 Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 Monsters/Monster_quibbleGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
-Monsters/Monster_quibblegm_rare diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma quibblegm_rare,quibblegm_rare 0 0
 Monsters/Monster_fwogGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma fwogGM,fwogGM 0 0
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
@@ -221,8 +219,6 @@ Monsters/Monster_sprinklate_rare diamonds=800 earth-o@water-o@fire-o@candy 11520
 
 Monsters/Monster_jamboree_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
 Monsters/Monster_ghazt_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
-
-Monsters/Monster_goku diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal goku,goku 0 0
 
 Monsters/Monster_jobo Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
 Monsters/Monster_treble Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0

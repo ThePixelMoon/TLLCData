@@ -670,12 +670,10 @@ Monsters/Monster_ffydill Vortex=0
 Monsters/Monster_blasoom Coins=0
 Monsters/Monster_poewk Vortex=0
 Monsters/Monster_pixolotl Vortex=0
-Monsters/Monster_goku Vortex=0
 -
 monster_rares:
 Monsters/Monster_banno_rare Vortex=0
 Monsters/Monster_varrow_rare Vortex=0
-Monsters/Monster_deedge_rare Vortex=0
 -
 decorations:
 Decoration/Decoration_test
@@ -814,10 +812,6 @@ monsters:
 Monsters/Monster_olga diamonds=0
 Monsters/Monster_potbellyGM diamonds=0
 Monsters/Monster_quibbleGM diamonds=0
-Monsters/Monster_fwogGM diamonds=0
--
-monster_rares:
-Monsters/Monster_quibblegm_rare diamonds=0
 -
 decorations:
 Decoration/Decoration_test
