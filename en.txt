@@ -148,6 +148,8 @@ Monsters/composer/Monster_oaktopus_composer=Oaktopus
 Monsters/composer/Monster_oaktopus_composer_bio=Oaktopus bio
 Monsters/composer/Monster_spunge_composer=Spunge
 Monsters/composer/Monster_spunge_composer_bio=Spunge bio
+Monsters/Monster_sprinklate_rare=Rare Sprinklate
+Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate bio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
