@@ -1140,18 +1140,17 @@ Monsters/Monster_pummelGM_bio=Wadabuana bio
 str_island_Minigame_YapLeap=Yap Leap
 
 #ARCHAIC DUNES#
-Monsters/Bonapetite=Bona-Petite (Encased)
-Monsters/Congle=Congle (Encased)
-Monsters/Gnarls=Gnarls (Encased)
-Monsters/Krillby=Krillby (Encased)
-Monsters/Pladdie=Pladdie (Encased)
-Monsters/Buzzinga=Buzzinga (Encased)
-Monsters/Shlep=shLep (Encased)
-Monsters/Buzzinga=Buzzinga (Encased)
-Monsters/Scaratar=Scaratar (Encased)
-Monsters/Loodvigg=Loodvigg (Encased)
-Monsters/Uuduk=Uuduk (Encased)
-Monsters/Whimmzies=Wimmzies (Encased)
+Monsters/Bonapetite=Bona-Petite
+Monsters/Congle=Congle
+Monsters/Gnarls=Gnarls
+Monsters/Krillby=Krillby
+Monsters/Pladdie=Pladdie
+Monsters/Buzzinga=Buzzinga
+Monsters/Shlep=shLep
+Monsters/Scaratar=Scaratar
+Monsters/Loodvigg=Loodvigg
+Monsters/Uuduk=Uuduk
+Monsters/Whimmzies=Wimmzies
 
 Monsters/Bonapetite_bio=Some musicians tickle the ivories, but the Bona-Petite prefers tickling the ribs. Or perhaps 'having its ribs tickled' is more accurate, depending on which of these two percussionists we're talking about here. Truth is, each is symbiotically connected to the other and equally responsible for delivering punchy kick patterns peppered with a little bottom-end bulk. The duo consists of two monsters, amiably dubbed 'Bona' and 'Petite' by their Wublin pals. The smaller Petite puts the 'riff' in 'midriff,' while the larger Bona grumbles endlessly about indigestion.
 Monsters/Congle_bio=2112-09-04
