@@ -109,9 +109,17 @@ Decoration/Dog
 ;
 Composer
 monsters:
+Monsters/composer/Monster_potbelly_composer
 Monsters/composer/Monster_toejammer_composer
 Monsters/composer/Monster_tweedle_composer
 Monsters/composer/Monster_flootfly_composer
+Monsters/composer/Monster_choral_composer
+Monsters/composer/Monster_likho_composer
+Monsters/composer/Monster_wadee_composer
+Monsters/composer/Monster_quibble_composer
+Monsters/composer/Monster_stoopa_composer
+Monsters/composer/Monster_oaktopus_composer
+Monsters/composer/Monster_spunge_composer
 -
 structures:
 Structures/Structure_crafter
