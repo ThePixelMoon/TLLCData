@@ -107,8 +107,8 @@ Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seas
 Monsters/Monster_furcorn diamonds=40 plant@cold 28800 15 coins=1@80@coins=90 Natural furcorn,furcorn 4 0
 Monsters/Monster_spurrit_desert diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
-Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 1 5
-Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 1 5
+Monsters/Special/Monster_melochness diamonds=150 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 4 5
+Monsters/Monster_percFrog diamonds=150 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 4 5
 
 Monsters/Monster_arackulele diamonds=6000 mech@shadow 10 100 coins=2@72@coins=1000 Ethereal arackulele,arackulele 0 0
 Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal reebro,reebro 0 0
