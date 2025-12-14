@@ -125,6 +125,7 @@ Monsters/Monster_knife_rare=Rare Banchi
 Monsters/Monster_knife_rare_bio=Rare Banchi is the blank n' white version of Banchi, which was formed by a random thunderstorm on Candy Island.. Who knows, probably those are some fake news!
 Monsters/Monster_keytrus_rare=Rare Keytrus
 Monsters/Monster_keytrus_rare_bio=In a world that glorifies needs, Flasq'ua liberates your Wants. Wanta Flasq'ua? Well this little creature can help you with that! The Rare Keytrus mostly hides in rocks so other monsters won't drink them because it looks like the small drink the Normal monsters drink (it also drinks it's own kind, so it's a cannibal.).  Inside it's body is acid, like literal acid that melts stuff. So DONT actually try to drink Rare Keytrus.
+str_island_composer=Composer Island
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
