@@ -742,6 +742,9 @@ Monsters/Monster_reedling_young_singer
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit
 -
+monster_rares:
+Monsters/Monster_quibble_rare
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
