@@ -1888,7 +1888,7 @@ Vinchee
 Zapp
 ;
 Monsters/Monster_knife_rare
-Black&White boi
+MonochromeBoy
 Knife
 Zuggy
 Fruity
@@ -1897,4 +1897,15 @@ Monsters/Monster_quibblegm_rare
 Quibble
 Duibble
 Pull
+;
+Monsters/Monster_sprinklate_rare
+ChocolateCake
+Douchebag
+Synthochocopings
+;
+Monsters/Monster_keytrus_rare
+Limey
+Lemoney
+Baloney
+Grubster
 ;
