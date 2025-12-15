@@ -100,6 +100,7 @@ Monsters/Monster_brasscuit 35
 Monsters/Monster_gobstomper 20
 Monsters/Monster_claramel 35
 Monsters/Monster_sprinklate 15
+Monsters/Monster_sprinklate_rare 35 _rare
 
 Monsters/Monster_gumtromp_rare=Monsters/Monster_brasscuit+Monsters/Monster_claramel 10
 Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_claramel 10
@@ -115,6 +116,7 @@ Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monst
 
 
 Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 3
+Monsters/Monster_knife_rare=Monsters/Monster_gumtromp_rare+Monsters/Monster_sprinklate_rare 2
 
 Monsters/Monster_jamboree_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 4
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 2

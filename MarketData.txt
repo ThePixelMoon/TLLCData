@@ -579,6 +579,7 @@ Monsters/Monster_noggin_rare_undof
 Monsters/Monster_kayna_rare_undof
 Monsters/Monster_knife_rare
 Monsters/Monster_sprinklate_rare
+Monsters/Monster_keytrus_rare
 -
 decorations:
 Decoration/Decoration_test

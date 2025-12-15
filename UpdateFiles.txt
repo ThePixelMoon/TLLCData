@@ -1,4 +1,5 @@
-TLLPSX1
+TLLPSX2
 
 monster_knife_rare entity Monsters/Monster_knife_rare
 monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
+monster_keytrus_rare entity Monsters/Monster_keytrus_rare
