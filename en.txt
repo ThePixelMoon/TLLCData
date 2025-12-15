@@ -149,7 +149,7 @@ Monsters/composer/Monster_oaktopus_composer_bio=Oaktopus bio
 Monsters/composer/Monster_spunge_composer=Spunge
 Monsters/composer/Monster_spunge_composer_bio=Spunge bio
 Monsters/Monster_sprinklate_rare=Rare Sprinklate
-Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate bio
+Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate...the one alpha Sprinklate that ate too much chocolate...Good times. Anyway, this one particularly creative monster is made with a bit TOO much glitter on top of it, that it was shiny as heck, hence they were bullied in their childhood.
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
