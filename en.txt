@@ -1135,7 +1135,7 @@ Monsters/Monster_olga_bio=Sent into the chronic void, Hyddryd's aquatic element 
 Monsters/Monster_potbellyGM=Kelpebbul
 Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins of the monster world being transferred to a realm outside of space and time, the islands we know and love were turned into Gamma Islands, their inhabitants reborn into spectacular new forms. One such example is the Kelpebbul, the reformed plant elemental, who dazzles with a dreamy demeanor and charms with the sweetest of smiles. These stone monsters have the power to imbue lifeforce into any plant, rejuvinating flora of all sorts and giving them means to vocalize. These sprouts tend to have strange and unique voices, a result of discovering their singing abilities the first time. 
 Monsters/Monster_quibbleGM=Jastanaw
-Monsters/Monster_quibbleGM_bio=Jastanaw bio
+Monsters/Monster_quibbleGM_bio=Well... It seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think.
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
 
