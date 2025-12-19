@@ -481,10 +481,10 @@ Structures/Structure_crafter_bio=The Crafter is a strange contraption! Try out s
 Structures/Structure_jukebox=Jukebox
 Structures/Structure_jukebox_bio=Heralding from days long past, the Jukebox still sports memorabilia from musical connoisseurs hoping to jam out after the day is done. While a sparklier version appears to have been modeled for a distant haven, this older prototype found its way here, where it is adored by all the younglings. Since they can’t sing, they crowd around and happily listen, deriving inspiration and absorbing raw creativity from the fantastical frequencies emmitted from within.
 
-Structures/Structure_bass=Bass machine
+Structures/Structure_bass=Bass Machine
 Structures/Structure_bass_bio=The Bass Machine is a cutting edge mix of art and technology, originating from the age of the Great Burgundy Incident. While the knowledge to create more was lost long ago, many can be found lying around in buildings across the floating city. These strange machines are known to be far more intelligent than any other being within the known realm, but yet cannot communicate with the outside world, leaving them to hum and strum bass notes hoping to be understood…
 
-Structures/Structure_knottmaker1=Strange contraption
+Structures/Structure_knottmaker1=Strange Contraption
 Structures/Structure_knottmaker1_bio=Hmm... what could this strange contraption possibly be? Gather some resources around the island to find out!
 
 Structures/Structure_knottmaker2=Rejuvenated Amalgamator
