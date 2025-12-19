@@ -152,6 +152,7 @@ Monsters/Monster_sprinklate_rare=Rare Sprinklate
 Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate...the one alpha Sprinklate that ate too much chocolate...Good times. Anyway, this one particularly creative monster is made with a bit TOO much glitter on top of it, that it was shiny as heck, hence they were bullied in their childhood. You better feed it, or <color="red">he</color> will come...
 Monsters/Monster_yool_young=Young Yool
 Monsters/Monster_yool_young_bio=As the snow lay round about (deep and crisp and even) one wintry night long ago, a group of Monsters gathered around to construct the first coldman (snowman, for you human world types). They laughed and made merry, and rejoiced in the warmth of each other's company during this hibernal pastime. hat wasn't the only thing that was warm, though - the frenzy and frolicking of the Monsters at play (especially the Fire Monsters) began to melt the coldman! To their utter surprise, as the powdery snow fell away, a young Monster carrying a handmade jingle stick emerged. At first sight of the Seasonal, the Monsters felt a surge of holiday cheer and goodwill towards Monsters. Thus was the Yool born.
+str_island_Christmas=Christmas Island
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
