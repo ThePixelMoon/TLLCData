@@ -92,7 +92,9 @@ Monsters/Monster_spunge_young diamonds=500 water@air@plant 43200 4 coins=1@72@co
 Monsters/Monster_bridgit_young diamonds=600 faerie@earth@fire 64800 7 coins=8@60@coins=260 Magical bridgit,bridgit_young 4 0
 Monsters/Monster_frondley_young diamonds=750 faerie@psychic@light 64800 7 coins=8@60@coins=260 Magical frondley,frondley_young 4 0
 Monsters/Monster_gloptic_young diamonds=1000 psychic@water@fire@plant 100800 10 coins=10@60@coins=400 Magical gloptic,gloptic_young 4 0
+
 Monsters/Monster_punkleton_young diamonds=1000 punkleton 43200 25 coins=1@28@coins=400 Seasonal punkleton,punkleton_young 10 0
+Monsters/Monster_yool_young diamonds=1000 yool 43200 25 coins=1@28@coins=400 Seasonal yool,yool_young 10 0
 
 Monsters/Monster_reedling_young_singer diamonds=10000 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 
