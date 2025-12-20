@@ -1,3 +1,6 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://raw.githubusercontent.com/ThePixelMoon/TLLCData/refs/heads/new/Images/jodo.png;Clear
 
+intro3;everyone;Welcome to TLLPS!;Heya! Welcome to TLLPS, the private server of the game The Lost Landscapes! Here are some goodies to get you started, but if you want to <color=red>cheat</color>... just press Tab and start writing! Good luck, eh!;icon@new;diamonds@100;foodB@500
+
 christmas-youngyool;everyone;Merry Christmas!;Hello everyone, and we wish you the best of luck! Here's a <color=yellow>Young Yool</color> for absolutely 0 diamonds, for you to put on the Floating City! Happy Monstering!;icon@gift;diamonds@25;Monsters/Monster_yool_young@1
+

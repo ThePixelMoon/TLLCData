@@ -1,6 +1,7 @@
 
 City 0
 Monsters/Monster_scaratar= 0
+Monsters/Monster_yool_young= 0
 ;
 Candy 0
 Monsters/Monster_toejammer_undof= 1000
