@@ -1,3 +1,3 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://raw.githubusercontent.com/ThePixelMoon/TLLCData/refs/heads/new/Images/jodo.png;Clear
 
-intro3;everyone;???;Surprise! Free resources, just for you!;icon@gift;diamonds@100000;foodB@500000;coins@100000000;Vortex@100000;Relic@5000
+christmas-youngyool;everyone;Merry Christmas!;Hello everyone, and we wish you the best of luck! Here's a <color=yellow>Young Yool</color> for absolutely 0 diamonds, for you to put on the Floating City! Happy Monstering!;icon@gift;diamonds@25;Monsters/Monster_yool_young@1

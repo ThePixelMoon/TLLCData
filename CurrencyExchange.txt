@@ -47,3 +47,4 @@ ITM_rootbeer=99999999;coins=0
 ITM_flingdrink=99999999;coins=0
 ITM_applejuice=99999999;coins=0
 ITM_bloodcandy=99999999;coins=0
+foodB=99999999;coins=0
