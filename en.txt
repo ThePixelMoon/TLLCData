@@ -470,7 +470,7 @@ Structures/Structure_castle_undof4=Spacious Castle
 Structures/Structure_castle_undof4_bio=The Spacious Castle has lots of room for monsters to relax and refresh.
 
 Structures/Structure_castle_undof5=Luxurious Castle
-Structures/Structure_castle_undof5_bio=	It just doesn't get any better than this! The Luxurious Castle has everything a monster might enjoy, from cold slime pools to dark, nasty dungeons. Who would ever want to leave?
+Structures/Structure_castle_undof5_bio=It just doesn't get any better than this! The Luxurious Castle has everything a monster might enjoy, from cold slime pools to dark, nasty dungeons. Who would ever want to leave?
 
 Structures/Structure_castle_undof6=Extravagant Castle
 Structures/Structure_castle_undof6_bio=This state of the art domicile goes way overboard when it comes to spoiling the monsters...  Personal assistants to wait on them hand and foot (at least those that have hands and feet), the spiffiest sound systems on the monster market...  They've got it made in the shade.
