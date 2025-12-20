@@ -1,4 +1,4 @@
-TLLPSX6
+TLLPSX7
 
 monster_knife_rare entity Monsters/Monster_knife_rare
 
@@ -9,3 +9,5 @@ monster_keytrus_rare entity Monsters/Monster_keytrus_rare
 monster_yool_young entity Monsters/Monster_yool_young
 
 monster_jeeode_young entity Monsters/Monster_jeeode_young
+
+monster_brump_young entity Monsters/Monster_brump_young

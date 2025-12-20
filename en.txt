@@ -154,6 +154,8 @@ Monsters/Monster_yool_young=Young Yool
 Monsters/Monster_yool_young_bio=Young Yool Bio
 Monsters/Monster_jeeode_young=Young Jeeode
 Monsters/Monster_jeeode_young_bio=Young Jeeode Bio
+Monsters/Monster_brump_young=Young Brump
+Monsters/Monster_brump_young_bio=Young Brump Bio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
