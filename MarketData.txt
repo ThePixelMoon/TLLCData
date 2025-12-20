@@ -157,6 +157,8 @@ Monsters/Monster_reedling_young
 Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
 Monsters/Monster_gloptic_young
+Monsters/Monster_jeeode_young
+
 Monsters/Monster_punkleton_young
 Monsters/Monster_yool_young
 -
