@@ -2,7 +2,7 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 tllps-intro;everyone;Welcome to TLLPS!;Heya! Welcome to TLLPS, the private server of the game The Lost Landscapes! Here are some goodies to get you started, but if you want to <color=red>cheat</color>... just press Tab and start writing! Good luck, eh!;icon@new;diamonds@100;foodB@500
 
-christmas-youngyool;everyone;Merry Christmas!;Hello everyone, and we wish you the best of luck! Here's a <color=yellow>Young Yool</color> for absolutely 0 diamonds, for you to put on the Floating City! Happy Monstering!;icon@gift;diamonds@25;Monsters/Monster_yool_young@1
+christmas-youngyool;everyone;Merry Christmas!;Hello everyone, and we wish you the best of luck! Here's a <color=yellow>Young Yool</color> for absolutely 0 diamonds, for you to put on the Floating City! Happy Monstering!;icon@christmas;diamonds@25;Monsters/Monster_yool_young@1
 
 ghaztsale2025;everyone;Ghazt Available for 80% off!;By the requests of multiple people, Ghazt has been made 80% off! Make sure to grab it if you can!;icon@discount
 
