@@ -316,6 +316,18 @@ Decoration/Decoration_test12 coins=200 xpWhenPlaced:100 5 0
 Decoration/Decoration_knott coins=20000 xpWhenPlaced:100 0 0
 Decoration/Decoration_mors coins=15000 xpWhenPlaced:100 0 0
 
+Decoration/Decoration_sign_air coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_candy coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_cold coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_dream coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_earth coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_empty coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_gm coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_organ coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_plant coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_plasma coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_water coins=1500 xpWhenPlaced:100 0 0
+
 Decoration/Obstacle_EM_1 coins=-100 25
 Decoration/Obstacle_EM_2 coins=-500 50
 Decoration/Obstacle_EM_3 coins=-1000 75

@@ -156,6 +156,31 @@ Monsters/Monster_jeeode_young=Young Jeeode
 Monsters/Monster_jeeode_young_bio=Young Jeeode Bio
 Monsters/Monster_brump_young=Young Brump
 Monsters/Monster_brump_young_bio=Young Brump Bio
+Decoration/Decoration_sign_air=Air Sign
+Decoration/Decoration_sign_candy=Candy Sign
+Decoration/Decoration_sign_cold=Cold Sign
+Decoration/Decoration_sign_dream=Dream Sign
+Decoration/Decoration_sign_earth=Earth Sign
+Decoration/Decoration_sign_empty=Empty Sign
+Decoration/Decoration_sign_gm=Gamma Sign
+Decoration/Decoration_sign_organ=Organic Sign
+Decoration/Decoration_sign_plant=Plant Sign
+Decoration/Decoration_sign_plasma=Plasma Sign
+Decoration/Decoration_sign_water=Water Sign
+
+SignBio=Huzzah! This is a sign, with a monster-placed element slapped on top of it.
+
+Decoration/Decoration_sign_air_bio=<ref>SignBio
+Decoration/Decoration_sign_candy_bio=<ref>SignBio
+Decoration/Decoration_sign_cold_bio=<ref>SignBio
+Decoration/Decoration_sign_dream_bio=<ref>SignBio
+Decoration/Decoration_sign_earth_bio=<ref>SignBio
+Decoration/Decoration_sign_empty_bio=<ref>SignBio
+Decoration/Decoration_sign_gm_bio=<ref>SignBio
+Decoration/Decoration_sign_organ_bio=<ref>SignBio
+Decoration/Decoration_sign_plant_bio=<ref>SignBio
+Decoration/Decoration_sign_plasma_bio=<ref>SignBio
+Decoration/Decoration_sign_water_bio=<ref>SignBio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
