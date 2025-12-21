@@ -13,3 +13,5 @@ bbear0303;DFBKRSSGMUISESRLQBADJ;Apologies!;Sorry for your loss of the level 10 Y
 egor;CRVSLRLTOcRFAQAUIZUIIYMUHcGbb;Gift;Hello, hello! Here are some goodies to keep you on the track.;icon@present;diamonds@150;coins@15000;stars@600
 
 sign-expansion;everyone;Sign Expansion!;We have added an all-island pack of decorations called <color=green>The Signs</color>! Happy Monstering!;icon@cone;
+
+stargazer-compensation;everyone;Stargazer News!;We apologize if you couldn't get Chordyrid, so as the compensation heres <color=green>600 stars</color>!;icon@calendar;diamonds@150;stars@600
