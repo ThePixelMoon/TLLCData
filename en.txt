@@ -176,6 +176,7 @@ Decoration/Decoration_sign_psychic=Psychic Sign
 Decoration/Decoration_sign_special=Special Sign
 Decoration/Decoration_sign_supercelestial=Supercelestial Sign
 Decoration/Decoration_sign_water=Water Sign
+Decoration/Decoration_sign_empty=Empty Sign
 
 SignBio=Huzzah! This is a sign, with a monster-placed element slapped on top of it.
 
@@ -199,6 +200,7 @@ Decoration/Decoration_sign_psychic_bio=<ref>SignBio
 Decoration/Decoration_sign_special_bio=<ref>SignBio
 Decoration/Decoration_sign_supercelestial_bio=<ref>SignBio
 Decoration/Decoration_sign_water_bio=<ref>SignBio
+Decoration/Decoration_sign_empty_bio=<ref>SignBio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
