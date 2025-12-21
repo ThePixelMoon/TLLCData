@@ -942,7 +942,7 @@ str_island_GM_bio=Gamma Water Island bio
 str_island_EgyptPipes=Archaic Dunes
 str_island_EgyptPipes_bio=So, where were 3 fire expansion monsters goes, to safe zone in monsters world! This place is final remaining place for monsters world, it may seem desolated zone but it is very habitable place! It encased in invisible dome as final act of colossal. Now the monsters can enjoy the life in dunes!
 
-str_island_dream=Demented Island
+str_island_dream=Demented Dream Island
 str_island_dream_bio=what the actual fwog
 
 str_island_Ohio=Ohio Island
