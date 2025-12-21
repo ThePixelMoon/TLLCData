@@ -1934,3 +1934,8 @@ Brumber
 BWB
 Grease
 ;
+Monsters/Monster_wibbler_young
+Wibbler
+Wubbin
+Wububububububububunga
+;
