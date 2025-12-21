@@ -1,4 +1,4 @@
-TLLPSX11
+TLLPSX12
 
 monster_knife_rare entity Monsters/Monster_knife_rare
 
@@ -35,3 +35,5 @@ decoration_sign_plant entity Decoration/Decoration_sign_plant
 decoration_sign_plasma entity Decoration/Decoration_sign_plasma
 
 decoration_sign_water entity Decoration/Decoration_sign_water
+
+decoration_sign_fire entity Decoration/Decoration_sign_fire
