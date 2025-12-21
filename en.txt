@@ -167,7 +167,6 @@ Decoration/Decoration_sign_organ=Organic Sign
 Decoration/Decoration_sign_plant=Plant Sign
 Decoration/Decoration_sign_plasma=Plasma Sign
 Decoration/Decoration_sign_water=Water Sign
-Decoration/Decoration_sign_fire=Fire Sign
 
 SignBio=Huzzah! This is a sign, with a monster-placed element slapped on top of it.
 
@@ -182,7 +181,6 @@ Decoration/Decoration_sign_organ_bio=<ref>SignBio
 Decoration/Decoration_sign_plant_bio=<ref>SignBio
 Decoration/Decoration_sign_plasma_bio=<ref>SignBio
 Decoration/Decoration_sign_water_bio=<ref>SignBio
-Decoration/Decoration_sign_fire_bio=<ref>SignBio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
