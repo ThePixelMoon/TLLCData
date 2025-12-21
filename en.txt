@@ -851,7 +851,7 @@ str_currency_ITM_bloodcandy=Hematogen
 
 comes from strawberry and apple. Stra + le
 
-str_currency=Technical Var
+str_currency=Currency
 
 
 str_limitedTime=Available for a limited time
