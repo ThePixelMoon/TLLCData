@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3586957748
+CRC: 3528057268
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e28d0500282e7b35a12684a241515ce
+    Hash: 8cf9a1731ffc17269a697f6708b38074
   TypeTreeHash:
     serializedVersion: 2
     Hash: 710764daefddbc8c67836c10c5c17587
@@ -59,5 +59,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/decoration/tllps/Decoration_sign_dream.prefab
+- Assets/Resources/decoration/tllps/Decoration_sign_crystal.prefab
 Dependencies: []

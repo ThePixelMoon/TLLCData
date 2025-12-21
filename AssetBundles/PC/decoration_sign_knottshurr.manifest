@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3586957748
+CRC: 2787808038
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e28d0500282e7b35a12684a241515ce
+    Hash: 1b8334228b85016c8e6731889373277e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 710764daefddbc8c67836c10c5c17587
@@ -59,5 +59,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/decoration/tllps/Decoration_sign_dream.prefab
+- Assets/Resources/decoration/tllps/Decoration_sign_knottshurr.prefab
 Dependencies: []
