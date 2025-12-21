@@ -206,6 +206,7 @@ Monsters/Monster_jeeode_young
 Monsters/Monster_brump_young
 Monsters/Monster_punkleton_young
 Monsters/Monster_yool_young
+Monsters/Monster_wibbler_young diamonds=10000
 -
 monsters_celestials:
 Monsters/Monster_plixie

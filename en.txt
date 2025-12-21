@@ -156,6 +156,9 @@ Monsters/Monster_jeeode_young=Young Jeeode
 Monsters/Monster_jeeode_young_bio=Young Jeeode Bio
 Monsters/Monster_brump_young=Young Brump
 Monsters/Monster_brump_young_bio=Young Brump Bio
+Monsters/Monster_wibbler_young=Young Wubbox
+Monsters/Monster_wibbler_young_bio=Young Wubbox Bio
+
 Decoration/Decoration_sign_air=Air Sign
 Decoration/Decoration_sign_candy=Candy Sign
 Decoration/Decoration_sign_celestial=Celestial Sign
