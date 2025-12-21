@@ -318,14 +318,24 @@ Decoration/Decoration_mors coins=15000 xpWhenPlaced:100 0 0
 
 Decoration/Decoration_sign_air coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_candy coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_celestial coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_cold coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_crystal coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_dream coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_earth coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_electricity coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_faerie coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_fire coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_empty coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_gm coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_knottshurr coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_light coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_organ coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_plant coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_plasma coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_psychic coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_special coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_sign_supercelestial coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_water coins=1500 xpWhenPlaced:100 0 0
 
 Decoration/Obstacle_EM_1 coins=-100 25
