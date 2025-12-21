@@ -1,4 +1,4 @@
-TLLPSX11
+TLLPSX10
 
 monster_knife_rare entity Monsters/Monster_knife_rare
 
