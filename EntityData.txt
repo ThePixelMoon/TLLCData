@@ -97,7 +97,7 @@ Monsters/Monster_punkleton_young diamonds=1000 punkleton 43200 25 coins=1@28@coi
 Monsters/Monster_yool_young diamonds=1000 yool 43200 25 coins=1@28@coins=400 Seasonal yool,yool_young 10 0
 Monsters/Monster_jeeode_young diamonds=1000 jeeode 43200 25 coins=1@28@coins=400 Ethereal jeeode,jeeode_young 10 0
 Monsters/Monster_brump_young diamonds=2500 electricity 43200 25 coins=1@28@coins=400 Supernatural brump,brump_young 10 0
-Monsters/Monster_wibbler_young diamonds=10000 electricity 43200 25 diamonds=1@10@diamonds=100 Supernatural wubbox,wubbox 10 0
+Monsters/Monster_wibbler_young diamonds=10000 electricity 43200 25 diamonds=1@1@diamonds=100 Supernatural wubbox,wubbox 10 0
 
 Monsters/Monster_reedling_young_singer diamonds=10000 air@plant@earth 43200 25 coins=1@72@coins=260 Natural reedling,reedling_young 4 0
 
@@ -263,7 +263,7 @@ Structures/Structure_knottmaker2 coins=100000 0 0
 Structures/Structure_knottmaker3 coins=100000 0 0
 Structures/Structure_knottmaker4 coins=100000 0 0
 
-Structures/Structure_mine diamonds=25 0 0 0 diamonds=60@1@diamonds=1 Structure z,z 4 1
+Structures/Structure_mine diamonds=25 0 0 0 diamonds=1@60@diamonds=1 Structure z,z 4 1
 
 Structures/Structure_timemachine coins=100 0 1
 
