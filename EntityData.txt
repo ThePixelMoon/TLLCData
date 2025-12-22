@@ -412,7 +412,7 @@ Monsters/Krillby coins=0 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased ,
 Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Scaratar coins=0 celestial 0 20 coins=0@120@coins=60 encased , 0 0
 Monsters/Uuduk coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Whimmzies coins=0 fire@light 0 5 coins=0@120@coins=60 encased , 0 0
+Monsters/Whimmzies coins=0 fire@faerie 0 5 coins=0@120@coins=60 encased , 0 0
 Monsters/Loodvigg coins=0 celestial 0 25 coins=0@120@coins=60 encased , 0 0
 Monsters/Buzzinga coins=0 mythical-o 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Shlep coins=0 dream@mythical-o 0 20 coins=0@120@coins=60 encased , 0 0
