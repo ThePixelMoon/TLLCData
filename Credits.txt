@@ -1,14 +1,16 @@
-<Title>str_credits_main
-ThePixelMoon - lead programmer
-Silly Peashooter - artist,composer & developer
+TLLPS by YourLocalMoon
+https://discord.gg/FGGx7NNAVP
 
-And of course,
+<Title>str_credits_main
 Raw Zebra and his team
 
 <Title>str_credits_thanks
-msm.fan for fixing the Shop
-riotlove for explaining that i cant decompile the game to unity project
+msm.fan for fixing the shop buttons
+quinntendo for helping me add Archaic Dunes
 soykanduru for finding a copy of TLLPS 1.3, and rare keytrus
 MarcelSock for having an archive of the server files
+silliestpeashooter for Goku monster
+galliumanimations for the normal Calamity Island sketch that fits the new one
+егор for егор'ing all over the place
 
 and everyone in the discord server for supporting me
