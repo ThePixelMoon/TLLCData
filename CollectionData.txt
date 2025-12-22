@@ -101,12 +101,6 @@ Monsters/Knott_9_rare
 Monsters/Knott_10_rare
 Monsters/Knott_special_rare
 ;
-temmie:
-Monsters/Monster_mammott
-Monsters/Monster_toejammer
-Monsters/Monster_schmoochle
-Monsters/Monster_spunge
-;
 Desert:
 Monsters/Monster_scaratar
 Monsters/Monster_flootfly
