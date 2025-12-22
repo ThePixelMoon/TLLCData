@@ -15,3 +15,5 @@ bbear0303;DFBKRSSGMUISESRLQBADJ;Apologies!;Sorry for your loss of the level 10 Y
 egor;CRVSLRLTOcRFAQAUIZUIIYMUHcGbb;Gift;Hello, hello! Here are some goodies to keep you on the track.;icon@present;diamonds@150;coins@15000;stars@600
 
 keeper;KLQALBXFYAPKYKOFHPOPHHIHYK;Goodies for startup;Hi, here are some goodies to keep you going! - Happy Monstering!;icon@present;diamonds@350;coins@35000;stars@600
+
+gallium;CbKOVQlcLbdGGSKAdNTUPgVGONUSDKFHKga;Thank you;Thanks for renaming your video. Here's a super secret structure for you!;icon@present;Structures/Structure_mine@1
