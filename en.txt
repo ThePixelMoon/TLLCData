@@ -126,6 +126,7 @@ Monsters/Monster_knife_rare_bio=Rare Banchi is the blank n' white version of Ban
 Monsters/Monster_keytrus_rare=Rare Keytrus
 Monsters/Monster_keytrus_rare_bio=The Rare Keytrus is a wonderful creature of them all..via the power of the Limes, they have successfully converted themselves to Lime'oxotic! ...Who am I kidding, they've just painted themselves green.
 str_island_composer=Composer Island
+str_island_temmie=Temmie Village
 Monsters/composer/Monster_potbelly_composer=Potbelly
 Monsters/composer/Monster_potbelly_composer_bio=Potbelly bio
 Monsters/composer/Monster_toejammer_composer=Toe Jammer
