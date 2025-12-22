@@ -58,6 +58,12 @@ decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_ob
 structures:structures
 composer:composer
 ;
+temmie
+monsters:monsters=btn_shop_monsters
+decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_other=btn_shop_deco_other
+structures:structures
+composer:composer
+;
 Calamity
 monsters:monsters=btn_shop_monsters,monster_rares=btn_shop_rares
 decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_other=btn_shop_deco_other

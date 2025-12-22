@@ -110,6 +110,12 @@ Monsters/Monster_trox
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
 ;
+temmie:
+Monsters/Monster_mammott
+Monsters/Monster_toejammer
+Monsters/Monster_spunge
+Monsters/Monster_schmoochle
+;
 Organs:
 Monsters/Monster_handmond
 Monsters/Monster_oaktopus
