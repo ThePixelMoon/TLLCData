@@ -16,4 +16,4 @@ egor;CRVSLRLTOcRFAQAUIZUIIYMUHcGbb;Gift;Hello, hello! Here are some goodies to k
 
 keeper;KLQALBXFYAPKYKOFHPOPHHIHYK;Goodies for startup;Hi, here are some goodies to keep you going! - Happy Monstering!;icon@present;diamonds@350;coins@35000;stars@600
 
-gallium;CbKOVQlcLbdGGSKAdNTUPgVGONUSDKFHKga;Thank you;Thanks for renaming your video. Here's a super secret structure for you!;icon@present;Structures/Structure_mine@1
+gallium;CbKOVQlcLbdGGSKAdNTUPgVGONUSDKFHKga;Thanks!;Thanks for renaming your video. Here's a super secret structure for you!;icon@present;diamonds@50;coins@5000;Structures/Structure_mine@1
