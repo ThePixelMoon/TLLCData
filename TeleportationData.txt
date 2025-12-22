@@ -36,7 +36,7 @@ Monsters/Monster_fleechwurm_undof= 1000
 Monsters/Monster_wubbox_undof= 1000
 Monsters/Monster_wubbox_rare_undof= 1000
 ;
-temmie 3600 0
+temmie 3600 4
 Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
 Monsters/Monster_toejammer_young=Monsters/Monster_toejammer
 Monsters/Monster_mammott_young=Monsters/Monster_mammott
