@@ -263,7 +263,7 @@ Structures/Structure_knottmaker2 coins=100000 0 0
 Structures/Structure_knottmaker3 coins=100000 0 0
 Structures/Structure_knottmaker4 coins=100000 0 0
 
-Structures/Structure_mine diamonds=25 0 0 0 diamonds=1@10800@diamonds=2 Structure z,z 4 1
+Structures/Structure_mine diamonds=25 0 0 0 diamonds=60@1@diamonds=1 Structure z,z 4 1
 
 Structures/Structure_timemachine coins=100 0 1
 
