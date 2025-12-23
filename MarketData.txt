@@ -820,6 +820,12 @@ Decoration/Decoration_test11
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
+Decoration/Obstacle_placable_Candy_1
+Decoration/Obstacle_placable_Candy_2
+Decoration/Obstacle_placable_Candy_3
+Decoration/Obstacle_placable_Candy_4
+Decoration/Obstacle_placable_Candy_5
+Decoration/Obstacle_placable_Candy_6
 -
 structures:
 Structures/Structure_crafter
