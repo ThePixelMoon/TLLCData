@@ -128,6 +128,7 @@ Decoration/Decoration_test9
 Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -298,6 +299,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -442,6 +444,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -559,6 +562,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -661,6 +665,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -774,6 +779,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -886,6 +892,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -1044,6 +1051,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -1170,6 +1178,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -1275,6 +1284,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -1400,6 +1410,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -1515,6 +1526,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial
@@ -1631,6 +1643,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
 Decoration/Decoration_sign_celestial

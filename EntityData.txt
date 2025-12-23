@@ -339,6 +339,7 @@ Decoration/Decoration_sign_special coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_supercelestial coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_water coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_bone coins=1500 xpWhenPlaced:100 0 0
+Decoration/Decoration_spam coins=2500 xpWhenPlaced:100 0 0
 
 Decoration/Obstacle_EM_1 coins=-100 25
 Decoration/Obstacle_EM_2 coins=-500 50

@@ -1,4 +1,4 @@
-TLLPSX13
+TLLPSX14
 
 monster_knife_rare entity Monsters/Monster_knife_rare
 
@@ -58,3 +58,6 @@ decoration_sign_supercelestial entity Decoration/Decoration_sign_supercelestial
 decoration_sign_water entity Decoration/Decoration_sign_water
 
 decoration_sign_bone entity Decoration/Decoration_sign_bone
+
+
+decoration_spam entity Decoration/Decoration_spam

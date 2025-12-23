@@ -183,6 +183,9 @@ Decoration/Decoration_sign_water=Water Sign
 Decoration/Decoration_sign_empty=Empty Sign
 Decoration/Decoration_sign_bone=Bone Sign
 
+Decoration/Decoration_spam=Spamton
+Decoration/Decoration_spam_bio=A specific zebra got in contact with this salesman, to get his way onto the Monster universe!
+
 SignBio=Huzzah! This is a sign, with a monster-placed element slapped on top of it.
 
 Decoration/Decoration_sign_air_bio=<ref>SignBio
