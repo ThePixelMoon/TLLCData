@@ -680,7 +680,6 @@ Monsters/Monster_rootitoot
 Monsters/Monster_trox
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
-Monsters/Monster_clamble
 -
 decorations:
 Decoration/Decoration_test
