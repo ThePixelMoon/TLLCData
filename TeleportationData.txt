@@ -173,8 +173,8 @@ Monsters/Monster_scaratar=Monsters/Monster_dragong_dream 0
 ;
 temmie 3600 4
 Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
-Monsters/Monster_toejammer_young=Monsters/Monster_toejammer
-Monsters/Monster_mammott_young=Monsters/Monster_mammott
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
+Monsters/Monster_mammott_young=Monsters/Monster_mammott 4
 Monsters/Monster_toejammer= 0
 Monsters/Monster_schmoochle= 0
 Monsters/Monster_mammott= 0
