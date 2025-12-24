@@ -776,6 +776,7 @@ Monsters/Monster_kayna_rare_undof
 Monsters/Monster_knife_rare
 Monsters/Monster_sprinklate_rare
 Monsters/Monster_keytrus_rare
+Monsters/Monster_gobstomper_rare
 -
 decorations:
 Decoration/Decoration_test

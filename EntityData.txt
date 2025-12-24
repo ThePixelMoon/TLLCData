@@ -419,6 +419,7 @@ Monsters/Buzzinga coins=0 mythical-o 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Shlep coins=0 dream@mythical-o 0 20 coins=0@120@coins=60 encased , 0 0
 
 
+Monsters/Monster_gobstomper_rare diamonds=350 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper,gobstomper 0 0
 Monsters/Monster_knife_rare diamonds=800 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife_rare,knife_rare 0 0
 Monsters/Monster_sprinklate_rare diamonds=800 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate_rare,sprinklate_rare 0 0
 Monsters/Monster_fwogGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma fwogGM,fwogGM 0 0

@@ -187,6 +187,7 @@ Monsters/Monster_jobo
 Monsters/Monster_treble
 Monsters/Monster_sprinklate_rare
 Monsters/Monster_keytrus_rare
+Monsters/Monster_gobstomper_rare
 ;
 Calamity:
 Monsters/Monster_stogg_undof
