@@ -1888,7 +1888,7 @@ Vinchee
 Zapp
 ;
 Monsters/Monster_knife_rare
-MonochromeBoy
+LZBoy
 Knife
 Zuggy
 Fruity
