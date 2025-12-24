@@ -1939,3 +1939,8 @@ Wibbler
 Wubbin
 Wububububububububunga
 ;
+Monsters/Monster_gobstomper_rare
+Stompy
+The Jawbreaker
+PurpleMan
+;
