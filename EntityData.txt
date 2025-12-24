@@ -185,11 +185,11 @@ Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 diamonds=1
 Monsters/Monster_wubbox_undof coins=7500000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wubbox-o 0 3
 Monsters/Monster_wubbox_rare_undof stars=1 electricity 0 10000000 diamonds=2,stars=2,stars=2@43200@diamonds=4,stars=4,stars=2 Supernatural-r ,Wubbox_rare-o 0 3
 
-Monsters/Monster_wheezel diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
-Monsters/Monster_wheezel_rock diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
+Monsters/Monster_wheezel diamonds=20 electricity 0 1000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
+Monsters/Monster_wheezel_rock diamonds=20 electricity 0 1000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
 
-Monsters/Monster_knurv diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
-Monsters/Monster_knurv_rock diamonds=20 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
+Monsters/Monster_knurv diamonds=20 electricity 0 1000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
+Monsters/Monster_knurv_rock diamonds=20 electricity 0 1000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,Wheezel 0 3
 
 Monsters/Monster_toejammer_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural toejammer-o,toejammer-o 0 0
 
@@ -395,15 +395,15 @@ Decoration/Obstacle_placable_Knott_10 diamonds=10 xpWhenPlaced:100 0 0
 Decoration/Dog food=2000 xpWhenPlaced:100 20 0
 
 
-Monsters/Monster_mammott_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
-Monsters/Monster_deedge_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
-Monsters/Monster_likho_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
-Monsters/Monster_quibble_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
-Monsters/Monster_stogg_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
-Monsters/Monster_toejammer_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
-Monsters/Monster_ghazt_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_mammott_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_deedge_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_likho_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_quibble_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_stogg_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_toejammer_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_ghazt_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
 Monsters/VOIDCORN_dream coins=500 nightmare 0 150 coins=500@120@coins=60 nightmare , 0 0
-Monsters/Monster_dragong_dream coins=500 nightmare 0 999999 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_dragong_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
 
 
 Monsters/Bonapetite coins=0 electricity 0 25 coins=0@120@coins=60 encased , 0 0
