@@ -1,16 +1,100 @@
 ManifestFileVersion: 0
-CRC: 4221521189
+CRC: 1586234357
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: egyptpipes_audio
+      Name: monster_sprinklate_rare
       Dependencies: {}
     Info_1:
-      Name: egyptpipes_entities
+      Name: monster_keytrus_rare
       Dependencies: {}
     Info_2:
-      Name: egyptpipes_midi
+      Name: monster_yool_young
       Dependencies: {}
     Info_3:
-      Name: egyptpipes_scene
+      Name: monster_jeeode_young
+      Dependencies: {}
+    Info_4:
+      Name: monster_brump_young
+      Dependencies: {}
+    Info_5:
+      Name: monster_wibbler_young
+      Dependencies: {}
+    Info_6:
+      Name: decoration_spam
+      Dependencies: {}
+    Info_7:
+      Name: monster_knife_rare
+      Dependencies: {}
+    Info_8:
+      Name: monster_gobstomper_rare
+      Dependencies: {}
+    Info_9:
+      Name: decoration_sign_air
+      Dependencies: {}
+    Info_10:
+      Name: decoration_sign_bone
+      Dependencies: {}
+    Info_11:
+      Name: decoration_sign_candy
+      Dependencies: {}
+    Info_12:
+      Name: decoration_sign_celestial
+      Dependencies: {}
+    Info_13:
+      Name: decoration_sign_cold
+      Dependencies: {}
+    Info_14:
+      Name: decoration_sign_crystal
+      Dependencies: {}
+    Info_15:
+      Name: decoration_sign_dream
+      Dependencies: {}
+    Info_16:
+      Name: decoration_sign_earth
+      Dependencies: {}
+    Info_17:
+      Name: decoration_sign_electricity
+      Dependencies: {}
+    Info_18:
+      Name: decoration_sign_empty
+      Dependencies: {}
+    Info_19:
+      Name: decoration_sign_faerie
+      Dependencies: {}
+    Info_20:
+      Name: decoration_sign_fire
+      Dependencies: {}
+    Info_21:
+      Name: decoration_sign_gm
+      Dependencies: {}
+    Info_22:
+      Name: decoration_sign_knottshurr
+      Dependencies: {}
+    Info_23:
+      Name: decoration_sign_light
+      Dependencies: {}
+    Info_24:
+      Name: decoration_sign_organ
+      Dependencies: {}
+    Info_25:
+      Name: decoration_sign_plant
+      Dependencies: {}
+    Info_26:
+      Name: decoration_sign_plasma
+      Dependencies: {}
+    Info_27:
+      Name: decoration_sign_psychic
+      Dependencies: {}
+    Info_28:
+      Name: decoration_sign_special
+      Dependencies: {}
+    Info_29:
+      Name: decoration_sign_supercelestial
+      Dependencies: {}
+    Info_30:
+      Name: decoration_sign_water
+      Dependencies: {}
+    Info_31:
+      Name: structure_mine
       Dependencies: {}
