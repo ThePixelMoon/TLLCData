@@ -1,4 +1,4 @@
-TLLPSX21
+TLLPSX22
 
 monster_knife_rare entity Monsters/Monster_knife_rare
 
@@ -15,9 +15,6 @@ monster_brump_young entity Monsters/Monster_brump_young
 monster_wibbler_young entity Monsters/Monster_wibbler_young
 
 monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
-
-monster_jobo entity Monsters/Monster_jobo
-monster_treble entity Monsters/Monster_treble
 
 decoration_sign_air entity Decoration/Decoration_sign_air
 
