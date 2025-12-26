@@ -1174,7 +1174,7 @@ goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 str_setting_credits=Credits
 
-str_credits_main=T.L.L. by:
+str_credits_main=TLLPS by:
 str_credits_execProd=Support:
 str_credits_art=Art:
 str_credits_anim=Animations:

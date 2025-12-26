@@ -1,13 +1,12 @@
 <Title>str_credits_main
 ThePixelMoon - lead programmer
-Silly Peashooter - artist,composer & developer
+Silly Peashooter - artist,composer,animator & developer
 
 And of course,
 Raw Zebra and his team
 
 <Title>str_credits_thanks
 msm.fan for fixing the Shop
-riotlove for explaining that i cant decompile the game to unity project
 soykanduru for finding a copy of TLLPS 1.3, and rare keytrus
 MarcelSock for having an archive of the server files
 galliumanimations for the normal Calamity Island sketch that fits the new one
