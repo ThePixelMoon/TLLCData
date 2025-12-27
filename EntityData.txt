@@ -314,7 +314,7 @@ Decoration/Decoration_test10 coins=200 xpWhenPlaced:100 5 1
 Decoration/Decoration_test11 coins=200 xpWhenPlaced:100 5 0
 Decoration/Decoration_test12 coins=200 xpWhenPlaced:100 5 0
 
-Decoration/decoration_gbluff coins=5000 xpWhenPlaced:50000 0 0
+Decoration/Decoration_gbluff coins=5000 xpWhenPlaced:50000 0 0
 
 Decoration/Decoration_knott coins=20000 xpWhenPlaced:100 0 0
 Decoration/Decoration_mors coins=15000 xpWhenPlaced:100 0 0
