@@ -1,0 +1,6376 @@
+{
+  "monsters": [
+    {
+      "id": "Monsters/Monster_toejammer",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "water",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "toejammer",
+        "icon": "toejammer"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_potbelly",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "plant",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "potbelly",
+        "icon": "potbelly"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_tweedle",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "air",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "tweedle",
+        "icon": "tweedle"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_flootfly",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "faerie",
+      "timeToBreed": 14400,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "flootfly",
+        "icon": "flootfly"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_wadee",
+      "cost": {
+        "diamonds": 60
+      },
+      "elements": "water@faerie",
+      "timeToBreed": 36000,
+      "foodNeeded": 20,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 150
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "wadee",
+        "icon": "wadee"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_choral",
+      "cost": {
+        "diamonds": 80
+      },
+      "elements": "water@plant@faerie",
+      "timeToBreed": 46800,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 200
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "choral",
+        "icon": "choral"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_likho",
+      "cost": {
+        "diamonds": 60
+      },
+      "elements": "plant@faerie",
+      "timeToBreed": 36000,
+      "foodNeeded": 20,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 150
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "likho",
+        "icon": "likho"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_oaktopus",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "water@plant",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "oaktopus",
+        "icon": "oaktopus"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_quibble",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "water@air",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "quibble",
+        "icon": "quibble"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_spunge",
+      "cost": {
+        "diamonds": 70
+      },
+      "elements": "water@air@plant",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "spunge",
+        "icon": "spunge"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_dulsylvan",
+      "cost": {
+        "diamonds": 80
+      },
+      "elements": "air@plant@faerie",
+      "timeToBreed": 46800,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "dulsylvan",
+        "icon": "dulsylvan"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_banno",
+      "cost": {
+        "diamonds": 80
+      },
+      "elements": "air@water@faerie",
+      "timeToBreed": 46800,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "banno",
+        "icon": "banno"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_dandidoo",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "air@plant",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "dandidoo",
+        "icon": "dandidoo"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_varrow",
+      "cost": {
+        "diamonds": 60
+      },
+      "elements": "air@faerie",
+      "timeToBreed": 36000,
+      "foodNeeded": 20,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 150
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "varrow",
+        "icon": "varrow"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_stoopa",
+      "cost": {
+        "diamonds": 130
+      },
+      "elements": "water@faerie@air@plant",
+      "timeToBreed": 79200,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "stoopa",
+        "icon": "stoopa"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_deedge",
+      "cost": {
+        "diamonds": 120
+      },
+      "elements": "water@plant@cold@air",
+      "timeToBreed": 79200,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "deedge",
+        "icon": "deedge"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_toejammer_rare",
+      "cost": {
+        "diamonds": 75
+      },
+      "elements": "water",
+      "timeToBreed": 600,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 120,
+        "max": {
+          "coins": 120
+        }
+      },
+      "class": "Natural-r",
+      "sprites": {
+        "egg": "toejammer_rare",
+        "icon": "toejammer_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_oaktopus_rare",
+      "cost": {
+        "diamonds": 80
+      },
+      "elements": "water@plant",
+      "timeToBreed": 57600,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 180
+        }
+      },
+      "class": "Natural-r",
+      "sprites": {
+        "egg": "oaktopus_rare",
+        "icon": "oaktopus_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_quibble_rare",
+      "cost": {
+        "diamonds": 80
+      },
+      "elements": "water@air",
+      "timeToBreed": 57600,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 180
+        }
+      },
+      "class": "Natural-r",
+      "sprites": {
+        "egg": "quibble_rare",
+        "icon": "quibble_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_varrow_rare",
+      "cost": {
+        "diamonds": 130
+      },
+      "elements": "air@faerie",
+      "timeToBreed": 72000,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 300
+        }
+      },
+      "class": "Magical-r",
+      "sprites": {
+        "egg": "varrow_rare",
+        "icon": "varrow_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_spunge_rare",
+      "cost": {
+        "diamonds": 180
+      },
+      "elements": "water@air@plant",
+      "timeToBreed": 86400,
+      "foodNeeded": 50,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural-r",
+      "sprites": {
+        "egg": "spunge_rare",
+        "icon": "spunge_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_dulsylvan_rare",
+      "cost": {
+        "diamonds": 160
+      },
+      "elements": "air@plant@faerie",
+      "timeToBreed": 93600,
+      "foodNeeded": 60,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 72,
+        "max": {
+          "coins": 520
+        }
+      },
+      "class": "Magical-r",
+      "sprites": {
+        "egg": "dulsylvan_rare",
+        "icon": "dulsylvan_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_banno_rare",
+      "cost": {
+        "diamonds": 160
+      },
+      "elements": "air@water@faerie",
+      "timeToBreed": 93600,
+      "foodNeeded": 60,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 72,
+        "max": {
+          "coins": 520
+        }
+      },
+      "class": "Magical-r",
+      "sprites": {
+        "egg": "banno_rare",
+        "icon": "banno_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_phangler_rare",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "water@fire",
+      "timeToBreed": 72000,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 180
+        }
+      },
+      "class": "Natural-r",
+      "sprites": {
+        "egg": "phangler_rare",
+        "icon": "phangler_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_clamble",
+      "cost": {
+        "diamonds": 70
+      },
+      "elements": "earth@plant@cold",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "clamble",
+        "icon": "clamble"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_denchuhs",
+      "cost": {
+        "diamonds": 60
+      },
+      "elements": "water@bone",
+      "timeToBreed": 36000,
+      "foodNeeded": 20,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 150
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "denchuhs",
+        "icon": "denchuhs"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_pango",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "air@cold",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "pango",
+        "icon": "pango"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_olga",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "water-g",
+      "timeToBreed": 72000,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 180
+        }
+      },
+      "class": "Gamma",
+      "sprites": {
+        "egg": "olga",
+        "icon": "olga"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_potbellyGM",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "water-g",
+      "timeToBreed": 72000,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 180
+        }
+      },
+      "class": "Gamma",
+      "sprites": {
+        "egg": "potbellyGM",
+        "icon": "potbellyGM"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_quibbleGM",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "water-g",
+      "timeToBreed": 72000,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 180
+        }
+      },
+      "class": "Gamma",
+      "sprites": {
+        "egg": "potbellyGM",
+        "icon": "potbellyGM"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_mammott",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "cold",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "mammott",
+        "icon": "mammott"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_mammott_meduza",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "cold",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "mammott",
+        "icon": "mammott"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_noggin",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "earth",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "noggin",
+        "icon": "noggin"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_noggin_meduza",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "earth",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "noggin",
+        "icon": "noggin"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_boskus",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "cold@fire",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "boskus",
+        "icon": "boskus"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_cybop",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "air@earth",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "cybop",
+        "icon": "cybop"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_maw",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "cold@water",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "maw",
+        "icon": "maw"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_maw_meduza",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "cold@water",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "maw",
+        "icon": "maw"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_bisonorus",
+      "cost": {
+        "diamonds": 130
+      },
+      "elements": "air@plant@water@fire",
+      "timeToBreed": 79200,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "bisonorus",
+        "icon": "bisonorus"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_pongping",
+      "cost": {
+        "diamonds": 130
+      },
+      "elements": "plant@earth@fire@cold",
+      "timeToBreed": 79200,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "pongping",
+        "icon": "pongping"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_pongping_meduza",
+      "cost": {
+        "diamonds": 130
+      },
+      "elements": "plant@earth@fire@cold",
+      "timeToBreed": 79200,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "pongping",
+        "icon": "pongping"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_tiawa",
+      "cost": {
+        "diamonds": 130
+      },
+      "elements": "earth@water@fire@cold",
+      "timeToBreed": 79200,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "tiawa",
+        "icon": "tiawa"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_shellbeat",
+      "cost": {
+        "diamonds": 130
+      },
+      "elements": "earth@water@plant@air",
+      "timeToBreed": 79200,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "shellbeat",
+        "icon": "shellbeat"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_meduza",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "undead",
+      "timeToBreed": 0,
+      "foodNeeded": 100,
+      "production": {
+        "amount": {
+          "coins": 10
+        },
+        "rate": 80,
+        "max": {
+          "coins": 1000
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "meduza",
+        "icon": "meduza"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_pummel",
+      "cost": {
+        "diamonds": 70
+      },
+      "elements": "water@earth@plant",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "pummel",
+        "icon": "pummel"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_pummel_meduza",
+      "cost": {
+        "diamonds": 70
+      },
+      "elements": "water@earth@plant",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "pummel",
+        "icon": "pummel"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_trox",
+      "cost": {
+        "diamonds": 70
+      },
+      "elements": "water@earth@cold",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "trox",
+        "icon": "trox"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_knucklehead",
+      "cost": {
+        "diamonds": 550
+      },
+      "elements": "faerie@light",
+      "timeToBreed": 36000,
+      "foodNeeded": 50,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 200
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "knucklehead",
+        "icon": "knucklehead"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_knucklehead_meduza",
+      "cost": {
+        "diamonds": 550
+      },
+      "elements": "faerie@light",
+      "timeToBreed": 36000,
+      "foodNeeded": 50,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 200
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "kuncklehead",
+        "icon": "kuncklehead"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_potbelly_young",
+      "cost": {
+        "coins": 250
+      },
+      "elements": "plant",
+      "timeToBreed": 300,
+      "foodNeeded": 1,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "potbelly",
+        "icon": "potbelly_young"
+      },
+      "levelRequirement": 2,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_toejammer_young",
+      "cost": {
+        "coins": 250
+      },
+      "elements": "water",
+      "timeToBreed": 300,
+      "foodNeeded": 1,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "toejammer_young",
+        "icon": "toejammer_young"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_tweedle_young",
+      "cost": {
+        "coins": 300
+      },
+      "elements": "air",
+      "timeToBreed": 300,
+      "foodNeeded": 1,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "tweedle_young",
+        "icon": "tweedle_young"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_mammott_young",
+      "cost": {
+        "coins": 250
+      },
+      "elements": "cold",
+      "timeToBreed": 300,
+      "foodNeeded": 1,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "mammott",
+        "icon": "mammott_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_flootfly_young",
+      "cost": {
+        "coins": 3000
+      },
+      "elements": "faerie",
+      "timeToBreed": 14400,
+      "foodNeeded": 2,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "flootfly",
+        "icon": "flootfly_young"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_oaktopus_young",
+      "cost": {
+        "diamonds": 100
+      },
+      "elements": "water@plant",
+      "timeToBreed": 28800,
+      "foodNeeded": 3,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "oaktopus",
+        "icon": "oaktopus_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_dandidoo_young",
+      "cost": {
+        "diamonds": 100
+      },
+      "elements": "air@plant",
+      "timeToBreed": 28800,
+      "foodNeeded": 3,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "dandidoo_young",
+        "icon": "dandidoo_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_theremind_young",
+      "cost": {
+        "coins": 3000
+      },
+      "elements": "psychic",
+      "timeToBreed": 14400,
+      "foodNeeded": 2,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "theremind",
+        "icon": "theremind_young"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_fluoress_young",
+      "cost": {
+        "coins": 2000
+      },
+      "elements": "light",
+      "timeToBreed": 14400,
+      "foodNeeded": 2,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "fluoress_young",
+        "icon": "fluoress_young"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_clackula_young",
+      "cost": {
+        "coins": 4000
+      },
+      "elements": "bone",
+      "timeToBreed": 14400,
+      "foodNeeded": 2,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "clackula",
+        "icon": "clackula_young"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_osstax_young",
+      "cost": {
+        "diamonds": 200
+      },
+      "elements": "faerie@bone",
+      "timeToBreed": 36000,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 150
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "osstax",
+        "icon": "osstax_young"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_knucklehead_young",
+      "cost": {
+        "diamonds": 200
+      },
+      "elements": "faerie@light",
+      "timeToBreed": 36000,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 150
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "knucklehead",
+        "icon": "knucklehead_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_maw_young",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "water@cold",
+      "timeToBreed": 28800,
+      "foodNeeded": 3,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "maw_young",
+        "icon": "maw_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_stogg_young",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "earth@fire",
+      "timeToBreed": 28800,
+      "foodNeeded": 3,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "stogg_young",
+        "icon": "stogg_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_phangler_young",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "fire@water",
+      "timeToBreed": 28800,
+      "foodNeeded": 3,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "phangler_young",
+        "icon": "phangler_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_noggin_young",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "earth",
+      "timeToBreed": 300,
+      "foodNeeded": 1,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "noggin",
+        "icon": "noggin_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_kayna_young",
+      "cost": {
+        "coins": 5000
+      },
+      "elements": "fire",
+      "timeToBreed": 300,
+      "foodNeeded": 1,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "kayna",
+        "icon": "kayna_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_quibble_young",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "water@air",
+      "timeToBreed": 28800,
+      "foodNeeded": 3,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "quibble_young",
+        "icon": "quibble_young"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_rootitoot_young",
+      "cost": {
+        "diamonds": 500
+      },
+      "elements": "water@fire@plant",
+      "timeToBreed": 43200,
+      "foodNeeded": 4,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "rootitoot",
+        "icon": "rootitoot_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_reedling_young",
+      "cost": {
+        "diamonds": 500
+      },
+      "elements": "air@plant@earth",
+      "timeToBreed": 43200,
+      "foodNeeded": 4,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "reedling",
+        "icon": "reedling_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_spunge_young",
+      "cost": {
+        "diamonds": 500
+      },
+      "elements": "water@air@plant",
+      "timeToBreed": 43200,
+      "foodNeeded": 4,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "spunge",
+        "icon": "spunge_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_bridgit_young",
+      "cost": {
+        "diamonds": 600
+      },
+      "elements": "faerie@earth@fire",
+      "timeToBreed": 64800,
+      "foodNeeded": 7,
+      "production": {
+        "amount": {
+          "coins": 8
+        },
+        "rate": 60,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "bridgit",
+        "icon": "bridgit_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_frondley_young",
+      "cost": {
+        "diamonds": 750
+      },
+      "elements": "faerie@psychic@light",
+      "timeToBreed": 64800,
+      "foodNeeded": 7,
+      "production": {
+        "amount": {
+          "coins": 8
+        },
+        "rate": 60,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "frondley",
+        "icon": "frondley_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_gloptic_young",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "psychic@water@fire@plant",
+      "timeToBreed": 100800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 10
+        },
+        "rate": 60,
+        "max": {
+          "coins": 400
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "gloptic",
+        "icon": "gloptic_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_punkleton_young",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "punkleton",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 400
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "punkleton",
+        "icon": "punkleton_young"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_yool_young",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "yool",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 400
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "yool",
+        "icon": "yool_young"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_jeeode_young",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "jeeode",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 400
+        }
+      },
+      "class": "Ethereal",
+      "sprites": {
+        "egg": "jeeode",
+        "icon": "jeeode_young"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_brump_young",
+      "cost": {
+        "diamonds": 2500
+      },
+      "elements": "electricity",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 400
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "brump",
+        "icon": "brump_young"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_wibbler_young",
+      "cost": {
+        "diamonds": 10000
+      },
+      "elements": "electricity",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "diamonds": 2
+        },
+        "rate": 600,
+        "max": {
+          "diamonds": 2
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "wubbox",
+        "icon": "wubbox"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_reedling_young_singer",
+      "cost": {
+        "diamonds": 10000
+      },
+      "elements": "air@plant@earth",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "reedling",
+        "icon": "reedling_young"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_fluoress",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "light",
+      "timeToBreed": 14400,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "fluoress",
+        "icon": "fluoress"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_rootitoot",
+      "cost": {
+        "diamonds": 70
+      },
+      "elements": "water@fire@plant",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "rootitoot",
+        "icon": "rootitoot"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_schmoochle",
+      "cost": {
+        "diamonds": 250
+      },
+      "elements": "schmoochle",
+      "timeToBreed": 86400,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "schmoochle",
+        "icon": "schmoochle"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_punkleton",
+      "cost": {
+        "diamonds": 250
+      },
+      "elements": "punkleton",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "punkleton",
+        "icon": "punkleton"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_ffydill",
+      "cost": {
+        "diamonds": 250
+      },
+      "elements": "ffidyll",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "ffydill",
+        "icon": "ffydill"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_spurrit",
+      "cost": {
+        "diamonds": 250
+      },
+      "elements": "spurrit",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "spurrit",
+        "icon": "spurrit"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_furcorn",
+      "cost": {
+        "diamonds": 40
+      },
+      "elements": "plant@cold",
+      "timeToBreed": 28800,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "furcorn",
+        "icon": "furcorn"
+      },
+      "levelRequirement": 4,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_spurrit_desert",
+      "cost": {
+        "diamonds": 250
+      },
+      "elements": "spurrit",
+      "timeToBreed": 43200,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 28,
+        "max": {
+          "coins": 550
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "spurrit",
+        "icon": "spurrit"
+      },
+      "levelRequirement": 10,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Special/Monster_melochness",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "water@faerie",
+      "timeToBreed": 1,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "melochness",
+        "icon": "melochness"
+      },
+      "levelRequirement": 4,
+      "limit": 5
+    },
+    {
+      "id": "Monsters/Monster_percFrog",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "water@earth@faerie",
+      "timeToBreed": 10,
+      "foodNeeded": 0,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "percFrog",
+        "icon": "percFrog"
+      },
+      "levelRequirement": 4,
+      "limit": 5
+    },
+    {
+      "id": "Monsters/Monster_arackulele",
+      "cost": {
+        "diamonds": 6000
+      },
+      "elements": "mech@shadow",
+      "timeToBreed": 10,
+      "foodNeeded": 100,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 72,
+        "max": {
+          "coins": 1000
+        }
+      },
+      "class": "Ethereal",
+      "sprites": {
+        "egg": "arackulele",
+        "icon": "arackulele"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_reebro",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "mech",
+      "timeToBreed": 10,
+      "foodNeeded": 100,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 72,
+        "max": {
+          "coins": 1000
+        }
+      },
+      "class": "Ethereal",
+      "sprites": {
+        "egg": "reebro",
+        "icon": "reebro"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_sox",
+      "cost": {
+        "diamonds": 6000
+      },
+      "elements": "crystal@plasma",
+      "timeToBreed": 10,
+      "foodNeeded": 100,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 72,
+        "max": {
+          "coins": 1000
+        }
+      },
+      "class": "Ethereal",
+      "sprites": {
+        "egg": "sox",
+        "icon": "sox"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_sox_meduza",
+      "cost": {
+        "diamonds": 6000
+      },
+      "elements": "crystal@plasma",
+      "timeToBreed": 10,
+      "foodNeeded": 100,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 72,
+        "max": {
+          "coins": 1000
+        }
+      },
+      "class": "Ethereal",
+      "sprites": {
+        "egg": "sox",
+        "icon": "sox"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_hornacle",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "hornacle",
+        "icon": "hornacle"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_loodvigg",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "loodvigg",
+        "icon": "loodvigg"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_blasoom",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "blasoom",
+        "icon": "blasoom"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_torrt",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "torrt",
+        "icon": "torrt"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_scaratar",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "scaratar",
+        "icon": "scaratar"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_syncopite",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "syncopite",
+        "icon": "syncopite"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_attmoz",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "attmoz",
+        "icon": "attmoz"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_vhamp",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "vhamp",
+        "icon": "vhamp"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_furnoss",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "furnoss",
+        "icon": "furnoss"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_glaishur",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "glaishur",
+        "icon": "glaishur"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_galvana",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "galvana",
+        "icon": "galvana"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_plixie",
+      "cost": {
+        "diamonds": 7500
+      },
+      "elements": "celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial",
+      "sprites": {
+        "egg": "plixie",
+        "icon": "plixie"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_light",
+      "cost": {
+        "diamonds": 10000
+      },
+      "elements": "super-celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial-s",
+      "sprites": {
+        "egg": "light",
+        "icon": "light"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_bone",
+      "cost": {
+        "diamonds": 10000
+      },
+      "elements": "super-celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial-s",
+      "sprites": {
+        "egg": "bone",
+        "icon": "bone"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_psychic",
+      "cost": {
+        "diamonds": 10000
+      },
+      "elements": "super-celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial-s",
+      "sprites": {
+        "egg": "psychic",
+        "icon": "psychic"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_faerie",
+      "cost": {
+        "diamonds": 10000
+      },
+      "elements": "super-celestial",
+      "timeToBreed": 19,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "coins": 4000
+        },
+        "rate": 43200,
+        "max": {
+          "coins": 10000
+        }
+      },
+      "class": "Celestial-s",
+      "sprites": {
+        "egg": "faerie",
+        "icon": "faerie"
+      },
+      "levelRequirement": 8,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_phangler",
+      "cost": {
+        "diamonds": 500
+      },
+      "elements": "water@fire",
+      "timeToBreed": 36000,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 80,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "phangler",
+        "icon": "phangler"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_bridgit",
+      "cost": {
+        "diamonds": 750
+      },
+      "elements": "faerie@earth@fire",
+      "timeToBreed": 36000,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 260
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "bridgit",
+        "icon": "bridgit"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_frondley",
+      "cost": {
+        "diamonds": 750
+      },
+      "elements": "psychic@faerie@light",
+      "timeToBreed": 36000,
+      "foodNeeded": 50,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 72,
+        "max": {
+          "coins": 300
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "frondley",
+        "icon": "frondley"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_theremind",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "psychic",
+      "timeToBreed": 14400,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "theremind",
+        "icon": "theremind"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_theremind_meduza",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "psychic",
+      "timeToBreed": 14400,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Magical",
+      "sprites": {
+        "egg": "theremind",
+        "icon": "theremind"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_handmond",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "organ",
+      "timeToBreed": 14400,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "handmond",
+        "icon": "handmond"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_whimstlop",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "organ",
+      "timeToBreed": 14400,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "whimstlop",
+        "icon": "whimstlop"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_whimstlop_meduza",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "organ",
+      "timeToBreed": 14400,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 90
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "whimstlop",
+        "icon": "whimstlop"
+      },
+      "levelRequirement": 6,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_1",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_1"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_2",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_2"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_3",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_3"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_4",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_4"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_5",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_5"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_6",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_6"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_7",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_7"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_8",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_8"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_9",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_9"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_10",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 10
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_10"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_special",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 10
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 10,
+          "stars": 20
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_special"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_1_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_1_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_2_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_2_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_3_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_3_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_4_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_4_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_5_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_5_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_6_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_6_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_7_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_7_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_8_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_8_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_9_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_9_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_10_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 4,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_10_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Knott_special_rare",
+      "cost": {
+        "diamonds": 2000
+      },
+      "elements": "knottshurr",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 5,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "",
+        "icon": "Knott_special_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_maulch",
+      "cost": {
+        "coins": 10000
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "maulch"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_poewk",
+      "cost": {
+        "coins": 10000
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "poewk"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_pixolotl",
+      "cost": {
+        "coins": 10000
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "pixolotl"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_fleechwurm_undof",
+      "cost": {
+        "coins": 100000
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "Fleechwurm-o"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_wubbox_undof",
+      "cost": {
+        "coins": 7500000
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "Wubbox-o"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_wubbox_rare_undof",
+      "cost": {
+        "stars": 1
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 10000000,
+      "production": {
+        "amount": {
+          "diamonds": 2,
+          "stars": 2
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 4,
+          "stars": 2
+        }
+      },
+      "class": "Supernatural-r",
+      "sprites": {
+        "egg": "",
+        "icon": "Wubbox_rare-o"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_wheezel",
+      "cost": {
+        "diamonds": 20
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 1000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "Wheezel"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_wheezel_rock",
+      "cost": {
+        "diamonds": 20
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 1000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "Wheezel"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_knurv",
+      "cost": {
+        "diamonds": 20
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 1000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "Wheezel"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_knurv_rock",
+      "cost": {
+        "diamonds": 20
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 1000,
+      "production": {
+        "amount": {
+          "diamonds": 1,
+          "stars": 1
+        },
+        "rate": 43200,
+        "max": {
+          "diamonds": 2,
+          "stars": 1
+        }
+      },
+      "class": "Supernatural",
+      "sprites": {
+        "egg": "",
+        "icon": "Wheezel"
+      },
+      "levelRequirement": 0,
+      "limit": 3
+    },
+    {
+      "id": "Monsters/Monster_toejammer_undof",
+      "cost": {
+        "coins": 250
+      },
+      "elements": "water-o",
+      "timeToBreed": 60,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 60,
+        "max": {
+          "coins": 30
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "toejammer-o",
+        "icon": "toejammer-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_kayna_undof",
+      "cost": {
+        "coins": 22500
+      },
+      "elements": "fire-o",
+      "timeToBreed": 25200,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 60,
+        "max": {
+          "coins": 45
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "kayna-o",
+        "icon": "kayna-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_kayna_rare_undof",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "fire-o",
+      "timeToBreed": 28800,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 60,
+        "max": {
+          "coins": 300
+        }
+      },
+      "class": "Natural-r",
+      "sprites": {
+        "egg": "kayna_rare-o",
+        "icon": "kayna_rare-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_noggin_undof",
+      "cost": {
+        "coins": 300
+      },
+      "elements": "earth-o",
+      "timeToBreed": 5,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 4
+        },
+        "rate": 60,
+        "max": {
+          "coins": 18
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "noggin-o",
+        "icon": "noggin-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_noggin_rare_undof",
+      "cost": {
+        "diamonds": 75
+      },
+      "elements": "earth-o",
+      "timeToBreed": 5,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 240
+        }
+      },
+      "class": "Natural-r",
+      "sprites": {
+        "egg": "noggin_rare-o",
+        "icon": "noggin_rare-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_fwog_undof",
+      "cost": {
+        "diamonds": 30
+      },
+      "elements": "earth-o@water-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 8,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 60,
+        "max": {
+          "coins": 225
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "fwog-o",
+        "icon": "fwog-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_thrumble_undof",
+      "cost": {
+        "diamonds": 100
+      },
+      "elements": "earth-o@water-o@fire-o",
+      "timeToBreed": 72000,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 12
+        },
+        "rate": 60,
+        "max": {
+          "coins": 240
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "thrumble-o",
+        "icon": "thrumble-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_phangler_undof",
+      "cost": {
+        "diamonds": 50
+      },
+      "elements": "water-o@fire-o",
+      "timeToBreed": 36000,
+      "foodNeeded": 9,
+      "production": {
+        "amount": {
+          "coins": 6
+        },
+        "rate": 60,
+        "max": {
+          "coins": 500
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "phnagler-o",
+        "icon": "phnagler-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_stogg_undof",
+      "cost": {
+        "diamonds": 50
+      },
+      "elements": "earth-o@fire-o",
+      "timeToBreed": 36000,
+      "foodNeeded": 9,
+      "production": {
+        "amount": {
+          "coins": 6
+        },
+        "rate": 60,
+        "max": {
+          "coins": 500
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "stogg-o",
+        "icon": "stogg-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_gumtromp",
+      "cost": {
+        "coins": 25000
+      },
+      "elements": "candy",
+      "timeToBreed": 21600,
+      "foodNeeded": 7,
+      "production": {
+        "amount": {
+          "coins": 4
+        },
+        "rate": 60,
+        "max": {
+          "coins": 57
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "gumtromp",
+        "icon": "gumtromp"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_gumtromp_rare",
+      "cost": {
+        "diamonds": 225
+      },
+      "elements": "candy",
+      "timeToBreed": 28800,
+      "foodNeeded": 14,
+      "production": {
+        "amount": {
+          "coins": 8
+        },
+        "rate": 60,
+        "max": {
+          "coins": 100
+        }
+      },
+      "class": "Lost-r",
+      "sprites": {
+        "egg": "gumtromp_rare",
+        "icon": "gumtromp_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_keytrus",
+      "cost": {
+        "diamonds": 300
+      },
+      "elements": "earth-o@water-o@candy",
+      "timeToBreed": 57600,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 11
+        },
+        "rate": 60,
+        "max": {
+          "coins": 7320
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "keytrus",
+        "icon": "keytrus"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_keytrus_rare",
+      "cost": {
+        "diamonds": 400
+      },
+      "elements": "earth-o@water-o@candy",
+      "timeToBreed": 57600,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 11
+        },
+        "rate": 60,
+        "max": {
+          "coins": 7320
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "keytrus_rare",
+        "icon": "keytrus_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_koodahcane",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "water-o@candy",
+      "timeToBreed": 32400,
+      "foodNeeded": 16,
+      "production": {
+        "amount": {
+          "coins": 7
+        },
+        "rate": 60,
+        "max": {
+          "coins": 481
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "koodahcane",
+        "icon": "koodahcane"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_marshflamo",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "fire-o@candy",
+      "timeToBreed": 32400,
+      "foodNeeded": 16,
+      "production": {
+        "amount": {
+          "coins": 7
+        },
+        "rate": 60,
+        "max": {
+          "coins": 481
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "marshflamo",
+        "icon": "marshflamo"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_brasscuit",
+      "cost": {
+        "diamonds": 300
+      },
+      "elements": "earth-o@candy@fire-o",
+      "timeToBreed": 57600,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 11
+        },
+        "rate": 60,
+        "max": {
+          "coins": 7320
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "brasscuit",
+        "icon": "brasscuit"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_gobstomper",
+      "cost": {
+        "diamonds": 150
+      },
+      "elements": "earth-o@candy",
+      "timeToBreed": 32400,
+      "foodNeeded": 16,
+      "production": {
+        "amount": {
+          "coins": 7
+        },
+        "rate": 60,
+        "max": {
+          "coins": 481
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "gobstomper",
+        "icon": "gobstomper"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_claramel",
+      "cost": {
+        "diamonds": 300
+      },
+      "elements": "candy@water-o@fire-o",
+      "timeToBreed": 57600,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 11
+        },
+        "rate": 60,
+        "max": {
+          "coins": 7320
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "claramel",
+        "icon": "claramel"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_sprinklate",
+      "cost": {
+        "diamonds": 600
+      },
+      "elements": "earth-o@water-o@fire-o@candy",
+      "timeToBreed": 115200,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 15
+        },
+        "rate": 60,
+        "max": {
+          "coins": 25207
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "sprinklate",
+        "icon": "sprinklate"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_jamboree_undof",
+      "cost": {
+        "diamonds": 500
+      },
+      "elements": "anniversay-o",
+      "timeToBreed": 145440,
+      "foodNeeded": 35,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Seasonal",
+      "sprites": {
+        "egg": "jamboree-o",
+        "icon": "jamboree-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_ghazt_undof",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "plasma-o",
+      "timeToBreed": 129600,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Ethereal",
+      "sprites": {
+        "egg": "ghazt-o",
+        "icon": "ghazt-o"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_jobo",
+      "cost": {
+        "Relic": 50
+      },
+      "elements": "legendary-o",
+      "timeToBreed": 129600,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Legendary",
+      "sprites": {
+        "egg": "jobo",
+        "icon": "jobo"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_treble",
+      "cost": {
+        "Relic": 50
+      },
+      "elements": "legendary-o",
+      "timeToBreed": 129600,
+      "foodNeeded": 40,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Legendary",
+      "sprites": {
+        "egg": "jobo",
+        "icon": "jobo"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_knife",
+      "cost": {
+        "diamonds": 500
+      },
+      "elements": "mythical-o",
+      "timeToBreed": 65108,
+      "foodNeeded": 35,
+      "production": {
+        "amount": {
+          "coins": 10
+        },
+        "rate": 120,
+        "max": {
+          "coins": 120
+        }
+      },
+      "class": "Mythical",
+      "sprites": {
+        "egg": "knife",
+        "icon": "knife"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_cataliszt",
+      "cost": {
+        "diamonds": 500
+      },
+      "elements": "dream",
+      "timeToBreed": 65108,
+      "foodNeeded": 35,
+      "production": {
+        "amount": {
+          "coins": 10
+        },
+        "rate": 120,
+        "max": {
+          "coins": 120
+        }
+      },
+      "class": "Mythical",
+      "sprites": {
+        "egg": "cataliszt",
+        "icon": "cataliszt"
+      },
+      "levelRequirement": 0,
+      "limit": 5
+    },
+    {
+      "id": "Monsters/Monster_dipster_1",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "dipster-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Dipster",
+      "sprites": {
+        "egg": "",
+        "icon": "do"
+      },
+      "levelRequirement": 0,
+      "limit": 10
+    },
+    {
+      "id": "Monsters/Monster_dipster_2",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "dipster-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Dipster",
+      "sprites": {
+        "egg": "",
+        "icon": "re"
+      },
+      "levelRequirement": 0,
+      "limit": 10
+    },
+    {
+      "id": "Monsters/Monster_dipster_3",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "dipster-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Dipster",
+      "sprites": {
+        "egg": "",
+        "icon": "mi"
+      },
+      "levelRequirement": 0,
+      "limit": 10
+    },
+    {
+      "id": "Monsters/Monster_dipster_4",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "dipster-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Dipster",
+      "sprites": {
+        "egg": "",
+        "icon": "fa"
+      },
+      "levelRequirement": 0,
+      "limit": 10
+    },
+    {
+      "id": "Monsters/Monster_dipster_5",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "dipster-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Dipster",
+      "sprites": {
+        "egg": "",
+        "icon": "sol"
+      },
+      "levelRequirement": 0,
+      "limit": 10
+    },
+    {
+      "id": "Monsters/Monster_dipster_6",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "dipster-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Dipster",
+      "sprites": {
+        "egg": "",
+        "icon": "la"
+      },
+      "levelRequirement": 0,
+      "limit": 10
+    },
+    {
+      "id": "Monsters/Monster_dipster_7",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "dipster-o",
+      "timeToBreed": 1800,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 5
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Dipster",
+      "sprites": {
+        "egg": "",
+        "icon": "ti"
+      },
+      "levelRequirement": 0,
+      "limit": 10
+    },
+    {
+      "id": "Monsters/Monster_toejammer",
+      "cost": {
+        "coins": 400
+      },
+      "elements": "water",
+      "timeToBreed": 300,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 1
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "Natural",
+      "sprites": {
+        "egg": "toejammer",
+        "icon": "toejammer"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_mammott_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_deedge_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_likho_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_quibble_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_stogg_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_toejammer_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_ghazt_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/VOIDCORN_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 150,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_dragong_dream",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "nightmare",
+      "timeToBreed": 0,
+      "foodNeeded": 666666,
+      "production": {
+        "amount": {
+          "coins": 500
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "nightmare",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Bonapetite",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "electricity",
+      "timeToBreed": 0,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Congle",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "air@water@cold",
+      "timeToBreed": 0,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Gnarls",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "plant@earth@water@cold@fire",
+      "timeToBreed": 0,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "gnarls",
+        "icon": "gnarls"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Krillby",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "air@earth@cold@fire",
+      "timeToBreed": 0,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Pladdie",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "earth@cold@fire@faerie",
+      "timeToBreed": 0,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Scaratar",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "celestial",
+      "timeToBreed": 0,
+      "foodNeeded": 20,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Uuduk",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "earth@fire@bone",
+      "timeToBreed": 0,
+      "foodNeeded": 10,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Whimmzies",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "fire@faerie",
+      "timeToBreed": 0,
+      "foodNeeded": 5,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Loodvigg",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "celestial",
+      "timeToBreed": 0,
+      "foodNeeded": 25,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Buzzinga",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "mythical-o",
+      "timeToBreed": 0,
+      "foodNeeded": 15,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Shlep",
+      "cost": {
+        "coins": 0
+      },
+      "elements": "dream@mythical-o",
+      "timeToBreed": 0,
+      "foodNeeded": 20,
+      "production": {
+        "amount": {
+          "coins": 0
+        },
+        "rate": 120,
+        "max": {
+          "coins": 60
+        }
+      },
+      "class": "encased",
+      "sprites": {
+        "egg": "",
+        "icon": ""
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_gobstomper_rare",
+      "cost": {
+        "diamonds": 350
+      },
+      "elements": "earth-o@candy",
+      "timeToBreed": 32400,
+      "foodNeeded": 16,
+      "production": {
+        "amount": {
+          "coins": 7
+        },
+        "rate": 60,
+        "max": {
+          "coins": 481
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "gobstomper_rare",
+        "icon": "gobstomper_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_knife_rare",
+      "cost": {
+        "diamonds": 800
+      },
+      "elements": "mythical-o",
+      "timeToBreed": 65108,
+      "foodNeeded": 35,
+      "production": {
+        "amount": {
+          "coins": 10
+        },
+        "rate": 120,
+        "max": {
+          "coins": 120
+        }
+      },
+      "class": "Mythical",
+      "sprites": {
+        "egg": "knife_rare",
+        "icon": "knife_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_sprinklate_rare",
+      "cost": {
+        "diamonds": 800
+      },
+      "elements": "earth-o@water-o@fire-o@candy",
+      "timeToBreed": 115200,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 15
+        },
+        "rate": 60,
+        "max": {
+          "coins": 25207
+        }
+      },
+      "class": "Lost",
+      "sprites": {
+        "egg": "sprinklate_rare",
+        "icon": "sprinklate_rare"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
+      "id": "Monsters/Monster_fwogGM",
+      "cost": {
+        "diamonds": 1000
+      },
+      "elements": "water-g",
+      "timeToBreed": 72000,
+      "foodNeeded": 30,
+      "production": {
+        "amount": {
+          "coins": 2
+        },
+        "rate": 80,
+        "max": {
+          "coins": 180
+        }
+      },
+      "class": "Gamma",
+      "sprites": {
+        "egg": "fwogGM",
+        "icon": "fwogGM"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    }
+  ],
+  "structures": [
+    {
+      "id": "Structures/Structure_breeding",
+      "cost": {
+        "coins": 500,
+        "diamonds": 75
+      },
+      "elements": "4",
+      "timeToBreed": 2
+    },
+    {
+      "id": "Structures/Structure_breeding_city",
+      "cost": {
+        "coins": 10000,
+        "diamonds": 200
+      },
+      "elements": "4",
+      "timeToBreed": 5
+    },
+    {
+      "id": "Structures/Structure_breeding_undof",
+      "cost": {
+        "coins": 500,
+        "diamonds": 40
+      },
+      "elements": "0",
+      "timeToBreed": 2
+    },
+    {
+      "id": "Structures/Structure_breeding_undof2",
+      "cost": {
+        "coins": 500,
+        "diamonds": 60
+      },
+      "elements": "0",
+      "timeToBreed": 2
+    },
+    {
+      "id": "Structures/Structure_breeding_undof3",
+      "cost": {
+        "coins": 500,
+        "diamonds": 1000
+      },
+      "elements": "0",
+      "timeToBreed": 2
+    },
+    {
+      "id": "Structures/Structure_castle_undof",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_castle_undof1",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_castle_undof2",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_castle_undof3",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_castle_undof4",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_castle_undof5",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_castle_undof6",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_bakery",
+      "cost": {
+        "coins": 20000
+      },
+      "elements": "3",
+      "timeToBreed": 3
+    },
+    {
+      "id": "Structures/Structure_amalgamator",
+      "cost": {
+        "diamonds": 100
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_amalgamator_city",
+      "cost": {
+        "coins": 10000
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_jukebox",
+      "cost": {
+        "coins": 1000
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_jukebox_dream",
+      "cost": {
+        "coins": 10
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_bass",
+      "cost": {
+        "coins": 100000
+      },
+      "elements": "0",
+      "timeToBreed": 2
+    },
+    {
+      "id": "Structures/Structure_masher",
+      "cost": {
+        "coins": 500,
+        "diamonds": 5
+      },
+      "elements": "3",
+      "timeToBreed": 2
+    },
+    {
+      "id": "Structures/Structure_crafter",
+      "cost": {
+        "coins": 50000
+      },
+      "elements": "3",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_knottmaker1",
+      "cost": {
+        "coins": 100000
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Structures/Structure_knottmaker2",
+      "cost": {
+        "coins": 100000
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Structures/Structure_knottmaker3",
+      "cost": {
+        "coins": 100000
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Structures/Structure_knottmaker4",
+      "cost": {
+        "coins": 100000
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Structures/Structure_mine",
+      "cost": {
+        "diamonds": 25
+      },
+      "elements": "0",
+      "timeToBreed": 0,
+      "foodNeeded": 0,
+      "production": {
+        "amount": {
+          "diamonds": 1
+        },
+        "rate": 600,
+        "max": {
+          "diamonds": 1
+        }
+      },
+      "class": "Structure",
+      "sprites": {
+        "egg": "z",
+        "icon": "z"
+      },
+      "levelRequirement": 4,
+      "limit": 1
+    },
+    {
+      "id": "Structures/Structure_timemachine",
+      "cost": {
+        "coins": 100
+      },
+      "elements": "0",
+      "timeToBreed": 1
+    },
+    {
+      "id": "Structures/Structure_stargazer",
+      "cost": {
+        "coins": 1
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    }
+  ],
+  "decorations": [
+    {
+      "id": "Decoration/Decoration_test",
+      "cost": {
+        "coins": 100
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 2,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test1",
+      "cost": {
+        "coins": 100
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 2,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test2",
+      "cost": {
+        "coins": 300
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test3",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test4",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test5",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test6",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test7",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test8",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test9",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test10",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 1
+    },
+    {
+      "id": "Decoration/Decoration_test11",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_test12",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 5,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_gbluff",
+      "cost": {
+        "coins": 5000
+      },
+      "elements": "xpWhenPlaced:50000",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_knott",
+      "cost": {
+        "coins": 20000
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_mors",
+      "cost": {
+        "coins": 15000
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_air",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_candy",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_celestial",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_cold",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_crystal",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_dream",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_earth",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_electricity",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_faerie",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_fire",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_empty",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_gm",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_knottshurr",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_light",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_organ",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_plant",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_plasma",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_psychic",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_special",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_supercelestial",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_water",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_sign_bone",
+      "cost": {
+        "coins": 1500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Decoration_spam",
+      "cost": {
+        "coins": 2500
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_EM_1",
+      "cost": {
+        "coins": -100
+      },
+      "elements": "25"
+    },
+    {
+      "id": "Decoration/Obstacle_EM_2",
+      "cost": {
+        "coins": -500
+      },
+      "elements": "50"
+    },
+    {
+      "id": "Decoration/Obstacle_EM_3",
+      "cost": {
+        "coins": -1000
+      },
+      "elements": "75"
+    },
+    {
+      "id": "Decoration/Obstacle_EM_4",
+      "cost": {
+        "coins": -100
+      },
+      "elements": "25"
+    },
+    {
+      "id": "Decoration/Obstacle_EM_5",
+      "cost": {
+        "coins": -500
+      },
+      "elements": "50"
+    },
+    {
+      "id": "Decoration/Obstacle_EM_6",
+      "cost": {
+        "coins": -1000
+      },
+      "elements": "75"
+    },
+    {
+      "id": "Decoration/Obstacle_placable_EM_1",
+      "cost": {
+        "diamonds": 3
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_EM_2",
+      "cost": {
+        "diamonds": 6
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_EM_3",
+      "cost": {
+        "diamonds": 9
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_EM_4",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_EM_5",
+      "cost": {
+        "diamonds": 10
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_EM_6",
+      "cost": {
+        "diamonds": 15
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_Candy_1",
+      "cost": {
+        "coins": -4000
+      },
+      "elements": "25"
+    },
+    {
+      "id": "Decoration/Obstacle_Candy_2",
+      "cost": {
+        "coins": -25000
+      },
+      "elements": "50"
+    },
+    {
+      "id": "Decoration/Obstacle_Candy_3",
+      "cost": {
+        "coins": -33000
+      },
+      "elements": "75"
+    },
+    {
+      "id": "Decoration/Obstacle_Candy_4",
+      "cost": {
+        "coins": -9000
+      },
+      "elements": "25"
+    },
+    {
+      "id": "Decoration/Obstacle_Candy_5",
+      "cost": {
+        "coins": -100000
+      },
+      "elements": "50"
+    },
+    {
+      "id": "Decoration/Obstacle_Candy_6",
+      "cost": {
+        "coins": -110000
+      },
+      "elements": "75"
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Candy_1",
+      "cost": {
+        "diamonds": 1
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Candy_2",
+      "cost": {
+        "diamonds": 2
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Candy_3",
+      "cost": {
+        "diamonds": 3
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Candy_4",
+      "cost": {
+        "diamonds": 2
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Candy_5",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Candy_6",
+      "cost": {
+        "diamonds": 10
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_1",
+      "cost": {
+        "diamonds": -1
+      },
+      "sprites": {
+        "egg": "Wool=1",
+        "icon": "BlueLog=1"
+      }
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_2",
+      "cost": {
+        "diamonds": -1
+      },
+      "sprites": {
+        "egg": "Wool=3",
+        "icon": "BlueLog=2"
+      }
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_3",
+      "cost": {
+        "diamonds": -2
+      },
+      "sprites": {
+        "egg": "Wool=5",
+        "icon": "BlueLog=4"
+      }
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_4",
+      "cost": {
+        "diamonds": -1
+      },
+      "Bone": "1"
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_5",
+      "cost": {
+        "diamonds": -2
+      },
+      "Bone": "3"
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_6",
+      "cost": {
+        "diamonds": -3
+      },
+      "Bone": "5"
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_7",
+      "cost": {
+        "diamonds": -2
+      },
+      "Rock": "1"
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_8",
+      "cost": {
+        "diamonds": -3
+      },
+      "Rock": "3"
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_9",
+      "cost": {
+        "diamonds": -4
+      },
+      "Rock": "5"
+    },
+    {
+      "id": "Decoration/Obstacle_Knott_10",
+      "cost": {
+        "diamonds": -5
+      },
+      "Vortex": "1"
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_1",
+      "cost": {
+        "diamonds": 3
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_2",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_3",
+      "cost": {
+        "diamonds": 10
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_4",
+      "cost": {
+        "diamonds": 3
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_5",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_6",
+      "cost": {
+        "diamonds": 10
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_7",
+      "cost": {
+        "diamonds": 3
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_8",
+      "cost": {
+        "diamonds": 5
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_9",
+      "cost": {
+        "diamonds": 10
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Obstacle_placable_Knott_10",
+      "cost": {
+        "diamonds": 10
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 0,
+      "foodNeeded": 0
+    },
+    {
+      "id": "Decoration/Dog",
+      "cost": {
+        "food": 2000
+      },
+      "elements": "xpWhenPlaced:100",
+      "timeToBreed": 20,
+      "foodNeeded": 0
+    }
+  ],
+  "paths": [
+    {
+      "id": "Desert_path1",
+      "cost": {
+        "coins": 100
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Desert_path2",
+      "cost": {
+        "coins": 200
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Desert_path3",
+      "cost": {
+        "coins": 300
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Desert_path4",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Desert_path5",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Desert_path6",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "EM_path1",
+      "cost": {
+        "coins": 50
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "EM_path2",
+      "cost": {
+        "coins": 25
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "EM_path3",
+      "cost": {
+        "coins": 25
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "EM_path4",
+      "cost": {
+        "coins": 50
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "EM_path5",
+      "cost": {
+        "coins": 175
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "EM_path6",
+      "cost": {
+        "coins": 175
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "EM_path7",
+      "cost": {
+        "coins": 175
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Organ_path1",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Organ_path2",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Organ_path3",
+      "cost": {
+        "coins": 850
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path1",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path2",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path3",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path4",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path5",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path6",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path7",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    },
+    {
+      "id": "Candy_path8",
+      "cost": {
+        "coins": 500
+      },
+      "elements": "0",
+      "timeToBreed": 0
+    }
+  ]
+}
