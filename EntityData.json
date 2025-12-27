@@ -5248,7 +5248,8 @@
         "diamonds": 75
       },
       "elements": "4",
-      "timeToBreed": 2
+      "timeToBreed": 2,
+      "limit": 2
     },
     {
       "id": "Structures/Structure_breeding_city",
@@ -5257,7 +5258,8 @@
         "diamonds": 200
       },
       "elements": "4",
-      "timeToBreed": 5
+      "timeToBreed": 5,
+      "limit": 2
     },
     {
       "id": "Structures/Structure_breeding_undof",
@@ -5266,7 +5268,8 @@
         "diamonds": 40
       },
       "elements": "0",
-      "timeToBreed": 2
+      "timeToBreed": 2,
+      "limit": 2
     },
     {
       "id": "Structures/Structure_breeding_undof2",
@@ -5275,7 +5278,8 @@
         "diamonds": 60
       },
       "elements": "0",
-      "timeToBreed": 2
+      "timeToBreed": 2,
+      "limit": 2
     },
     {
       "id": "Structures/Structure_breeding_undof3",
@@ -5284,7 +5288,8 @@
         "diamonds": 1000
       },
       "elements": "0",
-      "timeToBreed": 2
+      "timeToBreed": 2,
+      "limit": 2
     },
     {
       "id": "Structures/Structure_castle_undof",
@@ -5292,7 +5297,8 @@
         "coins": 500
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_castle_undof1",
@@ -5300,7 +5306,8 @@
         "coins": 500
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_castle_undof2",
@@ -5308,7 +5315,8 @@
         "coins": 500
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_castle_undof3",
@@ -5316,7 +5324,8 @@
         "coins": 500
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_castle_undof4",
@@ -5324,7 +5333,8 @@
         "coins": 500
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_castle_undof5",
@@ -5340,7 +5350,8 @@
         "coins": 500
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_bakery",
@@ -5348,7 +5359,8 @@
         "coins": 20000
       },
       "elements": "3",
-      "timeToBreed": 3
+      "timeToBreed": 3,
+      "limit": 5
     },
     {
       "id": "Structures/Structure_amalgamator",
@@ -5356,7 +5368,8 @@
         "diamonds": 100
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_amalgamator_city",
@@ -5364,7 +5377,8 @@
         "coins": 10000
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_jukebox",
@@ -5388,7 +5402,8 @@
         "coins": 100000
       },
       "elements": "0",
-      "timeToBreed": 2
+      "timeToBreed": 2,
+      "limit": 2
     },
     {
       "id": "Structures/Structure_masher",
@@ -5397,7 +5412,8 @@
         "diamonds": 5
       },
       "elements": "3",
-      "timeToBreed": 2
+      "timeToBreed": 2,
+      "limit": 2
     },
     {
       "id": "Structures/Structure_crafter",
@@ -5413,7 +5429,8 @@
         "coins": 100000
       },
       "elements": "0",
-      "timeToBreed": 0
+      "timeToBreed": 0,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_knottmaker2",
@@ -5421,7 +5438,8 @@
         "coins": 100000
       },
       "elements": "0",
-      "timeToBreed": 0
+      "timeToBreed": 0,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_knottmaker3",
@@ -5429,7 +5447,8 @@
         "coins": 100000
       },
       "elements": "0",
-      "timeToBreed": 0
+      "timeToBreed": 0,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_knottmaker4",
@@ -5437,7 +5456,8 @@
         "coins": 100000
       },
       "elements": "0",
-      "timeToBreed": 0
+      "timeToBreed": 0,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_mine",
@@ -5470,7 +5490,8 @@
         "coins": 100
       },
       "elements": "0",
-      "timeToBreed": 1
+      "timeToBreed": 1,
+      "limit": 1
     },
     {
       "id": "Structures/Structure_stargazer",
@@ -5478,7 +5499,8 @@
         "coins": 1
       },
       "elements": "0",
-      "timeToBreed": 0
+      "timeToBreed": 0,
+      "limit": 1
     }
   ],
   "decorations": [
