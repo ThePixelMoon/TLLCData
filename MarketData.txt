@@ -800,6 +800,7 @@ Decoration/Obstacle_placable_Candy_3
 Decoration/Obstacle_placable_Candy_4
 Decoration/Obstacle_placable_Candy_5
 Decoration/Obstacle_placable_Candy_6
+Decoration/Decoration_gbluff
 -
 structures:
 Structures/Structure_crafter
@@ -837,6 +838,7 @@ Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
+Decoration/Decoration_gbluff
 Decoration/Dog
 Decoration/Decoration_spam
 Decoration/Decoration_sign_air

@@ -1,4 +1,4 @@
-TLLPSX25
+TLLPSX26
 
 monster_knife_rare entity Monsters/Monster_knife_rare
 
@@ -65,3 +65,5 @@ decoration_sign_bone entity Decoration/Decoration_sign_bone
 
 
 decoration_spam entity Decoration/Decoration_spam
+
+decoration_gbluff entity Decoration/Decoration_gbluff

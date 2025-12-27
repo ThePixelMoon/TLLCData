@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1132953129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48d8e60fb1c8c809161f6f14102ab551
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d4ce69450e6d246595f690b0584b962
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 354902358, guid: ebe353a9e51fc6708625f16edcb81e06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6f112621bd0f982d28074fe8106e3ab, type: 3}
+- Class: 114
+  Script: {fileID: 106799970, guid: ebe353a9e51fc6708625f16edcb81e06, type: 3}
+- Class: 114
+  Script: {fileID: 1497261852, guid: ebe353a9e51fc6708625f16edcb81e06, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/decoration/tllps/Decoration_gbluff.prefab
+Dependencies: []
