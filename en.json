@@ -254,8 +254,10 @@
         "Monster_varrow_rare_bio": "What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...",
         "Monster_banno_rare": "Rare Banno",
         "Monster_banno_rare_bio": "Rare Banno bio",
-        "Special/Monster_melochness": "Meloch-Ness",
-        "Special/Monster_melochness_bio": "Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit.",
+        "Special": {
+            "Monster_melochness": "Meloch-Ness",
+            "Monster_melochness_bio": "Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit."
+        },
         "Monster_reedling_young_singer": "<ref>Monsters/Monster_reedling_young",
         "Monster_reedling_young_singer_bio": "<ref>Monsters/Monster_reedling_young_bio",
         "Knott_1": "Knottshurr Tree",
