@@ -82,29 +82,6 @@
         "Structures/Structure_breeding",
         "Structures/Structure_bass"
       ],
-      "deco_paths": [
-        "EM_path1",
-        "EM_path2",
-        "EM_path3",
-        "EM_path4",
-        "EM_path5",
-        "EM_path6"
-      ],
-      "sorters": {
-        "monsters": {
-          "monsters": "btn_shop_monsters",
-          "monster_rares": "btn_shop_rares",
-          "monster_secret": "btn_shop_secrets"
-        },
-        "decorations": {
-          "decorations": "btn_shop_deco_all",
-          "deco_trees": "btn_shop_deco_trees",
-          "deco_obstacles": "btn_shop_deco_obstacles",
-          "deco_other": "btn_shop_deco_other"
-        }
-      }
-    },
-    "EM_path7": {
       "deco_trees": [
         "Decoration/Decoration_test",
         "Decoration/Decoration_test2",
@@ -147,7 +124,29 @@
         "Decoration/Decoration_sign_special",
         "Decoration/Decoration_sign_supercelestial",
         "Decoration/Decoration_sign_water"
-      ]
+      ],
+      "deco_paths": [
+        "EM_path1",
+        "EM_path2",
+        "EM_path3",
+        "EM_path4",
+        "EM_path5",
+        "EM_path6",
+        "EM_path7"
+      ],
+      "sorters": {
+        "monsters": {
+          "monsters": "btn_shop_monsters",
+          "monster_rares": "btn_shop_rares",
+          "monster_secret": "btn_shop_secrets"
+        },
+        "decorations": {
+          "decorations": "btn_shop_deco_all",
+          "deco_trees": "btn_shop_deco_trees",
+          "deco_obstacles": "btn_shop_deco_obstacles",
+          "deco_other": "btn_shop_deco_other"
+        }
+      }
     },
     "Composer": {
       "monsters": [
@@ -250,7 +249,8 @@
         "EM_path3",
         "EM_path4",
         "EM_path5",
-        "EM_path6"
+        "EM_path6",
+        "EM_path7"
       ],
       "sorters": {
         "monsters": {
@@ -336,7 +336,8 @@
         "EM_path3",
         "EM_path4",
         "EM_path5",
-        "EM_path6"
+        "EM_path6",
+        "EM_path7"
       ],
       "sorters": {
         "monsters": {
@@ -399,19 +400,6 @@
         "Organ_path2",
         "Organ_path3"
       ],
-      "sorters": {
-        "monsters": {
-          "monsters": "btn_shop_monsters",
-          "monster_rares": "btn_shop_rares"
-        },
-        "decorations": {
-          "decorations": "btn_shop_deco_all",
-          "deco_trees": "btn_shop_deco_trees",
-          "deco_other": "btn_shop_deco_other"
-        }
-      }
-    },
-    "EM_path5": {
       "deco_trees": [
         "Decoration/Decoration_test",
         "Decoration/Decoration_test2",
@@ -454,7 +442,18 @@
         "Decoration/Decoration_sign_special",
         "Decoration/Decoration_sign_supercelestial",
         "Decoration/Decoration_sign_water"
-      ]
+      ],
+      "sorters": {
+        "monsters": {
+          "monsters": "btn_shop_monsters",
+          "monster_rares": "btn_shop_rares"
+        },
+        "decorations": {
+          "decorations": "btn_shop_deco_all",
+          "deco_trees": "btn_shop_deco_trees",
+          "deco_other": "btn_shop_deco_other"
+        }
+      }
     },
     "temmie": {
       "monsters": [
@@ -491,7 +490,8 @@
         "EM_path3",
         "EM_path4",
         "EM_path5",
-        "EM_path6"
+        "EM_path6",
+        "EM_path7"
       ],
       "sorters": {
         "monsters": {
@@ -546,7 +546,8 @@
         "EM_path3",
         "EM_path4",
         "EM_path5",
-        "EM_path6"
+        "EM_path6",
+        "EM_path7"
       ],
       "sorters": {
         "monsters": {
@@ -694,23 +695,9 @@
         "Candy_path4",
         "Candy_path5",
         "Candy_path6",
-        "Candy_path7"
+        "Candy_path7",
+        "Candy_path8"
       ],
-      "sorters": {
-        "monsters": {
-          "monsters": "btn_shop_monsters",
-          "monster_rares": "btn_shop_rares",
-          "monster_secret": "btn_shop_secrets"
-        },
-        "decorations": {
-          "decorations": "btn_shop_deco_all",
-          "deco_trees": "btn_shop_deco_trees",
-          "deco_obstacles": "btn_shop_deco_obstacles",
-          "deco_other": "btn_shop_deco_other"
-        }
-      }
-    },
-    "Candy_path8": {
       "deco_trees": [
         "Decoration/Decoration_test",
         "Decoration/Decoration_test2",
@@ -762,7 +749,20 @@
         "Decoration/Obstacle_placable_Candy_4",
         "Decoration/Obstacle_placable_Candy_5",
         "Decoration/Obstacle_placable_Candy_6"
-      ]
+      ],
+      "sorters": {
+        "monsters": {
+          "monsters": "btn_shop_monsters",
+          "monster_rares": "btn_shop_rares",
+          "monster_secret": "btn_shop_secrets"
+        },
+        "decorations": {
+          "decorations": "btn_shop_deco_all",
+          "deco_trees": "btn_shop_deco_trees",
+          "deco_obstacles": "btn_shop_deco_obstacles",
+          "deco_other": "btn_shop_deco_other"
+        }
+      }
     },
     "Calamity": {
       "monsters": [
@@ -810,20 +810,6 @@
         "Structures/Structure_bakery",
         "Structures/Structure_timemachine"
       ],
-      "deco_paths": [],
-      "sorters": {
-        "monsters": {
-          "monsters": "btn_shop_monsters",
-          "monster_rares": "btn_shop_rares"
-        },
-        "decorations": {
-          "decorations": "btn_shop_deco_all",
-          "deco_trees": "btn_shop_deco_trees",
-          "deco_other": "btn_shop_deco_other"
-        }
-      }
-    },
-    "EM_path1": {
       "deco_trees": [
         "Decoration/Decoration_test",
         "Decoration/Decoration_test2",
@@ -866,7 +852,19 @@
         "Decoration/Decoration_sign_special",
         "Decoration/Decoration_sign_supercelestial",
         "Decoration/Decoration_sign_water"
-      ]
+      ],
+      "deco_paths": [],
+      "sorters": {
+        "monsters": {
+          "monsters": "btn_shop_monsters",
+          "monster_rares": "btn_shop_rares"
+        },
+        "decorations": {
+          "decorations": "btn_shop_deco_all",
+          "deco_trees": "btn_shop_deco_trees",
+          "deco_other": "btn_shop_deco_other"
+        }
+      }
     },
     "TI": {
       "monsters": [
