@@ -1,6 +1,31 @@
 {
   "monsters": [
     {
+      "id": "Monsters/VOIDCORN",
+      "cost": {
+        "Virus": 1
+      },
+      "elements": "Big",
+      "timeToBreed": 0,
+      "foodNeeded": 1000,
+      "production": {
+        "amount": {
+          "coins": -10
+        },
+        "rate": 120,
+        "max": {
+          "coins": -60
+        }
+      },
+      "class": "YOOL",
+      "sprites": {
+        "egg": "RUN",
+        "icon": "RUN"
+      },
+      "levelRequirement": 0,
+      "limit": 0
+    },
+    {
       "id": "Monsters/Monster_toejammer",
       "cost": {
         "coins": 400
