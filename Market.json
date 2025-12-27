@@ -134,6 +134,14 @@
         "EM_path6",
         "EM_path7"
       ],
+      "deco_obstacles": [
+        "Decoration/Obstacle_placable_EM_1",
+        "Decoration/Obstacle_placable_EM_2",
+        "Decoration/Obstacle_placable_EM_3",
+        "Decoration/Obstacle_placable_EM_4",
+        "Decoration/Obstacle_placable_EM_5",
+        "Decoration/Obstacle_placable_EM_6"
+      ],
       "sorters": {
         "monsters": {
           "monsters": "btn_shop_monsters",
