@@ -1,0 +1,491 @@
+{
+    "knottmakerData": [
+        {
+            "level": 2,
+            "path": "Monsters/Knott_1",
+            "id": "1",
+            "resources": {
+                "BlueLog": 20,
+                "Wool": 3,
+                "Rock": 10
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                25200,
+                18000
+            ],
+            "extra": [
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "level": 2,
+            "path": "Monsters/Knott_2",
+            "id": "2",
+            "resources": {
+                "BlueLog": 5,
+                "Wool": 15,
+                "Rock": 5
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                25200,
+                18000
+            ],
+            "extra": [
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "level": 2,
+            "path": "Monsters/Knott_5",
+            "id": "5",
+            "resources": {
+                "Rock": 20,
+                "Vortex": 3
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                25200,
+                18000
+            ],
+            "extra": [
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "level": 3,
+            "path": "Monsters/Knott_4",
+            "id": "4",
+            "resources": {
+                "Rock": 25,
+                "Wool": 5,
+                "Vortex": 2
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                57600,
+                36000
+            ],
+            "extra": [
+                0,
+                4,
+                3
+            ]
+        },
+        {
+            "level": 3,
+            "path": "Monsters/Knott_10",
+            "id": "10",
+            "resources": {
+                "Rock": 40,
+                "Vortex": 3
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                57600,
+                36000
+            ],
+            "extra": [
+                0,
+                4,
+                3
+            ]
+        },
+        {
+            "level": 3,
+            "path": "Monsters/Knott_7",
+            "id": "7",
+            "resources": {
+                "BlueLog": 5,
+                "Wool": 10,
+                "Bone": 20
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                57600,
+                36000
+            ],
+            "extra": [
+                0,
+                4,
+                3
+            ]
+        },
+        {
+            "level": 3,
+            "path": "Monsters/Knott_8",
+            "id": "8",
+            "resources": {
+                "BlueLog": 10,
+                "Rock": 20,
+                "Wool": 15,
+                "Bone": 10
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                57600,
+                36000
+            ],
+            "extra": [
+                0,
+                4,
+                3
+            ]
+        },
+        {
+            "level": 4,
+            "path": "Monsters/Knott_9",
+            "id": "9",
+            "resources": {
+                "BlueLog": 15,
+                "Wool": 20,
+                "Rock": 50,
+                "Vortex": 10
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                25200,
+                86400
+            ],
+            "extra": [
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "level": 4,
+            "path": "Monsters/Knott_3",
+            "id": "3",
+            "resources": {
+                "BlueLog": 30,
+                "Rock": 10,
+                "Bone": 25,
+                "Vortex": 10
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                25200,
+                86400
+            ],
+            "extra": [
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "level": 4,
+            "path": "Monsters/Knott_6",
+            "id": "6",
+            "resources": {
+                "BlueLog": 20,
+                "Rock": 40,
+                "Wool": 7,
+                "Bone": 10,
+                "Vortex": 10
+            },
+            "costs": [
+                20000,
+                15000,
+                10000
+            ],
+            "rewards": [
+                36000,
+                25200,
+                86400
+            ],
+            "extra": [
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "level": 4,
+            "path": "Monsters/Knott_special",
+            "id": "special",
+            "resources": {
+                "BlueLog": 40,
+                "Rock": 40,
+                "Wool": 40,
+                "Bone": 40,
+                "Vortex": 15
+            },
+            "costs": [
+                20000,
+                15000,
+                20000
+            ],
+            "rewards": [
+                36000,
+                25200,
+                259200
+            ],
+            "extra": [
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_1_rare",
+            "id": "1",
+            "resources": {
+                "Log": 20,
+                "Fabric": 3,
+                "Jewel": 10
+            },
+            "costs": [
+                15
+            ],
+            "rewards": [
+                36000
+            ],
+            "extra": [
+                5
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_2_rare",
+            "id": "2",
+            "resources": {
+                "Log": 5,
+                "Fabric": 15,
+                "Jewel": 5
+            },
+            "costs": [
+                15
+            ],
+            "rewards": [
+                36000
+            ],
+            "extra": [
+                5
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_5_rare",
+            "id": "5",
+            "resources": {
+                "Jewel": 20,
+                "Relic": 3
+            },
+            "costs": [
+                15
+            ],
+            "rewards": [
+                36000
+            ],
+            "extra": [
+                5
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_4_rare-d",
+            "id": "4",
+            "resources": {
+                "Rock": 25,
+                "Wool": 5,
+                "Vortex": 2
+            },
+            "costs": [
+                0
+            ],
+            "rewards": [
+                57600
+            ],
+            "extra": [
+                10
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_7_rare-d",
+            "id": "7",
+            "resources": {
+                "BlueLog": 5,
+                "Wool": 10,
+                "Bone": 20
+            },
+            "costs": [
+                0
+            ],
+            "rewards": [
+                57600
+            ],
+            "extra": [
+                10
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_8_rare-d",
+            "id": "8",
+            "resources": {
+                "BlueLog": 10,
+                "Rock": 20,
+                "Wool": 15,
+                "Bone": 10
+            },
+            "costs": [
+                0
+            ],
+            "rewards": [
+                57600
+            ],
+            "extra": [
+                10
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_10_rare",
+            "id": "10",
+            "resources": {
+                "Jewel": 40,
+                "Relic": 3
+            },
+            "costs": [
+                20
+            ],
+            "rewards": [
+                57600
+            ],
+            "extra": [
+                10
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_9_rare",
+            "id": "9",
+            "resources": {
+                "Log": 15,
+                "Fabric": 20,
+                "Jewel": 50,
+                "Relic": 10
+            },
+            "costs": [
+                25
+            ],
+            "rewards": [
+                86400
+            ],
+            "extra": [
+                15
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Knott_special_rare-d",
+            "id": "special",
+            "resources": {
+                "Log": 40,
+                "Jewel": 40,
+                "Fabric": 40,
+                "Metal": 40,
+                "Relic": 15
+            },
+            "costs": [
+                30
+            ],
+            "rewards": [
+                259200
+            ],
+            "extra": [
+                15
+            ]
+        },
+        {
+            "level": 1000,
+            "path": "Monsters/Monster_toejammer_rare",
+            "id": "6",
+            "resources": {
+                "Relic": 1
+            },
+            "costs": [
+                2
+            ],
+            "rewards": [
+                8
+            ],
+            "extra": [
+                1
+            ]
+        },
+        {
+            "level": 100,
+            "path": "none",
+            "id": "0",
+            "resources": {},
+            "costs": [
+                1,
+                2,
+                5
+            ],
+            "rewards": [
+                36000,
+                25200,
+                18000
+            ],
+            "extra": []
+        }
+    ]
+}
