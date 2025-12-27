@@ -1,0 +1,205 @@
+{
+    "mailbox": [
+        {
+            "id": "ResetAllAccounts1-dontannounce",
+            "recipients": [
+                "everyone"
+            ],
+            "title": "Clear data",
+            "message": "Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.",
+            "icon": {
+                "type": "icon",
+                "value": "exclaim"
+            },
+            "rewards": [],
+            "buttonText": "Clear"
+        },
+        {
+            "id": "tllps-intro",
+            "recipients": [
+                "everyone"
+            ],
+            "title": "Welcome to TLLPS!",
+            "message": "Heya! Welcome to TLLPS, the private server of the game The Lost Landscapes! Here are some goodies to get you started, but if you want to <color=red>cheat</color>... just press Tab and start writing! Good luck, eh!",
+            "icon": {
+                "type": "icon",
+                "value": "new"
+            },
+            "rewards": [
+                {
+                    "type": "diamonds",
+                    "amount": 100
+                },
+                {
+                    "type": "foodB",
+                    "amount": 500
+                }
+            ]
+        },
+        {
+            "id": "intro2",
+            "recipients": [
+                "everyone"
+            ],
+            "title": "Regarding the unofficial links",
+            "message": "If you have downloaded TLLPS anywhere that isn't the official Hacked Landscapes discord, do NOT share the link you used but the official discord one (where you should join to get the original version AND to actually support us, unlike those who spread the fake download): https://discord.gg/ZxTPRE2GXC\n\nThere is a list of people who have shared TLLPS without crediting the owner. If it's someone on YouTube, unsubscribe to them.\n\nElicrabs (YouTube)\nminecrafter_random (Reddit)\nJbneves (YouTube)",
+            "icon": {
+                "type": "icon",
+                "value": "eco"
+            },
+            "rewards": [
+                {
+                    "type": "diamonds",
+                    "amount": 25
+                }
+            ]
+        },
+        {
+            "id": "christmas-youngyool",
+            "recipients": [
+                "everyone"
+            ],
+            "title": "Merry Christmas!",
+            "message": "Hello everyone, and we wish you the best of luck! Here's a <color=yellow>Young Yool</color> for absolutely 0 diamonds, for you to put on the Floating City! Happy Monstering!",
+            "icon": {
+                "type": "icon",
+                "value": "chirstmas"
+            },
+            "rewards": [
+                {
+                    "type": "diamonds",
+                    "amount": 25
+                },
+                {
+                    "type": "Monsters/Monster_yool_young",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "ghaztsale2025",
+            "recipients": [
+                "everyone"
+            ],
+            "title": "Ghazt Available for 80% off!",
+            "message": "By the requests of multiple people, Ghazt has been made 80% off! Make sure to grab it if you can!",
+            "icon": {
+                "type": "icon",
+                "value": "discount"
+            },
+            "rewards": []
+        },
+        {
+            "id": "bbear0303",
+            "recipients": [
+                "DFBKRSSGMUISESRLQBADJ"
+            ],
+            "title": "Apologies!",
+            "message": "Sorry for your loss of the level 10 Young Yool named \"JungullBells\"..here's another one and some goodies as the compensation!",
+            "icon": {
+                "type": "icon",
+                "value": "present"
+            },
+            "rewards": [
+                {
+                    "type": "diamonds",
+                    "amount": 150
+                },
+                {
+                    "type": "coins",
+                    "amount": 2500
+                },
+                {
+                    "type": "Monsters/Monster_yool_young",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "egor",
+            "recipients": [
+                "CRVSLRLTOcRFAQAUIZUIIYMUHcGbb"
+            ],
+            "title": "Gift",
+            "message": "Hello, hello! Here are some goodies to keep you on the track.",
+            "icon": {
+                "type": "icon",
+                "value": "present"
+            },
+            "rewards": [
+                {
+                    "type": "diamonds",
+                    "amount": 150
+                },
+                {
+                    "type": "coins",
+                    "amount": 15000
+                },
+                {
+                    "type": "stars",
+                    "amount": 600
+                }
+            ]
+        },
+        {
+            "id": "keeper",
+            "recipients": [
+                "KLQALBXFYAPKYKOFHPOPHHIHYK"
+            ],
+            "title": "Goodies for startup",
+            "message": "Hi, here are some goodies to keep you going! - Happy Monstering!",
+            "icon": {
+                "type": "icon",
+                "value": "present"
+            },
+            "rewards": [
+                {
+                    "type": "diamonds",
+                    "amount": 350
+                },
+                {
+                    "type": "coins",
+                    "amount": 35000
+                },
+                {
+                    "type": "stars",
+                    "amount": 600
+                }
+            ]
+        },
+        {
+            "id": "gallium2",
+            "recipients": [
+                "CbKOVQIcLbdGGSKAdNTUPgVGONUSDKFHKga"
+            ],
+            "title": "Thanks!",
+            "message": "Thanks for renaming your video. Heres some goodies for you!",
+            "icon": {
+                "type": "icon",
+                "value": "present"
+            },
+            "rewards": [
+                {
+                    "type": "diamonds",
+                    "amount": 5000
+                },
+                {
+                    "type": "stars",
+                    "amount": 5000
+                },
+                {
+                    "type": "coins",
+                    "amount": 5000
+                },
+                {
+                    "type": "food",
+                    "amount": 5000
+                },
+                {
+                    "type": "foodB",
+                    "amount": 5000
+                }
+            ]
+        }
+    ]
+}

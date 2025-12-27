@@ -1,33 +1,41 @@
 {
-  "discounts": [
-    {
-      "id": "Monsters/Monster_ghazt_undof",
-      "marketSortersID": ["monsters"],
-      "isIslandSpecific": true,
-      "islands": ["Candy"],
-      "showOldCost": true,
-      "hasCostOverwrite": true,
-      "costOverwrite": {
-        "amount": 200,
-        "type": "diamonds"
-      },
-      "isCostOverwritePercentage": false,
-      "hasDeadline": true,
-      "deadline": "12/31/2025 03:00:00 AM"
-    },
-    {
-      "id": "Monsters/Monster_wibbler_young",
-      "marketSortersID": ["monsters"],
-      "isIslandSpecific": true,
-      "islands": ["City"],
-      "showOldCost": true,
-      "hasCostOverwrite": true,
-      "costOverwrite": {
-        "amount": 9999,
-        "type": "diamonds"
-      },
-      "isCostOverwritePercentage": false,
-      "hasDeadline": false
-    }
-  ]
+    "discounts": [
+        {
+            "id": "Monsters/Monster_ghazt_undof",
+            "marketSortersID": [
+                "monsters"
+            ],
+            "isIslandSpecific": true,
+            "islands": [
+                "Candy"
+            ],
+            "showOldCost": true,
+            "hasCostOverwrite": true,
+            "costOverwrite": {
+                "amount": 200,
+                "type": "diamonds"
+            },
+            "isCostOverwritePercentage": false,
+            "hasDeadline": true,
+            "deadline": "12/31/2025 03:00:00 AM"
+        },
+        {
+            "id": "Monsters/Monster_wibbler_young",
+            "marketSortersID": [
+                "monsters"
+            ],
+            "isIslandSpecific": true,
+            "islands": [
+                "City"
+            ],
+            "showOldCost": true,
+            "hasCostOverwrite": true,
+            "costOverwrite": {
+                "amount": 9999,
+                "type": "diamonds"
+            },
+            "isCostOverwritePercentage": false,
+            "hasDeadline": false
+        }
+    ]
 }
