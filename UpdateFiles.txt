@@ -1,0 +1,69 @@
+TLLPSX26
+
+monster_knife_rare entity Monsters/Monster_knife_rare
+
+monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
+
+monster_keytrus_rare entity Monsters/Monster_keytrus_rare
+
+monster_yool_young entity Monsters/Monster_yool_young
+
+monster_jeeode_young entity Monsters/Monster_jeeode_young
+
+monster_brump_young entity Monsters/Monster_brump_young
+
+monster_wibbler_young entity Monsters/Monster_wibbler_young
+
+monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
+
+monster_jobo entity Monsters/Monster_jobo
+
+
+decoration_sign_air entity Decoration/Decoration_sign_air
+
+decoration_sign_candy entity Decoration/Decoration_sign_candy
+
+decoration_sign_celestial entity Decoration/Decoration_sign_celestial
+
+decoration_sign_cold entity Decoration/Decoration_sign_cold
+
+decoration_sign_crystal entity Decoration/Decoration_sign_crystal
+
+decoration_sign_dream entity Decoration/Decoration_sign_dream
+
+decoration_sign_earth entity Decoration/Decoration_sign_earth
+
+decoration_sign_electricity entity Decoration/Decoration_sign_electricity
+
+decoration_sign_empty entity Decoration/Decoration_sign_empty
+
+decoration_sign_faerie entity Decoration/Decoration_sign_faerie
+
+decoration_sign_fire entity Decoration/Decoration_sign_fire
+
+decoration_sign_gm entity Decoration/Decoration_sign_gm
+
+decoration_sign_knottshurr entity Decoration/Decoration_sign_knottshurr
+
+decoration_sign_light entity Decoration/Decoration_sign_light
+
+decoration_sign_organ entity Decoration/Decoration_sign_organ
+
+decoration_sign_plant entity Decoration/Decoration_sign_plant
+
+decoration_sign_plasma entity Decoration/Decoration_sign_plasma
+
+decoration_sign_psychic entity Decoration/Decoration_sign_psychic
+
+decoration_sign_special entity Decoration/Decoration_sign_special
+
+decoration_sign_supercelestial entity Decoration/Decoration_sign_supercelestial
+
+decoration_sign_water entity Decoration/Decoration_sign_water
+
+decoration_sign_bone entity Decoration/Decoration_sign_bone
+
+
+decoration_spam entity Decoration/Decoration_spam
+
+decoration_gbluff entity Decoration/Decoration_gbluff

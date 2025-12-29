@@ -1,0 +1,19 @@
+
+ID=Monsters/Monster_ghazt_undof
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Candy
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=200,diamonds
+HasDeadline=true
+Deadline=12/31/2025 03:00:00 AM
+;
+ID=Monsters/Monster_wibbler_young
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=City
+ShowOldCost=true
+HasCostOvrwrite=true
+CostOverwrite=9999,diamonds
+HasDeadline=false
