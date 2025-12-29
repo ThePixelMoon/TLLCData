@@ -55,24 +55,6 @@
             ]
         },
         {
-            "id": "intro1",
-            "recipients": [
-                "everyone"
-            ],
-            "title": "DO NOT use this website!",
-            "message": "We have found a fake TLLPS website, showcasing it as TLL Reborn. It goes against the rules. \n\nIt does credit the discord server, BUT, in the description, they said the owners are Elicrabs and Minecraft dude.\n\nWhat about these two? These two dudes specifically, they are the ones who stole TLLPS first, and the ones who did not take down their posts (or refused to acknowledge their mistakes).\n\nThe website is \"websim.com/@mrparappafan/tll-reborn\", DO NOT use it and make sure to warn others that this is NOT the official way to download the private server. If you came from that site, please join the discord server Hacked Landscapes and make sure to have the real version.",
-            "icon": {
-                "type": "icon",
-                "value": "newspaper"
-            },
-            "rewards": [
-                {
-                    "type": "diamonds",
-                    "amount": 75
-                }
-            ]
-        },
-        {
             "id": "christmas-youngyool",
             "recipients": [
                 "everyone"
