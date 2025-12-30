@@ -1,0 +1,1242 @@
+﻿------- 
+#--MONSTERS--# a
+###--Naturals------------------------------------------###
+#--Singles--#
+Monsters/Monster_potbelly_young=Planta-Pança Bebê
+Monsters/Monster_potbelly_young_bio=Brincar é muito melhor com duas cabeças! a Planta Pança jovem é uma adição mais que bem-vinda para qualquer jogo de estratégia, por conta de seu poder cerebral dobrado. Infelizmente for os outros monstrinhos, dois vezes zero ainda é zero
+
+Monsters/Monster_potbelly=Planta-Pança
+Monsters/Monster_potbelly_bio=A Planta-Pança é uma criatura barulhenta e extrovertida, constantemente tagalerando coisas sem sentido para todos que as podem ouvir. As vezes no meio de um conversa entre vários monstros, uma Planta-Pança qualquer se retira de seu pote e se estabelecer na tagarelice, às vezes nem mesmo percebebendo que os seus tentáculos enraizados engolfando seu ouvinte ansioso, felizmente, hoje em dia os monstros aprenderam a ficar longe ou a lembrar gentilmente a Planta-Pança de se afastar um pouco, e as coisas vão bem a partir daí.
+
+Monsters/Monster_mammott_young=Mamutinho Bebê
+Monsters/Monster_mammott_young_bio=O abominável homem das neves? Tá mais pra o adorável bebê das neves! Mamutinho não é um mestre barulhento de "Bam" e "Bambams", mas está quase chegando lá. Enquanto isso, Mamutinho prefere comer muito e afofar o seu pelo, típico.
+
+Monsters/Monster_mammott=Mamutinho
+Monsters/Monster_mammott_bio=Mammott bio
+Monsters/Monster_mammott_meduza=Mamutinho
+Monsters/Monster_mammott_meduza_bio=Mammott bio
+
+Monsters/Monster_tweedle_young=Pintinho Piu Bebê
+Monsters/Monster_tweedle_young_bio=Pintinhos-Piu são bem conhecidos por serem arejadas e distantes, e os membros mais jovens da espécie não são diferentes. Quando não estão espalhando conversa pela Cidade Flutuante, esses pássaros balbuciantes se enfeitam sem parar, na esperança de ser o "arremesso de penas mais fantástico" do dia.
+
+Monsters/Monster_tweedle=Pintinho Piu
+Monsters/Monster_tweedle_bio=Pintinho Pius adultas são conhecidas por migrar muito de ilhas para ilhas, às vezes elas viajam para visitar seus amigos, e raramente elas até se mudam para um dessas ilhas nas quais elas visitaram, e após sua chegada, seus companheiros monstros ajudam elas a entender como as coisas funcionam por lá. Podemos dizer que elas são realmente aves aventureiras!!
+
+Monsters/Monster_toejammer_young=Dedo Enrroscado Bebê
+Monsters/Monster_toejammer_young_bio=Efervescentes e borbulhantes, os Jovens Dedinhos com seu comportamento tropical são sempre companheiros agradáveis ​​para os outros monstros. Às vezes, a situação pode complicar quando uma bola chutada atinge o corpo gelatinoso desse pequeno, mas isso não é páreo para uma sessão de piadocas bem executada.
+
+Monsters/Monster_toejammer=Dedo Enrroscado
+Monsters/Monster_toejammer_bio=Os Dedo Enrroscados adultos têm uma personalidade muito borbulhante e são ótimos nadadores quando vivem na água, eles também são conhecidos por serem convidados para muitas festas e piqueniques com os seus amigos Mosca-da-Flauta, eles realmente sabem como se divertir!
+
+Monsters/Monster_toejammer_rare=Dedo Enrroscado Raro
+Monsters/Monster_toejammer_rare_bio=Enquanto o Dedo Enroscado comum é um festeiro conhecido, sua variante rara está muito mais acostumada a ficar em casa, especialmente para comer. Sempre com deliciosos salgadinhos incluídos, não há aventura que o Dedo Enroscado Raro não possa suportar no conforto de seu sofá
+
+Monsters/Monster_noggin_young=Cabeça Dura Bebê
+Monsters/Monster_noggin_young_bio=Young Noggin bio
+
+Monsters/Monster_noggin=Cabeça-Dura
+Monsters/Monster_noggin_bio=Noggin bio
+Monsters/Monster_noggin_meduza=Cabeça-Dura
+Monsters/Monster_noggin_meduza_bio=Noggin bio
+
+#--Doubles--##
+Monsters/Monster_pango=Panguim
+Monsters/Monster_pango_bio=Pango bio
+
+Monsters/Monster_oaktopus=Carvalho-Polvo
+Monsters/Monster_oaktopus_bio=Carvalho-Polvos estão cheios de conhecimentos para compartilhar com o mundo, sobre o mundo! Eles quase sempre têm uma resposta para algumas das perguntas mais ardentes da vida, tais como: "Por que o céu é azul?", "Por que a água é molhada?", E a mais pergunta notável, "E maionese? É um instrumento?" (Essa resposta é inconclusiva, não existe um monstro de maionese). Às vezes, eles até dizem afirmações bizarras de ilhas que antes eram carregadas por criaturas gigantescas em todo o mundo dos monstros. Geralmente pode-se ver um Carvalho-polvo lendo um bom livro ou nadando em uma fonte termal local.
+
+Monsters/Monster_maw_young=Bocarra Bebê
+Monsters/Monster_maw_young_bio=Young Maw bio
+Monsters/Monster_maw=Bocarra
+Monsters/Monster_maw_bio=Maw bio
+Monsters/Monster_maw_meduza=Bocarra
+Monsters/Monster_maw_meduza_bio=Maw bio
+
+Monsters/Monster_quibble_young=Picuinha Bebê
+Monsters/Monster_quibble_young_bio=O entusiasmo infinito de uma pequena picuinha é inigualável à qualquer outra espécie de monstro. Coletando diversos tipos de pedras coloridas para fazer suas teclas de treino, sua criatividade é robusta por suas intermináveis perguntas! Claro, os celestiais estão sempre aptos a ensinar e responder a todos os tipos de perguntas, embora eles ainda não consigam descobrir a resposta de onde vêm os bebês monstros... 
+
+Monsters/Monster_quibble=Picuinha
+Monsters/Monster_quibble_bio=A Picuinha pode parecer um monstro gracioso por fora, mas isso é apenas fingimento. As duas cabeças brigam constantemente, geralmente tendo opiniões opostas sobre as últimas tendências ou algum outro assunto trivial. Uma vez, a Picuinha da esquerda queria pedir batatas fritas, mas a Picuinha da direita estava ansiosa para tomar um milk-shake... O caos continuou. Mas no final, elas sempre se reconciliam, como verdadeiros irmãos. Sim, elas acabaram pedindo batatas fritas mergulhadas em um milk-shake. Um trato mais que feito.
+
+Monsters/Monster_oaktopus_young=Caravalho-Polvo Bebê
+Monsters/Monster_oaktopus_young_bio=Embora pareçam folhas no topo de uma árvore, as bolhas que adornam a coroa de uma muda de carvalho são mais parecidas com a espuma de água do fundo do mar! Embora distantes do Oceano Vivo em meio ao Mundo Perdido, os jovens Carvalho-Polvos ainda encontram uma maneira de se manterem úmidos, mesmo que isso signifique fuçar na Fonte do Matraca local.
+
+Monsters/Monster_oaktopus_rare=Carvalho-Polvo Raro
+Monsters/Monster_oaktopus_rare_bio=Ostentando um bocado de tentáculos úteis, Carvalho Polvo Raro assumiu um sonho de longa data de ser um químico! Este mago de madeira viaja pelo reino em busca de novos ingredientes, desde o sangue de um gigante adormecido até a seiva de um paraíso açucarado. Mais recentemente, o Carvalho Polvo Raro descobriu que: Se misturada em proporção adequada a outros ingredientes, a água de um pântano distante tinha efeitos alucinógenos quando solvida; Fascinante!
+
+Monsters/Monster_dandidoo=Dandidão
+Monsters/Monster_dandidoo_bio=Enquanto os fluxos quentinhos do oceano carregam ostras pelas profundezas, uma brisa suave carrega o Esbelto Dandidão pelo mundo dos monstros. Suas migrações dependem do fluxo de ar, já que a natureza não foi tão gentil o suficiente para conceder-lhes asas, pobrezinho. Eles podem conduzir o ar através de seus corpos verdinhos para armazená-lo e explorá-lo em um poderoso fluxo de tons e semitons afinados. É por isso que seu canto se assemelha a "doo"s e "dee"s. Seu elemental de Planta deu-lhes uma tonalidade esverdeada e cabelos estilo afro que lembram um dente-de-leão comum, será que é fácil confundir os dois? Provavelmente sim.
+
+Monsters/Monster_dandidoo_young=Dandidão Bebê
+Monsters/Monster_dandidoo_young_bio=Com aquele tufo felpudo, o inconfundível Dandidão prefere ficar quieto, admirando o mundo. Quem sabe se ele esquece tudo o que vê, ou se os ecos de um passado obscuro permanecem, escondidos dentro do dançante dente-de-leão.
+
+Monsters/Monster_furcorn=Sabugo Peludo
+Monsters/Monster_furcorn_bio=Furcorn bio
+
+Monsters/Monster_cybop=Cíbop
+Monsters/Monster_cybop_bio=Cybop bio
+
+#--Triples--#
+Monsters/Monster_trox_young=T-Rox Bebê
+Monsters/Monster_trox_young_bio=Young T-Rox bio
+
+Monsters/Monster_trox=T-Rox
+Monsters/Monster_trox_bio=T-Rox bio
+
+Monsters/Monster_spunge_young=Esponjo Bebê
+Monsters/Monster_spunge_young_bio=Young Spunge bio
+
+Monsters/Monster_spunge=Esponjo
+Monsters/Monster_spunge_bio=Esponjos adultos são assoviadores muito talentosos, eles conseguem soprar tão forte que às vezes eles acabam mandando seus colegas monstruosos para ilhas bem distantes! Apenas lembre-se de se esconder quando eles sopram suas velas de aniversário.
+
+Monsters/Monster_spunge_rare=Esponjo Raro
+Monsters/Monster_spunge_rare_bio=O Esponjo Raro de olhos secos é um exemplo fascinante das adaptações que as mutações baseadas no ambiente podem trazer. Parecendo originar-se de águas particularmente poluídas, as mutações através deste Esponjo maluco mudaram quase tudo nele, desde sua cor até a quantidade de cada órgão que ele possui. Alguns até suspeitam que possa ter uma segunda boca dentro de seu corpo. Pô cara, que nojo!
+
+Monsters/Monster_reedling_young=Piu-Flau Bebê
+Monsters/Monster_reedling_young_bio=O que é uma flauta senão algo divertido de tocar? Os Piu-Flaus Bebês sempre se questionam sobre isso. Ao menos é o que parece quando tentam se comunicar, já que "Rajadas de Vento" e "Babas de Bebês"  ainda não estão em nosso banco de dados de idiomas traduzíveis... No entanto, essa gracinha canina e peludinha está sempre no meio das atividades onde os outros pequenos se divertem juntos.
+Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
+Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_bio
+Monsters/Monster_reedling=Piu-Flau
+Monsters/Monster_reedling_bio=eedling bio
+
+Monsters/Monster_pummel=Maraca
+Monsters/Monster_pummel_bio=Enquanto as rolhas de fibra vegetal que os Maracas vedam suas bocas quase nunca são removidas, acredita-se que sua massa componha 70% da verdadeira escala dele mesmo! Agora, mesmo assim, é um assunto delicado de se perguntar... E tenho certeza que você não gostaria de ser arremessado pelo baque sísmico de um Maraca mal-humorado!
+Monsters/Monster_pummel_meduza=Maraca
+Monsters/Monster_pummel_meduza_bio=Enquanto as rolhas de fibra vegetal que os Maracas vedam suas bocas quase nunca são removidas, acredita-se que sua massa componha 70% da verdadeira escala dele mesmo! Agora, mesmo assim, é um assunto delicado de se perguntar... E tenho certeza que você não gostaria de ser arremessado pelo baque sísmico de um Maraca mal-humorado! 
+
+Monsters/Monster_clamble=Rei-Do-Vinhedo
+Monsters/Monster_clamble_bio=Clamble bio
+
+
+##--Quads------------------------------------------###
+Monsters/Monster_deedge=Dí-Jay
+Monsters/Monster_deedge_bio=Deedge bio
+
+Monsters/Monster_shellbeat=Bate-Carapaça
+Monsters/Monster_shellbeat_bio=Shellbeat bio
+
+
+###--Fires------------------------------------------###
+#--Singles--#
+Monsters/Monster_kayna_young=Lavareda Bebê
+Monsters/Monster_kayna_young_bio=O abraço quentinho de uma Lavareda é uma surpresa de boas-vindas para qualquer monstro, e são surpresas bastante comuns, considerando o quão gentis e amorosas essas monstrinhas de fogo tendem a ser. Surpreendentemente, mini-erupções de sua cabeça são na verdade provocadas por risos e cóceguinhas!
+
+Monsters/Monster_kayna=Lavareda
+Monsters/Monster_kayna_bio=Kayna Bio
+
+#--Doubles--#
+Monsters/Monster_boskus=Bícanco
+Monsters/Monster_boskus_bio=Boskus bio
+
+Monsters/Monster_phangler_young=Peixânzol Bebê
+Monsters/Monster_phangler_young_bio=Young Phangler bio
+
+Monsters/Monster_phangler=Peixânzol
+Monsters/Monster_phangler_bio=As águas mornas ao redor do pântano são um ambiente bastante acolhedor, muitos monstros vêm à superfície para apreciá-las, incluindo criaturas como Vódi, Banhango e muitos outros! Alguns monstros costumam usar as trilhas de exploração terrestres como meio de viagem! Um dos monstros que mais usa dessa rota é o Peixânzol, que provavelmente deve ter se aventurado desde a costa da selva através da Evergreen Woods para chegar à água. Após sua chegada no pântano, Peixânzol afirma que é sem dúvida que Evergreen Woods é o segundo lugar mais doce do mundo- e não tem como discordar...
+
+Monsters/Monster_phangler_rare=Peixânzol Raro
+Monsters/Monster_phangler_rare_bio=Glub Glub Glub. O Peixeanzol raro comeu um lama demais do fundo das águas do pântano e sua cauda caiu. Por sorte, ele tinha um extra em seus bolsos, então os colocou e os usou como braços!
+
+Monsters/Monster_stogg_young=Estegão Bebê
+Monsters/Monster_stogg_young_bio=Young Stogg bio
+
+#--Triples--#
+Monsters/Monster_rootitoot=Rutitú
+Monsters/Monster_rootitoot_bio=Rootitoot bio
+
+Monsters/Monster_rootitoot_young=Rutitú Bebê
+Monsters/Monster_rootitoot_young_bio=O ar calmo que os pequeninos Rutitús Bebês sopram é algo muito bem apreciado na divertida e barulhenta Cidade Flutuante. Embora sonecas vigiadas sejam oferecidas, muitos monstros adormecem ao redor de um deles, isso pode causar um grande congestionamento de pequenos monstrinhos, e isso não é bom!
+
+#--Quads--#
+Monsters/Monster_bisonorus=Bisonoronte
+Monsters/Monster_bisonorus_bio=Dum diddly
+
+Monsters/Monster_pongping=PongPing
+Monsters/Monster_pongping_bio=PongPing bio
+Monsters/Monster_pongping_meduza=PongPing
+Monsters/Monster_pongping_meduza_bio=PongPing bio.
+
+Monsters/Monster_tiawa=Diadama
+Monsters/Monster_tiawa_bio=Tiawa bio
+###--Ethereals--#
+#--Singles--#
+Monsters/Monster_reebro=Cerêbrother
+Monsters/Monster_reebro_bio=Reebro bio
+
+#--Doubles--#
+Monsters/Monster_arackulele=Aranhaculele
+Monsters/Monster_arackulele_bio=Arackulele bio
+
+Monsters/Monster_sox=Rapossax
+Monsters/Monster_sox_bio=Depois de finalmente conhecer a classe comum de monstros em primeira mão, a vida de Rapossax mudou para sempre. Agora, em vez de tocar melodias solenes de jazz no vasto vazio da ilha etérea o Rapossax está livre para tocar suas melodias para todo o Mundo Perdido! A publicidade não é fácil, pois às vezes Rapossax precisa dissipar os rumores de um suposto 'som verdadeiro' que ele faz. Que som é esse?
+
+Monsters/Monster_sox_meduza=Rapossax
+Monsters/Monster_sox_meduza_bio=Depois de finalmente conhecer a classe comum de monstros em primeira mão, a vida de Rapossax mudou para sempre. Agora, em vez de tocar melodias solenes de jazz no vasto vazio da ilha etérea o Rapossax está livre para tocar suas melodias para todo o Mundo Perdido! A publicidade não é fácil, pois às vezes Rapossax precisa dissipar os rumores de um suposto 'som verdadeiro' que ele faz. Que som é esse?
+
+###--Supernaturals------------------------------------------###
+Monsters/Monster_meduza=Mê'Duzza
+Monsters/Monster_meduza_bio=M'Duzza bio
+
+Monsters/Monster_maulch=Composto
+Monsters/Monster_maulch_bio=O que é isso? Uma daquelas estátues antigas que vieram direto da Tempestade que chegou até você! Acorde ela e libere a sua alma...
+
+Monsters/Monster_pixolotl=Pixelote
+Monsters/Monster_pixolotl_bio=Pixolotl bio
+Monsters/Monster_pixolotl_awake=Pixelote
+Monsters/Monster_pixolotl_awake_bio=Pixolotl awake bio
+
+Monsters/Monster_poewk=Finca
+Monsters/Monster_poewk_bio=Poewk bio
+Monsters/Monster_poewk_awake=Finca
+Monsters/Monster_poewk_awake_bio=Poewk awake bio
+
+Monsters/Monster_maulch_awake=Composto
+Monsters/Monster_maulch_awake_bio=Maulch bio awakened
+
+###--Magicals------------------------------------------###
+#--Singles--#
+Monsters/Monster_fluoress_young=Fluoresca Bebê
+Monsters/Monster_fluoress_young_bio=AGUUU
+
+Monsters/Monster_fluoress=Fluoresca
+Monsters/Monster_fluoress_bio=Fluoress bio
+
+Monsters/Monster_theremind_young=Teremente Bebê
+Monsters/Monster_theremind_young_bio=Jovens Terementes tem mentes tão travessas! Com suas habilidades psíquicas, eles podem arrastar objetos com suas mentes. Onde há um Pequeno Teremente, pode-se esperar uma confusão não tão pequena. Brinquedos voam, pratos quebram! E agorinha mesmo eu vi o jantar de alguém na cabeça de um dos monstros. Mas além de criar uma bagunça "criativa", alguns inteligentes têm hobbies diferentes. Eles gostam de mostrar à multidão vários truques com desaparecimentos, cartas e animais na cartola. Apesar da natureza travessa, todos amam o Terementinho!
+
+Monsters/Monster_theremind=Teremente
+Monsters/Monster_theremind_bio=Theremind bio
+Monsters/Monster_theremind_meduza=Teremente
+Monsters/Monster_theremind_meduza_bio=Theremind bio
+
+Monsters/Monster_fluoress_young_bio=Uma Fluoresca pode parecer sem cores e sem graça, mas isso é apenas uma fachada. Quando em música com outros monstros, Fluoresca alegremente cutuca seu vestido de Fluorofila, iluminando a escuridão. Embora a razão para essa estranha reação, bem como as origens da Fluorofila, sejam um mistério, Fluoresca gentilmente lembra que não é preciso entender para apreciar.
+
+
+Monsters/Monster_flootfly_young=Mosca-da-Flauta Bebê
+Monsters/Monster_flootfly_young_bio=Vush! Moscas das flautas são bem aventureiros, voando pelos céus. Nunca vistos sem suas máscaras de alaranjadas, dizem que eles procuram algo perdido há muito tempo...
+
+Monsters/Monster_flootfly=Mosca-da-Flauta
+Monsters/Monster_flootfly_bio=A mística Mosca-da-Flauta é um dos monstros mais comuns de se encontras nas Paisagens Perdidas, pois, ele é um dos mais amigáveis nos arredores! Moscas-da-Flauta amam fazer festas do chá nos lugares mais bizarros! Convites para uma festa do chá são sempre reverenciados e aceitos com alegria, porque é um ótimo lugar para socializar e fofocar!
+
+Monsters/Monster_clackula_young=Estrácula Bebê
+Monsters/Monster_clackula_young_bio=Apesar de tímido e quieto, as mãos de um pequeno Estrácula tem uma ótima utilidade! O formato afiado e o corte de seus dentes de leite, causam uma impressão assustadora para outros monstros, seus companheiros de ilha fazem questão de manter a calma e paciência com esse monstro, afinal, Estráculas estão frequentemente aprendendo a se comportar e ter boas maneiras numa mesa de jantar por exemplo... 
+
+Monsters/Monster_clackula=Estrácula
+Monsters/Monster_clackula_bio=Clackula bio
+
+#--Doubles--#
+Monsters/Monster_denchuhs=Gemolares
+Monsters/Monster_denchuhs_bio=Mah dentures
+
+Monsters/Monster_knucklehead_young=Cabeçuda Bebê
+Monsters/Monster_knucklehead_young_bio=Tudum dum! As mãos delicadas dos pequenos Cabeçudas não são firmes o suficiente para ultrapassar os limites do chão, mas isso não o impede de tentar! Os Cabeçudas bebês às vezes deixam seus percalços musicais altamente descontrolados, eventualmente pulando como Thumpies, ou até Gawghs, com sucesso muito limitado. 
+
+Monsters/Monster_knucklehead=Cabeçuda
+Monsters/Monster_knucklehead_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
+Monsters/Monster_knucklehead_meduza=Cabeçuda
+Monsters/Monster_knucklehead_meduza_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
+
+Monsters/Monster_osstax_young=Pilhossos Bebê
+Monsters/Monster_osstax_young_bio=Young Osstax bio
+
+Monsters/Monster_osstax=Pilhossos
+Monsters/Monster_osstax_bio=É bem claro que os Pilhossos começam suas vidas como vários indivíduos que se unem mais tarde em suas vidas mágicas. Isso normalmente leva muitos e muitos anos, pois eles precisam se encaixar perfeitamente para se tornar um Pilhossos completo, mas para os poucos indivíduos que encontram seu par perfeito desde o início, você tem uma cena como está! Os Seixos de Pilhossos, apesar de geralmente sedentários, podem apresentar todos os tipos de planos para todos os tipos de problemas. Eles são facilmente capazes de conspirar com os outros membros de sua estaca, e usam esse poder cerebral extra dobrado para serem completamente imprevisíveis. Você sabe o que dizem, duas cabeças pensam sempre melhor que uma! Mas no futuro serão três!
+
+Monsters/Monster_likho=Boco
+Monsters/Monster_likho_bio=Se você ver um Boco, saiba que acabou de encontrar um cara maneiro! Bocos são pequenos arbustos secos, rolando por aí e colhendo todos os tipos de plantas e geralmente presenteando outras, mesmo que elas não gostem tanto quanto o presenteador. Mas não só isso, quando para, prepara uma... Canção "maravilhosa" para seus companheiros, que geralmente resulta em seu público gritando "FAZ ISSO PARAR!" Não sei do que se trata... E prefiro não saber!
+
+Monsters/Monster_varrow=Berimvoa
+Monsters/Monster_varrow_bio=Conhecida por sua propensão à caça, o melódico “Iah-há-há!” da Berimvoa ecoa por todos os cantos do Pântano Perene. Ela usa seu sua voz e seu "berimbau de nariz" longo para tentar atrair Dons Sapo jovens para seu cantinho no pântano, mesmo que isso não funcione com a frequência que ela gostaria. Na verdade, suas tentativas assustam suas presas escorregadias na maioria das vezes, deixando a Berimvoa triste e sozinha. É uma coisa triste sabe, já que ela realmente quer que novos clientes provem seus doces caseiros frescos!
+
+Monsters/Monster_varrow_rare=Berimvoa Rara
+Monsters/Monster_varrow_rare_bio=O que você encontra quando coloca uma agulha dentro de uma casca de noz, dentro de uma bolsinha, e dentro de um pano, e coloca-a em um pote e a enterrar no fundo das águas do pântano? Uma Berimvoa Rara, é o que acontece! Esses monstros estranhos têm uma propensão a qualquer coisa intrigante e paradoxal - incluindo eles mesmos! Embora não se saiba como esses estranho monstros viream a existir, eles estão aqui para ficar, esnobando suas roupas e bugigangas de moda em terras distantes e dando a todos algo para refletir a cada chance que eles têm... 
+
+Monsters/Monster_wadee=Vódi
+Monsters/Monster_wadee_bio=Nas profundezas mais sombrias das turvas encontra-se uma terra perdida no tempo. Muitos monstros residiram aqui e, nos últimos tempos, muitos desta região se aventuraram na superfície. Se alguém quiser dar um mergulho no centro enevoado dos Gigantescos lagos do Pântano Perene, poderá ouvir o "Uai" encharcado de um Vódi. Embora fosse um belo peixe-bolha nas profundezas, a exposição à superfície o mudou fundamentalmente, fazendo com que suas brânquias encolhessem, suas nadadeiras se transformassem em mãos e seu corpo inchasse levemente. Embora pareçam mínimas, essas mudanças significam que o pobre Vódi não pode mais fazer a longa jornada subaquática de volta para seu doce lar, porém não sabemos se as águas do Pântano Perene são Doces ou salgadas, então vamos chamar somente de Lar. O Vódi aceita isso com gentileza e usa suas dobrinhas brilhantes para ajudar a guiar outros viajantes subaquáticos, e é um grande amigo de muitos acima e abaixo da superfície. Porém, Vódi sente falta das vistas de seu recife e dos sons das melodias do grande Pântano. 
+
+#--Triples--#
+Monsters/Monster_frondley=Folhamável
+Monsters/Monster_frondley_bio=O Folhamável é ummmmmmmmmm espécime incrível! Seu físico gelatinoso e dedos nos quais podem se assimilar à certo monstro, no qual certamente monstro evoluiu separadamente do nosso companheiro de cor amarela. Seus zumbidos sobrenaturais e serenos ecoam pelas ilhas, sempre afirmado que um Folhamável está presente lá. Alguns monstros vão até longas distancias só para gravar seu zumbido, para que depois eles possam se colocar para dormir escutando esse som calmo. Em outras atividades, Folhamáveis adoram manter seu penteado "tipo-alga", enquanto sempre se esforçam para encontrar a quantidade perfeita de cabelo para seus crânios bulbosos.
+
+Monsters/Monster_bridgit_young=Pontista Bebê
+Monsters/Monster_bridgit_young_bio=As Pontistas Jovens amam laços, tiaras e qualquer outra coisa que as deixem adoráveis! Seus cabelos sempre estão arrumados e decorados. Porém, elas tem braços muito pequenos e não podem fazer esse trabalho sozinhas! Por sorte, sempre existem as Escarasítares como figuras maternas por perto, que sempre vão ajudá-las com problemas das suas tranças. 
+
+Monsters/Monster_bridgit=Pontista
+Monsters/Monster_bridgit_bio=Estereótipos dizem que os trolls são geralmente cruéis e vivem em porões, Pontista é exatamente o oposto disso. Este monstro melódico é um dos mais gentis que se pode conhecer, constantemente organizando chás (sem bebês), competições de construção de pontes e muito mais. Bem, isso é o que pensamos, já que nunca vimos realmente isso acontecer... É tão bom teorizar não?.
+
+Monsters/Monster_banno=Banhango
+Monsters/Monster_banno_bio=Um vocalista do lendário Coro do Cancer, por muito tempo Banhango passou seu tempo nas profundezas frias do oceano. Infelizmente, as temperatura congelantes não eram ideais para seu corpo acostumado com a água quente! Ao em vez de entrar em algo como um gêiser, ele decidiu ficar perto de seus amigos utilizando um balde de madeira cheio de água fervendo para se manter confortável. Embora seu abdômen vermelho fervente possa parecer nada saudável, não há com o que se preocupar, Banhango afirma que é apenas sua cor natural aparecendo após a limpeza de milhares de anos de sujeira do mar.
+
+Monsters/Monster_banno_rare=Banhango raro
+Monsters/Monster_banno_rare_bio=Rebola vai
+Monsters/Monster_spunge=Esponjo
+Monsters/Monster_spunge_bio=Esponjos adultos são assoviadores muito talentosos, eles conseguem soprar tão forte que às vezes eles acabam mandando seus colegas monstruosos para ilhas bem distantes! Apenas lembre-se de se esconder quando eles sopram suas velas de aniversário.
+
+Monsters/Monster_dulsylvan=Dulsilvestre
+Monsters/Monster_dulsylvan_bio=O entalhado Dulsilvestre é uma criatura de madeira e intemperismo, mantido unido por seu núcleo sólido, é um monstro que pode parecer meio grosseiro a primeira vista. Conhecido por nunca falar e ser sempre carrancudo, o mau humor de Dulsilvestre nada mais é do que algo causado pelo fato de que sua boca está bem travada nessa sua forma atual. Na verdade, o verdadeiro monstro vive nas pequenas criaturas que residem na única parte verdadeiramente cheia de vida desse ser, que são os seus galhos elevados. Essas criaturinhas, que as vezes são chamadas de Silvinhos, destampam e tapam os buracos abertos em seus galhos ancestrais enfermos para permitir a passagem do ar, dando ao Dulsilvestre um meio de comunicação com seus vizinhos. Uma vez que Dulsivan misticamente se transforma em uma pinha, os Silvinhos começarão a crescer e se transformar rapidamente em jovens Dulsilvestres!
+
+Monsters/Monster_dulsylvan_rare=Dulsilvestre Raro
+Monsters/Monster_dulsylvan_rare_bio=Durante os últimos estágios da vida de um Dulsilvestre, seu corpo começa a mudar rapidamente. A madeira antiga e sólida se transforma em uma forma leve e arejada, conhecida como Silpinha. O corpo do Dulsilvestre começa a exalar uma seiva doce, que alimentará seus jovens Silvinhos depois que ele falecer, e seu nariz muda para um tom verde delicioso. Embora esses últimos dias sejam considerados curtos, eles são conhecidos por serem cheios de alegria, pois o velho Dulsilvestre se torna capaz de se mover livremente mais uma vez! Eventualmente, porém, diminui a velocidade, e a seiva cristaliza a Silpinha e a preserva para a eternidade...
+
+Monsters/Monster_choral=Troncoral
+Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Troncoral! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Troncoras trollam o monstros com seu disfarce se alguém chega muito perto, e quando eles perceberem, logo pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
+
+Monsters/Monster_frondley_young=Folhamável Jovem
+Monsters/Monster_frondley_young_bio=Young Frondley bio
+#--Quads--#
+Monsters/Monster_stoopa=Stupa
+Monsters/Monster_stoopa_bio=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
+
+Monsters/Monster_gloptic=Visscolha
+Monsters/Monster_gloptic_bio=vi
+
+Monsters/Monster_gloptic_young=Visscolha Bebê
+Monsters/Monster_gloptic_young_bio=A glótica Visscolha Jovem é conhecida por sua pele escorregadia e muco pegajoso, resultado de quedas causadas pela falta de jeito juvenil. Adaptadas a uma gravidade mais baixa, essas criaturas possuem globos oculares grandes e expostos, mas surpreendentemente, não são alvos fáceis. Uma camada espessa ao redor dos olhos, como uma lente protetora evolutiva, protege contra danos diretos. No entanto, essa lente acumula o muco natural, retardando sua visão e contribuindo para mais escorregões. O habitat ideal para a Visscolha Jovem deve incluir preenchimento para suavizar suas quedas e facilitar seu desenvolvimento.
+
+###--Mythicals------------------------------------------###
+Monsters/Monster_wheezel=Sibilinha
+Monsters/Monster_wheezel_bio=Wheezel bio
+Monsters/Monster_wheezel_rock=Pedra de Esculpir Sibilinha
+Monsters/Monster_wheezel_rock_bio=Wheezel Rock bio
+
+Monsters/Monster_knurv=Malanervo
+Monsters/Monster_knurv_bio=Knurv bio
+Monsters/Monster_knurv_rock=Pedra de Esculpir Malanervo
+Monsters/Monster_knurv_rock_bio=Knurv Rock bio
+
+Monsters/Monster_cataliszt=Gatalisador
+Monsters/Monster_cataliszt_bio=Cataliszt bio
+
+
+###--Celestials------------------------------------------###
+Monsters/Monster_hornacle=Cornecraca
+Monsters/Monster_hornacle_bio=Hornacle bio
+
+Monsters/Monster_loodvigg=Bitoven
+Monsters/Monster_loodvigg_bio=Loodvigg bio
+
+Monsters/Monster_blasoom=Florgote
+Monsters/Monster_blasoom_bio=Blasoom bio
+
+Monsters/Monster_torrt=Tartambor
+Monsters/Monster_torrt_bio=Torrt bio
+
+Monsters/Monster_scaratar=Scarasítar
+Monsters/Monster_scaratar_bio=Scaratar bio
+
+Monsters/Monster_syncopite=Tonólito
+Monsters/Monster_syncopite_bio=Syncopite bio
+
+Monsters/Monster_attmoz=Atmosfer
+Monsters/Monster_attmoz_bio=Attmoz bio
+
+Monsters/Monster_vhamp=Mecâlodia
+Monsters/Monster_vhamp_bio=Vhamp bio
+
+Monsters/Monster_furnoss=Fornácio
+Monsters/Monster_furnoss_bio=Furnoss bio
+
+Monsters/Monster_glaishur=Geleirinho
+Monsters/Monster_glaishur_bio=Glaishur bio
+
+Monsters/Monster_galvana=Galvana
+Monsters/Monster_galvana_bio=Ano após ano, o ciclo celestial se repete novamente, e o monstro final do ciclo é a majestade Galvana. Poderosa e pura, esta estrondosa celestial guia seu panteão perfeito, enquanto também compõe progressões complexas! Agora conhecida por possuir a centelha da vida dentro de seu orbe galvanizador, Galvana é uma celestial famosíssima e muito reverenciada da cidade até as fronteiras dos reinos mais distantes… 
+
+Monsters/Monster_plixie=Pluende
+Monsters/Monster_plixie_bio=Plixie bio
+
+Monsters/Monster_light=Loqueturna
+Monsters/Monster_light_bio=Que absurdo! A Loqueturna é um ser realmente estranho, com um pescoço impressionante e pernas longas, ou seriam braços? Nínguem sabe... incluindo a própria Loqueturna; A lenda da cor de lavanda apenas os chama de braçernas! Quando não está filosofando sua própria existência, as paixões desse monstro misterioso incluem tricotar meias de pescoço, topar em praticamente qualquer coisa e tocar apaixonadamente com seu coração desajeitado em sua lira amadeirada. E sempre tomando cuidado para não arrebentar as cordas, pois elas são feitas à mão por uma outra tricotadora de uma terra bem distante.
+
+Monsters/Monster_bone=Amonautilo
+Monsters/Monster_bone_bio=Em uma terra TÃO TÃO distante, nascido das lagrimas de uma estrela que estáva a morrer, uma criatura única governou a terra... Assim começa a história favorita do galanteador Amonautilo. Um role-player radical de sua própria classe, esse ser barulhento adora brincar de faz de conta, imaginando todos os tipos de histórias e criando fantasias engraçadas. Embora suas próprias origens permaneçam um mistério, ele só pode imaginar quem o criou. Não importa o que aconteça, uma coisa é certa: nós sabemos que isso se tornará parte da identidade de cada osso do corpo bem equipado do Amonautilo!
+
+Monsters/Monster_psychic=Maláxia
+Monsters/Monster_psychic_bio=Macrocranium bio
+
+Monsters/Monster_faerie=Fungágia
+Monsters/Monster_faerie_bio=Chordyrid bio
+
+###--Seasonals------------------------------------------###
+Monsters/Monster_punkleton_young=Punkeleto Bebê
+Monsters/Monster_punkleton_young_bio=Boo! Punkeletinhos foram ditos de ter emergido de sáboboras que poluem a cidade flutuante, encantado pela lua cheia. Esse espíritos sáboborosos adoram se aproximar de outros monstros antes de surpreendê-los - com um monte de guloseimas saborosas!
+
+Monsters/Monster_punkleton=Punkeleto
+Monsters/Monster_punkleton_bio=Punkleton bio
+
+Monsters/Monster_schmoochle=Beijo-Bicota
+Monsters/Monster_schmoochle_bio=Schmoochle bio
+
+Monsters/Monster_spurrit=Spurrit
+Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! Este explorador intrépido, agora mais longe de casa do que nunca, está feliz em explorar este mundo estranho e vibrante.
+Monsters/Monster_spurrit_desert=Spurrit
+Monsters/Monster_spurrit_desert_bio=Este explorador intrépido, fascinado por essas ruínas antigas, parece ter encontrado alguns problemas com a vida aviária local. Enquanto os Abultriz são inofensivos, Spurrit ainda congela ao som de seu grito, nem mesmo soltando um grito característico.
+
+Monsters/Monster_ffydill=Ffidílio
+Monsters/Monster_ffydill_bio=Ffidyll bio
+
+###--Legendary------------------------------------------###
+
+
+###--Knotsurrian------------------------------------------###
+Monsters/Knott_1=Árvore Nãocerteza
+Monsters/Knott_1_bio=Esta criatura, apesar de não parecer silvestre, é uma árvore ancestral. Um ponto na evolução das árvores Nãocerteza, coníferas e encontradas em toda a ilha. Sua casca é quase petrificada e impenetrável pela maioria dos vermes e predadores. No entanto, uma espécie particular de "Ninfa Cavaplanta" desenvolveu dentes fortes que podem roer a casca dura e se estabelecer dentro do vazio azulado. A casca da árvore é extremamente ressonante por dentro. Permitindo que as Ninfas cantem enquanto estão dentro que ressoam um som profundo e penetrante. Os buracos esculpidos pelas ninfas lembram um rosto, fazem isso para espantar convidados indesejados e participar do concurso anual de decoração fantasmagórica.
+
+Monsters/Knott_2=Boqueirão
+Monsters/Knott_2_bio=Bay bio
+
+Monsters/Knott_3=Vaso Haulma
+Monsters/Knott_3_bio=As Haulmas - Uma coleção de psíquicos vingativos com um espírito muito licencioso com um forte poder de vontade. A tarefa de cuidá-los deve ser concedida a boas mãos. Ou só uma mão neste caso. Os dedos inflexíveis e a força imensurável do guardião os tornam perfeitos para o trabalho, mas mesmo eles estão tendo dificuldade em manter as inquietas Haulmas em repouso. Por que essas Haulmas são tão bagunceiras? Ninguém sabe...
+
+Monsters/Knott_4=BoOoo
+Monsters/Knott_4_bio=Todos que vêm do Thumpiverso são bem versados na prática de saltos interdimensionais, e BoOoo não é uma exceção. Fugindo das profundezas dos abismos de seu antigo lar, BoOoo embarcou numa longa e ampla jornada para uma nova casa. Eventualmente, ele encontrou uma montanha estranha, bem abaixo dos Penhascos de Prata que emitiram uma sensação estranha que ressoou em BoOoo. A princípio ele resolveu ficar ali para investigar, a aura enigmática da região convenceu BoOoo a finalmente escolher seu verdadeiro lar pela primeira vez em milênios. No entanto, quando a esmola é de graça é por quê tem coisa por trás... Por isso sem o consumo cuidadoso de recursos locais, a magia alienígena da região pode se apoderar de BoOoo e dos outros moradores de maneiras bem estranhas…
+
+Monsters/Knott_5=Monte Palitident
+Monsters/Knott_5_bio=O Monte Palitident era um "Nãochedo" normal mas foi afetado pela magia Não-certeza, emitida pelos orbes místicos encontrados em toda a Ilha. Ganhou habilidades musicais imediatamente, após ser animado ele começou a cantar. Eclético, conhece muitas composições, mas "Monstrinha de Ipanema" e "Show das Monstruosas" remixada por "DJ. Azeitona" é o mais próximo de seu coração de pedra. Você pode encontrá-lo cantarolando a melodia sem parar sempre que não estiver cantando. Sair da ilha resultaria na reversão ao seu estado inicial de "Nãosciência". A menos que carregue uma das fontes da magia Não-Certeza com ele onde quer que ele vá.
+
+Monsters/Knott_6=Monte Montanhoso
+Monsters/Knott_6_bio=Mount Mound bio
+
+Monsters/Knott_7=Floquinha
+Monsters/Knott_7_bio="Flock! Flock!"\nIsso pode ser ouvido sempre que este monstro estiver por perto. Floquinhas são criaturas feitas de osso puro, unidas por magia e fita adesiva. O crânio deste alegre jogador de "maracossos" de alguma forma cresceu com orelhas e olhos funcionais. Permitindo-o enxergar e escutar os redores. Somando-se a isso o sentido de osscepção está presente. Sentido que dá a capacidade de sentir a presença de outros ossos de muito longe e identificar facilmente tipos de ossos e esqueletos. Além disso, a Osscepção ajuda a identificar qualquer tipo de lesão óssea, ajudando os monstros em casos de acidentes.
+
+Monsters/Knott_8=Cleomaça
+Monsters/Knott_8_bio=Cleomace bio
+
+Monsters/Knott_9=Vovó Crocherteza
+Monsters/Knott_9_bio=Conheça a criatura mais amigável do mundo perdido. A velhinha Babushka Crocherteza é uma "vovózona" que age como uma nutridora para qualquer tipo de monstro que exista. Ela usa suas habilidades de tricô para manter seus netos adotivos em bem quentinhos e saudáveis, e geralmente nunca saem da vista da vovó. A maioria dos representantes da espécie tem vários milênios de idade e parecem nunca mudar visualmente depois de atingir um marco de 80 anos. Apesar de tudo isso, existem espécimes que tiveram um passado trágico e nunca mais se recuperaram... Esses mesmos tendem a ser mais agressivos com todos ao redor.
+
+Monsters/Knott_10=Friid Máiz
+Monsters/Knott_10_bio=Bel'yawn Zirro bio
+
+Monsters/Knott_special=Cimbito
+Monsters/Knott_special_bio=Chimblickle bio
+
+Monsters/Knott_1_rare=Árvore Nãocerteza Rara
+Monsters/Knott_1_rare_bio=Graças ao corpo verdejante da Árvore Nãocerteza rara, fornecida por um dos BooOos, Incorporou um odor contraninfa, mantendo-se a salvo daqueles entalhadores desagradáveis. No entanto, o perfume recém-desenvolvido era semelhante aos feromônios das moscas. Assim, atraindo pragas ainda mais peçonhentas. Para encurtar a história, agora Nãocerteza é um recanto de moscas. 
+
+Monsters/Knott_2_rare=Boqueirão Raro
+Monsters/Knott_2_rare_bio=Bay bio
+
+Monsters/Knott_3_rare=Vaso Haulma Raro
+Monsters/Knott_3_rare_bio=Uma coleção de haulmas vingativas com uma alma muito licenciosa e uma forte determinação. A tarefa de os proteger deve ser concedida em boas mãos. Ou só uma mão neste caso. Os dedos inflexíveis e a força imensurável do guardião os tornam perfeitos para o trabalho, mas mesmo eles estão tendo dificuldade em manter as inquietas Haulmas em repouso. Por qual motivo, razão ou circunstância essas Haulmas são tão inquietas? Ninguém sabe...
+
+Monsters/Knott_4_rare=BoOoo Raro
+Monsters/Knott_4_rare_bio=BooOo rara é um nome enganoso. Esses thumpies são na verdade Ghawgs. Criaturinhas semelhantes a peixes, mas ainda bem peludos. Sempre acompanhados por um bando de tortappers em busca de uma nova história, eles viajam entre os reinos e exploram o mundo. Ocasionalmente, parando por algumas temporadas, se gostarem do lugar. Esses monstros com certeza sabem viver a vida dos sonhos. 
+
+Monsters/Knott_5_rare=Monte Platident Raro
+Monsters/Knott_5_rare_bio=Ao contrário dos Palitident do monte com os quais estamos acostumados, essas variantes em particular têm uma infinidade de características faciais únicas em cada uma de suas cabeças. Cada uma delas são cheias de emoções e caráter. Diz um ditado que o maior deles foi baseado em um monstro não nativo de nenhum Mundo dos monstros... Como? 
+
+peculiar...
+Monsters/Knott_6_rare=Monte Montanhoso Raro
+Monsters/Knott_6_rare_bio=Mount Mound bio
+
+Monsters/Knott_7_rare=Floquinha Rara
+Monsters/Knott_7_rare_bio="Flocca! Flocca!"\nCan be heard whenever this monster is around. Floccas are cratures made of pure bone, held together by magic and plucktape. The skull of this cheerful maracc-oss player somehow grew furr and functioning ears and eyes. Giving the sense of sight and sound. Adding to that the sense of Oss-ception is present. Sense that gives an ability to feel the presense of other bones from far far away and easily identifying types of bones and skeletons. Also Oss-ception helps to identify any types of bone injuries, helping monsters around in case of an accident.
+
+Monsters/Knott_8_rare=Cleomaça Rara
+Monsters/Knott_8_rare_bio=Cleomace bio
+
+Monsters/Knott_9_rare=Vovó Crocherteza Rara
+Monsters/Knott_9_rare_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
+
+Monsters/Knott_10_rare=Friid Máiz Raro
+Monsters/Knott_10_rare_bio=Bel'yawn Zirro bio
+
+Monsters/Knott_special_rare=Cimbito
+Monsters/Knott_special_rare_bio=Chimblickle bio
+
+
+###--Strayed------------------------------------------###
+Monsters/Monster_handmond=Morgão
+Monsters/Monster_handmond_bio=Handmond bio
+
+Monsters/Monster_whimstlop=Perlhepito
+Monsters/Monster_whimstlop_bio=As maquinações internas do Perlhepito são um enigma. O que é visto do lado de fora desse monstro passivo é apenas uma armadura com um talvez "capacete" ampliado pelo uso excessivo de armaduras descartadas em sua juventude. Seus aspectos orgânicos estão sob seu revestimento metálico, com as únicas partes visíveis sendo um olho singular (ele perdeu o outro) e duas pernas semelhantes a galhos (surpreendentemente fortes, dado o peso de levantar sua armadura). Dependendo de seu ambiente, um Perlhepito pode vestir uma armadura de um material diferente para atender às suas necessidades atuais. Às vezes eles trabalham como sopradores de folhas em meio período, expelindo grande parte da sujeira e caca que seus outros amigos monstros fazem.
+Monsters/Monster_whimstlop_meduza=Perlhepito
+Monsters/Monster_whimstlop_meduza_bio=As maquinações internas do Perlhepito são um enigma. O que é visto do lado de fora desse monstro passivo é apenas uma armadura com um talvez "capacete" ampliado pelo uso excessivo de armaduras descartadas em sua juventude. Seus aspectos orgânicos estão sob seu revestimento metálico, com as únicas partes visíveis sendo um olho singular (ele perdeu o outro) e duas pernas semelhantes a galhos (surpreendentemente fortes, dado o peso de levantar sua armadura). Dependendo de seu ambiente, um Perlhepito pode vestir uma armadura de um material diferente para atender às suas necessidades atuais. Às vezes eles trabalham como sopradores de folhas em meio período, expelindo grande parte da sujeira e caca que seus outros amigos monstros fazem.
+
+###--Gamma------------------------------------------###
+Monsters/Monster_olga=Olgapolva
+Monsters/Monster_olga_bio=Olgaropipe bio
+
+Monsters/Monster_potbellyGM=Bobalgas
+Monsters/Monster_potbellyGM_bio=Kelpebbul bio
+
+Monsters/Monster_quibbleGM=Piorraça
+Monsters/Monster_quibbleGM_bio=Kazakhstan.
+
+###--Guest------------------------------------------###
+Monsters/Special/Monster_melochness=Melódi-Ness
+Monsters/Special/Monster_melochness_bio=Nascidos das poças encantadas nos bosques profundos, Melódi-Nesses são criaturas colossais e curiosas. Como a maioria dos habitantes da Floresta das Fadas, a existência desse monstro é grandemente lincada a Neblina Flora. Enquanto não sabemos exatamente oque faz, a neblina aparenta amplificar as melódicas melodias de Melódi-Ness e levá-las para longe. Sua melodia encantada pode ser ouvida por toda floresta à fora enquanto é carregada pela Neblina Flora. Na verdade, isso foi a primeira coisa que os monstros naturais ouviram quando adentraram aos Bosques Profundos. Também é dito que Melódi-Ness compartilha um ancestral em comum com Piu-Flau e Coelhinho-do-Ninho.
+
+Monsters/VOIDCORN=<color="red">V O I D C O R N
+
+###--Misc------------------------------------------###
+WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
+
+Monsters/Monster_dipster_1=Dó
+Monsters/Monster_dipster_1_bio=
+Tímidos à luz solar, os Acanhados constroem suas casas no subsolo. A música abafada que vem de cima dá aos Acanhados a coragem de se levantarem e se juntarem à melodia harmoniosa,  mesmo que seja apenas uma nota de cada vez... Os Acanhados são criaturas engenhosas e coletam materiais naturais para enfeitar as entradas de seus túneis e diferencia-las dos demais. Ninguém sabe até onde vai um buraco de um Acanhado, apenas eles mesmos!
+Monsters/Monster_dipster_2=Ré
+Monsters/Monster_dipster_2_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_3=Mi
+Monsters/Monster_dipster_3_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_4=Fá
+Monsters/Monster_dipster_4_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_5=Sol
+Monsters/Monster_dipster_5_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_6=Lá
+Monsters/Monster_dipster_6_bio=<ref>Monster_dipster_1_bio
+Monsters/Monster_dipster_7=Si
+Monsters/Monster_dipster_7_bio=<ref>Monster_dipster_1_bio
+
+Monsters/Monster_percFrog=Sapatida
+Monsters/Monster_percFrog_bio=Sapinho :), Como vc conseguiu ele??
+
+#--STRUCTURES--##
+###--Castles------------------------------------------###
+Structures/Structure_castle_undof=Castelo Básico
+Structures/Structure_castle_undof_bio=Basic Castle bio...
+
+Structures/Structure_castle_undof2=Castelo Modesto
+Structures/Structure_castle_undof2_bio=Castle
+
+Structures/Structure_castle_undof3=Castelo Confortável
+Structures/Structure_castle_undof3_bio=Castle
+
+Structures/Structure_castle_undof4=Castelo Espaçoso
+Structures/Structure_castle_undof4_bio=Castle
+
+Structures/Structure_castle_undof5=Castelo Luxuoso
+Structures/Structure_castle_undof5_bio=Castle
+
+Structures/Structure_castle_undof6=Castelo Extravagante
+Structures/Structure_castle_undof6_bio=Castle
+
+###--Breeding------------------------------------------###
+Structures/Structure_breeding=Estrutura de Procriação
+Structures/Structure_breeding_bio=Breeding Structure bio
+
+Structures/Structure_breeding_city=Estrutura de Procriação
+Structures/Structure_breeding_city_bio=Breeding Structure bio
+
+Structures/Structure_breeding_undof=Estrutura de Procriação
+Structures/Structure_breeding_undof_bio=Esta estrutura peculiar tem sido usada desde a era de ouro do Mundo dos Monstros, e pouco mudou desde então. Uma vez que é velho o suficiente, um Monstro pode produzir espontaneamente um ovo contendo toda a sua informação genética e elemental, que é então colocada em uma das 'tigelas' da máquina. Esses ovos, que são verdadeiramente mais como os esporos, fluem lentamente seus 'fluidos corporais preciosos' pelos drenos gêmeos da estrutura e se misturam magicamente no vaso central, até que um novo ovo seja produzido! O processo é complicado, porém, como uma combinação de criação pode ter muitos resultados possíveis.
+
+Structures/Structure_breeding_undof2=Estrutura de Procriação Melhorada
+Structures/Structure_breeding_undof2_bio=A procriação é um negócio complicado na melhor das hipóteses, então uma pequenina vantagem ajuda. Graças à inestimável pesquisa de campo que foi coletada nos últimos dois anos, a complexa interação dos poderes elementais agora é melhor compreendida do que nunca! Esta estrutura de criação aprimorada reduz o tempo de espera de criação em 25%!
+
+Structures/Structure_breeding_undof3=Estrutura de Procriação Açucarada
+Structures/Structure_breeding_undof3_bio=Doce
+
+###--Food Making------------------------------------------###
+Structures/Structure_bakery=Padaria
+Structures/Structure_bakery_bio=Bakery bio
+
+Structures/Structure_amalgamator=Amalgamador
+Structures/Structure_amalgamator_bio=Amalgamator bio
+
+Structures/Structure_amalgamator_city=Misturador
+Structures/Structure_amalgamator_city_bio=Bebe food maker bio
+
+Structures/Structure_masher=Moedor
+Structures/Structure_masher_bio=Masher bio
+
+Structures/Structure_crafter=Mesa de Criações
+Structures/Structure_crafter_bio=The crafter is a strange contraption! Try out some of the recipies for new goodies and treats!
+
+###--Fun------------------------------------------###
+Structures/Structure_jukebox=Jukebox
+Structures/Structure_jukebox_bio=Anunciando dias passados, a Jukebox ainda ostenta recordações de conhecedores musicais que esperam tocar depois que o dia terminar. Enquanto uma versão mais brilhante parece ter sido modelada para um paraíso distante, este protótipo mais antigo chegou até aqui, onde é adorado por todos os jovens. Como eles não podem cantar, eles se aglomeram e ouvem alegremente, inspirando-se e absorvendo a criatividade bruta das frequências fantásticas emitidas de dentro.
+
+Structures/Structure_bass=Máquina de Baixo
+Structures/Structure_bass_bio=A Máquina de Baixo é uma mistura de arte e técnologia de ponta, originária da era do Grande Incidente da Borgonha. Embora o conhecimento para criar mais delas tenha sido perdido há muito tempo, muitas ainda podem ser encontradas espalhadas em prédios pela cidade flutuante. Essas estranhas máquinas são conhecidas por serem muito mais inteligentes do que qualquer outro ser dentro do mundo monstro, mas ainda não podem se comunicar com o mundo exterior, restando apenas a ação de zumbir e dedilhar notas graves na esperança de serem compreendidas…
+
+
+###--Special------------------------------------------###
+Structures/Structure_stargazer=Observátorio
+Structures/Structure_stargazer_bio=Observatory bio
+
+
+Structures/Structure_timemachine=Máquina do Tempo
+Structures/Structure_timemachine_bio=Time Machine bio
+
+
+###--Monster-Making------------------------------------------###
+Structures/Structure_knottmaker1=Bugiganga estranha.
+Structures/Structure_knottmaker1_bio=A strange contraption bio
+
+Structures/Structure_knottmaker2=Amalgamador reconstruído
+Structures/Structure_knottmaker2_bio=Amalgamator bio
+
+Structures/Structure_knottmaker3=Amalgamador
+Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
+
+Structures/Structure_knottmaker4=Amalgamador Melhorado
+Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
+
+#--COMPOSER--##
+Monsters/Composer/Monster_potbelly_composer=Potbelly
+Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
+Monsters/Composer/Monster_toejammer_composer=Toe Jammer
+Monsters/Composer/Monster_toejammer_composer_bio=Toe Jammer bio
+Monsters/Composer/Monster_tweedle_composer=Tweedle
+Monsters/Composer/Monster_tweedle_composer_bio=Tweedle bio
+Monsters/Composer/Monster_flootfly_composer=Floot Fly
+Monsters/Composer/Monster_flootfly_composer_bio=Floot Fly bio
+Monsters/Composer/Monster_choral_composer=Choralle
+Monsters/Composer/Monster_choral_composer_bio=Choralle bio
+Monsters/Composer/Monster_likho_composer=Yap
+Monsters/Composer/Monster_likho_composer_bio=Yap bio
+Monsters/Composer/Monster_wadee_composer=Wadee
+Monsters/Composer/Monster_wadee_composer_bio=Wadee bio
+Monsters/Composer/Monster_quibble_composer=Quibble
+Monsters/Composer/Monster_quibble_composer_bio=Quibble bio
+Monsters/Composer/Monster_stoopa_composer=Stoopa
+Monsters/Composer/Monster_stoopa_composer_bio=Stoopa bio
+Monsters/Composer/Monster_oaktopus_composer=Oaktopus
+Monsters/Composer/Monster_oaktopus_composer_bio=Oaktopus bio
+Monsters/Composer/Monster_spunge_composer=Spunge
+Monsters/Composer/Monster_spunge_composer_bio=Spunge bio
+
+#--UNDOF--##
+###--Singles------------------------------------------###
+Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
+Monsters/Monster_toejammer_undof_bio= Embora os Dedos Enroscados pareçam frágeis, estes elementais emborrachados de Água são bem fortes. Eles cantam sobre maravilhas líquidas: leviatãs do mar profundo, ondas em colisão, porão inundado e chá de bolhas!
+
+Monsters/Monster_kayna_undof=<ref>Monsters/Monster_kayna
+Monsters/Monster_kayna_undof_bio=A antiga Lavareda foi por muito tempo considerada perdida para um evento enigmático na antiguidade Monstruosa. Um espécime solitário envolto em âmbar foi resgatado na Ilha Tribal, é verdade, mas só recentemente uma nova geração desses seres começou a aparecer, atraída pelo misterioso chamado de Relíquias ressoando profundamente dentro do núcleo vulcânico do mundo. Agora, este Elemental do Fogo está pronto para fazer sua parte em restaurar a glória do seu poderoso Elemento no Mundo dos Monstros.
+
+Monsters/Monster_kayna_rare_undof=Lavareda Rara
+Monsters/Monster_kayna_rare_undof_bio=Portadoras do elemento mais experiente, Lavaredas raras são uma forma antiga da qual todos os seus primos comuns surgiram. Suas exóticas esculturas semelhantes a tatuagens são concedidas a elas como bodas de lava. Impressionantes e sábias, era após era; você pode imaginar que as Lavaredas raras mais antigas são uma visão e tanto! Porém, não importa quantos anos o raro de fogo original fique, a chama ardente do seu elemento jamais minorará.
+
+Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
+Monsters/Monster_noggin_undof_bio= As Cabeças-duras são, basicamente, pedras musicais. Em sintonia profunda com a terra, seus ritmos simples ecoam o pulso de sua ilha. Os efeitos de reverberação produzidos pelas Cabeças-duras estimulam todos os outros Monstros.
+
+Monsters/Monster_noggin_rare_undof=Cabeça-Dura Rara
+Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
+
+###--Doubles------------------------------------------###
+Monsters/Monster_fwog_undof=Dom Sapo
+Monsters/Monster_fwog_undof_bio=Emergindo da terra natal enlameada, o Dom Sapo canta apaixonadamente, esperando atrair assim uma companheira. Ele enche o ar com seu apelo hipnótico, que estimula os instintos primordiais de cada Monstro.
+
+Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
+Monsters/Monster_phangler_undof_bio=Os Peixânzois são destinados a uma vida no centro das atenções! Esses vocalistas nascidos vivem para se apresentar, e seus tons doces são frequentemente empregados em todos os tipos de reuniões. Não seja pego sem entretenimento ao vivo na sua festa do Mês de Aniversário: reserve hoje um Peixânzol!
+
+Monsters/Monster_stogg_undof=Estegão
+Monsters/Monster_stogg_undof_bio=Como ávidos colecionadores de rochas, Estegães adoram cavar a terra com suas poderosas pernas dianteiras para encontrar novos minerais brilhantes. Infelizmente, este Monstro distraído também gosta de enterrar seu tesouro, muitas vezes esquecendo a localização logo depois.
+
+Monsters/Monster_thrumble_undof=Cantarolador
+Monsters/Monster_thrumble_undof_bio=Ávidos e com bocas largas, Cantaroladores tendem a engolir Agrados inteiros. Suas gargantas alongadas podem se espremer e se esticar para fornecer aos Agrados tempo suficiente para serem pulverizados pelas reverberações da vvibração da assinatura deste Monstro desajeitado. Ao zumbir com o estomago vazio, seus bolsões de ar borbulhantes podem se expandir e provocar uma súbita onda de risadinhas!
+
+###--Candy------------------------------------------###
+Monsters/Monster_knife=Dangata
+Monsters/Monster_knife_bio=Banch bio
+
+Monsters/Monster_jobo=Jodel
+Monsters/Monster_jobo_bio=Jodel bio
+
+Monsters/Monster_treble=Ethenor
+Monsters/Monster_treble_bio=Ethenor bio
+
+Monsters/Monster_gumtromp=Marmelete
+Monsters/Monster_gumtromp_bio=Um monstro com um olhar açucarado, o adorável Marmelete desfila pelo mundo dos monstros, dando palestras inspiradoras sobre como... os doces são realmente bons para você e como a máfia das escovas de dentes está atrás de todos. Caramba!?Entretanto, essa doce marmelada adora ajudar seus amigos e oferece muitos doces e confeitos para eventos, independentemente do seu tamanho. Que delícia adocicada!
+
+Monsters/Monster_gumtromp_rare=Marmelete Raro
+Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
+
+Monsters/Monster_keytrus=Melócitrus
+Monsters/Monster_keytrus_bio=Keytrus bio
+
+Monsters/Monster_koodahcane=Cavalo-Docinho
+Monsters/Monster_koodahcane_bio=Koodahcane bio
+
+Monsters/Monster_marshflamo=Tostamelo
+Monsters/Monster_marshflamo_bio=Marshflamo bio
+
+Monsters/Monster_brasscuit=Brolacha
+Monsters/Monster_brasscuit_bio=Choccosour bio
+
+Monsters/Monster_gobstomper=Quebratida
+Monsters/Monster_gobstomper_bio=Jawbreaker bio
+
+Monsters/Monster_claramel=Claramelo
+Monsters/Monster_claramel_bio=Claramel bio
+
+Monsters/Monster_sprinklate=Confesteiro
+Monsters/Monster_sprinklate_bio=Cakehorn bio
+
+###--Seasonals------------------------------------------###
+Monsters/Monster_jamboree_undof=Confolião
+Monsters/Monster_jamboree_undof_bio=Dizer que a Cabana Sazonal está repleta de boa vontade e júbilo seria correto, e isso em grande parte graças à presença de Confolião! Por muitos anos, o autoproclamado líder da Cabana assumiu a responsabilidade de tentar organizar os itens Sazonais que enfeitam cada canto do esconderijo flutuante. É um Monstro muito paciente, que anseia todos os anos pelo Mês de Aniversário, quando ele oferece uma grande festa para os Sazonais migratórios que voltam para o poleiro! Confolião aprecia quando outros Agrados além de Bolo são servidas nessas festas.
+Monsters/Monster_ghazt_undof=Fantominho
+Monsters/Monster_ghazt_undof_bio= O Fantominho, muito extraordinário, só aparece quando tudo está justo e perfeito. Imbuído do poder do Plasma, ele tem uma silhueta esbelta e a capacidade de se tornar etéreo - ideal para atravessar diversos lugares e passar despercebido. Porém, tudo isso o torna mais vulnerável a viagens interdimensionais acidentais. Ele gosta de brincar com outros Monstros, mas assim como um gato, às vezes prefere ficar sozinho... ou na companhia de outros de sua espécie.
+
+###--Supernaturals------------------------------------------###
+Monsters/Monster_wubbox_undof=Wub-Caixa
+Monsters/Monster_wubbox_undof_bio=One day as the monsters were tunneling underground, they stumbled upon an immense underground vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations:Sample analysis of the box's exterior indicates that it shares traits with every known monster species - in fact, it even has specialized compartments with an otherworldy shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.Gather some intrepid monster volunteers and see what happens when you 'box' them!
+
+Monsters/Monster_wubbox_undof_awake=<ref>Monsters/Monster_wubbox_undof
+Monsters/Monster_wubbox_undof_awake_bio=Eureka! The Wubbox awakes!  As it turns out, this extraordinary electric elemental is vital to the life processes of the colossal island monsters that the other singing denizens call home.  The shrunken monsters used to power up the creature report that inside is as fun as any playground they've ever seen, so they are happy to stay indefinitely.The robotic chirps and whistles it uses to express itself can take some getting used to, but eventually become a beloved and inextricable part of the island's tune.  Besides, it's all the rage in "current" music.The specific breeding characteristics of the Wubbox have not yet been studied.
+
+Monsters/Monster_wubbox_rare_undof=Wub-Caixa Rara
+Monsters/Monster_wubbox_rare_undof_bio=Rare Wubbox bio
+Monsters/Monster_wubbox_rare_undof_awake=<ref>Monsters/Monster_wubbox_rare_undof
+Monsters/Monster_wubbox_rare_undof_awake_bio=Rare Wubbox awake bio
+
+Monsters/Monster_fleechwurm_undof=Hipnonhoca
+Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
+Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
+Monsters/Monster_fleechwurm_undof_awake_bio=Além de serem usados para tocar música, alguns Monstros utilizam as vantagens de suas características e formatos únicos para outros propósitos. No caso da Hipnonhoca, a acústica de sua cavidade corporal pode gerar uma série de assovios que têm um efeito hipnótico sobre outros Wub-Caixoblins. Eles podem ser usados para persuadir os outros a fazerem tarefas indesejadas ou a tratar de suas necessidades estéticas. Alguns Wub-Caixoblins são mais resistentes que outros e reprimem a Hipnonhoca amigavelmente para que ela não fique muito abusada.
+
+#--PATHS--#
+EM_path1=Caminho de Pedras Encharcadas
+EM_path2=Caminho de Pedrinhas Pingando
+EM_path3=Grama Brilhante #1
+EM_path4=Grama Brilhante #2
+EM_path5=Caminho do Toco 
+EM_path6=Lascas de Madeira
+EM_path7=Caminho de Bolharito Super-Crescido 
+
+Desert_path1=Caminho de Âmbar
+Desert_path2=Caminho da Relíquia
+Desert_path3=Caminho da Flolhagem Petrificada
+Desert_path4=Tilojos de Areia
+Desert_path5=Tilojos de Areia Corbertos
+Desert_path6=Tilojo de Areia
+
+Organ_path1=Caminho da Célula De Sangue Vermelha
+Organ_path2=Caminho de Glóbulos Brancos
+Organ_path3=Caminho de Bolharito Hematógeno
+
+Candy_path1=caminho de Biscoito
+Candy_path2=Caminho de Chocolíto 
+Candy_path2=Caminho de Chocolíto Branco
+Candy_path3=Caminho de Algodão Doce Azul
+Candy_path4=Caminho de Algodão Doce Rosa
+Candy_path5=Caminho de Chiclete Mascado
+Candy_path6=Caminho de Farelos
+Candy_path7=Caminho de Granulados Surpresa
+
+#--DECORATIONS--##
+Decoration/Decoration_test=Notárvore
+Decoration/Decoration_test_bio=A Notárvore é um amálgamo de madeiras e capricho! Embora incapaz de produzir uma melodia como a velha máquina de baixo, as profecias dizem que, se tocado pelo vento, a Notárvore pode revelar uma música não ouvida desde o início da realidade…
+
+Decoration/Decoration_test1=Rabanete Tagarela
+Decoration/Decoration_test1_bio=Rabanetes Tagarelas são capazes de lembrar e dizer em voz alta tudo o que um monstro disse ao seu redor, então tome cuidado para não revelar nenhum segredo especial que você tenha enquanto estiver perto dessas plantas fofoqueiras ou então todos logo saberão tudo sobre você.
+
+Decoration/Decoration_test2=Seivárvore
+Decoration/Decoration_test2_bio=Estas árvores elegantes estão cobertas de seiva, mas quem fez isso? Bem, a resposta é simples: elas mesmas! Seivárvores têm a capacidade de criar seiva diretamente de suas folhas, essa seiva é conhecida por prender pequenos bichos que ousariam comer sua peruca esverdeada. Outros monstros usam a seiva dela para extrair açúcar e fazer suas deliciosas guloseimas, até mesmo colocar em um grande prato de panquecas!
+
+Decoration/Decoration_test3=Haulmárvore
+Decoration/Decoration_test3_bio=Souxls Tree bio
+
+Decoration/Decoration_test4=Fonte do Matraca
+Decoration/Decoration_test4_bio=Esta fonte encantada fornecia uma enorme quantidade de água fresca para os monstros. Isso é uma coisa maravilhosa, pois hoje em dia grande parte da água está contaminada. 
+
+Decoration/Decoration_test5=Florossea
+Decoration/Decoration_test5_bio=Funny Flora bio
+
+Decoration/Decoration_test6=Tulipa Malabarista
+Decoration/Decoration_test6_bio=À primeira vista, isso pode ser facilmente confundido com um Monstro. Mas é apenas uma planta que pode fazer malabarismo com qualquer coisa, principalmente com globos oculares. 
+
+Decoration/Decoration_test7=Balde de Juncos
+Decoration/Decoration_test7_bio=Parece que alguém arrancou alguns juncos do Pântano Perene e as colocou em um balde de água para mantê-las vivas! Muito Massa! 
+
+Decoration/Decoration_test8=Ávore de Bagas Embrocadas
+Decoration/Decoration_test8_bio=As árvores de bagas Embrocadas são muito apreciadas nas paisagens perdidas pelos seus deliciosos frutos silvestres. Na verdade, eles são tão deliciosos que os monstros nem sempre percebem o efeito colateral mágico das bagas, onde eles flutuam no ar e caem de cabeça para baixo!
+
+Decoration/Decoration_test9=Partes Reserva
+Decoration/Decoration_test9_bio=IÉ um pote de partes reserva! Para que serve isto? Quem sabe? São partes de reservas para o Blipirralho? São partes reservas para Morgão caso seus órgãos falhem? Eles são mesmo partes reservas!? Eu preciso de uma água urgente.
+
+Decoration/Decoration_test10=Baluni
+Decoration/Decoration_test10_bio=Eles o chamam de amigo substituo. Monstros solitários vêm até o Baluni a qualquer momento para compartilhas suas histórias com ele. Nosso "amigo" costumava voar livremente por aí, explorando o mundo monstros, mas eles acabou ficando preso entre duas pedras sem nada para fazer além de se balançar serenamente de um lado para o outro. Ninguém sabe quem fez o Baluni, mas os rumores dizem que se assemelha levemente à sua criação. Quem sabe, talvez nós iremos o conhecer algum dia.
+
+Decoration/Decoration_test11=Ipê Cardíaco
+Decoration/Decoration_test11_bio=Ok... Eu já vi várias coisas nojentas vindas da Terra dos Orgãos mas isso aqui supera tudo. Tipo, o que diabos no mundo monstro de Galvana é isso!? Isso é só... UGH! Eu tenho que usar o banheiro, eu acho que vou vomitar...
+
+Decoration/Decoration_test12=O Rei
+Decoration/Decoration_test12_bio=Ninguém sabe o que "O Rei" é, mais todo mundo coletivamente concorda em ficar longe dele. Ele provoca ansiedade a todos que são bravo o suficiente para o olhar bem no fundo dos olhos.
+
+Decoration/Decoration_knott=Monte Nãocerteza
+Decoration/Decoration_knott_bio=Mount Knottshurr bio
+Decoration/Decoration_mors=Mountanha dos Bocados
+Decoration/Decoration_mors_bio=Mountain Morsel bio
+ 
+#--OBSTACLES--##
+ObstacleMushroomsbio=Cofumelos emovidos serão gentilmente levados para um novo e belíssimo lar.
+Decoration/Obstacle_EM_1=Cogumelo Pequeno
+Decoration/Obstacle_EM_1_bio=É um cogumelo pequeno. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_2=Cogumelo Médio
+Decoration/Obstacle_EM_2_bio=É um cogumelo médio. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_3=Cogumelo Grande
+Decoration/Obstacle_EM_3_bio=É um cogumelo grande. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_4=Dedos do Diabo
+Decoration/Obstacle_EM_4_bio=Devil's Fingers bio
+Decoration/Obstacle_EM_5=Trufa
+Decoration/Obstacle_EM_5_bio=É uma trufa. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_6=Puffgumelo
+Decoration/Obstacle_EM_6_bio=É um puffgumelo. <ref>ObstacleMushroomsbio
+ObstaclePlacableShroom_bio=Lembra de quando falamos que os cogumelos removidos iriam parar em um novo e belíssimo lar? Ótimas notícias - esses são cogumelos são de outra pessoa, e esse pantâno é o novo lar desses camaradinhas! Reciclagem fungi é incível!
+
+
+Decoration/Obstacle_placable_EM_1=Cogumelo Pequeno
+Decoration/Obstacle_placable_EM_1_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_2=Cogumelo Médio
+Decoration/Obstacle_placable_EM_2_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_3=Cogumelo Grande
+Decoration/Obstacle_placable_EM_3_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_4=Dedos do Diabo
+Decoration/Obstacle_placable_EM_4_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_5=Trufa
+Decoration/Obstacle_placable_EM_5_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_6=Puffgumelo
+Decoration/Obstacle_placable_EM_6_bio=<ref>ObstaclePlacableShroom_bio
+
+ObstacleCommonRocks_bio=Pedras removidas serão levados para um ótimo novo lar.
+ObstacleCommonTrees_bio=Não se preocupe; Árvores removidas serão levadas para um ótimo novo lar.
+
+Decoration/Obstacle_Candy_1=Pedra Pequena. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_1_bio=É uma Pedra Pequena. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_2=Pedra Média
+Decoration/Obstacle_Candy_2_bio=É uma Pedra Média. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_3=Pedra Grande
+Decoration/Obstacle_Candy_3_bio=É uma Pedra Grande. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_4=Árvore Pequena
+Decoration/Obstacle_Candy_4_bio=É uma Árvore Pequena. <ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Candy_5=Árvore Média
+Decoration/Obstacle_Candy_5_bio=É uma Árvore Média. <ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Candy_6=Árvore Grande
+Decoration/Obstacle_Candy_6_bio=É uma Árvore Grande. <ref>ObstacleCommonTrees_bio
+
+ObstaclePlacableCommon_bio=Lembra de quando falamos que os pedras e árvores removidos iriam parar em um novo e belíssimo lar? Ótimas notícias - essas pedras e plantas são de outra pessoa, e esse pantâno é o novo lar desses camaradinhas! Reciclagem é incível!
+
+Decoration/Obstacle_placable_Candy_1=Pedra Pequena.
+Decoration/Obstacle_placable_Candy_1_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_2=Pedra Média
+Decoration/Obstacle_placable_Candy_2_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_3=Pedra Grande
+Decoration/Obstacle_placable_Candy_3_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_4=Árvore Pequena
+Decoration/Obstacle_placable_Candy_4_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_5=Árvore Média
+Decoration/Obstacle_placable_Candy_5_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_6=Árvore Grande
+Decoration/Obstacle_placable_Candy_6_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Dog=WALTER
+Decoration/Dog_bio=Dog goD.
+
+ObstacleKnottTree=Ela tem o poder de ressucitar vida. Não se preocupe, se você a cortar, nada de ruim acontecerá com o ecossístema desse lugar. Tudo aqui já está morto de qualquer forma...
+ObstacleKnottRock=Essa pedra, igual qualquer outra pedra nessa ilha, ela tem um potêncial mágico! Mais as maneiras de extrair tal mágia foram perdidas no tempo... Que pena.
+
+ObstacleCommonBones_bio=Osso removidos serão reduzidos à farelos!
+
+ObstaclePlacableBones_bio=Lembra de como falamos que esses ossos removidos virariam farelos? Boas notícias! - nós mentimos, esses são os ossos que você removeu. Te zuei.
+
+Decoration/Obstacle_Knott_1=Fofárvore
+Decoration/Obstacle_Knott_1_bio=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_2=Fofárvore Fofa
+Decoration/Obstacle_Knott_2_bio=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_3=Fofárvore Fofíssima
+Decoration/Obstacle_Knott_3_bio=<ref>ObstacleCommonTrees_bio
+
+Decoration/Obstacle_Knott_4=Osso Pequeno
+Decoration/Obstacle_Knott_4_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_5=Osso Médio
+Decoration/Obstacle_Knott_5_bio=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_6=Ossão
+Decoration/Obstacle_Knott_6_bio=<ref>OObstaclePlacableBones_bio
+
+Decoration/Obstacle_Knott_7=<ref>Decoration/Obstacle_Candy_1
+Decoration/Obstacle_Knott_7_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_Knott_8=<ref>Decoration/Obstacle_Candy_2
+Decoration/Obstacle_Knott_8_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_Knott_9=<ref>Decoration/Obstacle_Candy_3
+Decoration/Obstacle_Knott_9_bio=<ref>ObstaclePlacableCommon_bio
+
+Decoration/Obstacle_Knott_10=Buracno Negro Cavado
+Decoration/Obstacle_Knott_10_bio=Um buraco negro com origem desconhecida! Que peculiar.
+
+Decoration/Obstacle_placable_Knott_1=<ref>Decoration/Obstacle_Knott_1
+Decoration/Obstacle_placable_Knott_1_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_2=<ref>Decoration/Obstacle_Knott_2
+Decoration/Obstacle_placable_Knott_2_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_3=<ref>Decoration/Obstacle_Knott_3
+Decoration/Obstacle_placable_Knott_3_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_4=<ref>Decoration/Obstacle_Knott_4
+Decoration/Obstacle_placable_Knott_4_bio=<ref>
+Decoration/Obstacle_placable_Knott_5=<ref>Decoration/Obstacle_Knott_5
+Decoration/Obstacle_placable_Knott_5_bio=<ref>
+Decoration/Obstacle_placable_Knott_6=<ref>Decoration/Obstacle_Knott_6
+Decoration/Obstacle_placable_Knott_6_bio=<ref>
+Decoration/Obstacle_placable_Knott_7=<ref>Decoration/Obstacle_Knott_7
+Decoration/Obstacle_placable_Knott_7_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_8=<ref>Decoration/Obstacle_Knott_8
+Decoration/Obstacle_placable_Knott_8_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_9=<ref>Decoration/Obstacle_Knott_9
+Decoration/Obstacle_placable_Knott_9_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
+Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
+
+#--POP-UPS--#
+str_breeding=Você criou um(a) \n<color="green">ENTITY_NAME</color>\n O que você quer fazer com ele(a)?
+str_lvl=Nvl:
+str_lvlMax=MÁX
+str_noEmpty=Deixe vázio para embralhar...
+str_PlayerLvl=Nível
+str_unlocked=Você desbloqueou:
+str_unlockedatLevel=Desbloqueia no nível: 
+str_locked=???
+str_TeleportUnavailable=Não disponível nessa ilha.
+str_popup_knottmaker_locked=Esse item não está disponível. Melhore o seu Amalgamador pra desbloqueá-lo
+str_popup_knottmakerNotSelected=Nada está selecionado.
+str_popup_knottmaker_fail=Sua criação falhou! Mais os seus itens viraram alguns diamantes.\nVocê ganha <color=#4EFFF5>Diamonds ×<amount></color>.
+str_popup_knottmaker_fail2=Sua criação falhou! Mais relaxa, você vai ganhar alguns itens de volta.
+str_popup_knottmaker_fail_items=Sua criação falhou! Don't worry you get some of the items back!
+str_popup_knottmaker_fail_noitems=Sua criação falhou! Infelizmente todos seus itens foram perdidos...
+str_popup_notOnThisIsland=Isso não está disponvél 
+str_noitems=Sem Itens
+str_popup_stargazerNotRightLevel=O observátorio não pode ser ativado ainda. Expanda sua ilha antes.
+
+str_setting_credits=Créditos
+
+str_credits_main=T.L.L. por:
+str_credits_execProd=Suporte:
+str_credits_art=Arte:
+str_credits_anim=Animações:
+str_credits_mus=Música:
+str_credits_musSec=Música Secundária:
+str_credits_va=Dublagem:
+str_credits_concept=Concepts:
+str_credits_writing=Escrita:
+str_credits_trans_rus=Tradução para Russo:
+str_credits_trans_pr=Tradução para Português-Brasileiro:
+str_credits_thanks=Agradecimentos Especiais:
+str_credits_cityContest=Vencedores do Concurso:
+MonsterLockedBio=Você não encontrou esse monstro ainda. Jogue mais para desbloquea-lo depois!
+str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
+
+diamonds - <color=#4EFFF5>
+coins - <color="yellow">
+food - <color=#F318D1>
+
+#--ITEMS--#
+
+str_currency_coins=Moedas
+str_currency_diamonds=Diamantes
+str_currency_food=Agrados
+str_currency_stars=PoderEstelar
+str_currency_BloodCells=Células Sanguóneas
+str_currency_BlueLog=Toco Nãocerteza
+str_currency_Log=Toco
+str_currency_Bone=Osso
+str_currency_Candycane=Vara Doce
+str_currency_Candycorn=Milho Doce 
+str_currency_Cattail=Junco
+str_currency_Flower_blue=Papoula Azul
+str_currency_Flower_red=Rosa
+str_currency_Flower_yellow=Dente-de-leão
+str_currency_Fruit_apple=Maçãngo
+str_currency_Peppermint=Hortelã
+str_currency_Rock=Pedra
+str_currency_Vortex=Matéria Negra
+str_currency_Wool=Algodão
+str_currency_xp=XP
+str_currency_LVL=Nível
+str_currency_ITM_amberstick=Recheio de Âmbar
+str_currency_ITM_flowerjam=Geléia de Flores
+str_currency_ITM_buttergum=Borboclete
+str_currency_ITM_mushroombroth=Caldomelo
+str_currency_ITM_cake=Bolo
+str_currency_ITM_bonybaguette=Baguete de Osso
+str_currency_ITM_salad=Bolo
+str_currency_ITM_grain=Grãos
+str_currency_ITM_rootbeer=Raizveja
+str_currency_ITM_flingdrink=Coisinha de Beber
+str_currency_ITM_applejuice=Suquinho de Maça
+str_currency_ITM_bloodcandy=Gematogen
+str_currency_Dew=Orvalho
+str_currency_Foam=Espuma
+str_currency_Seaweed=Algas
+
+str_currency=Variável Técnica
+str_noitems - Sem itens
+
+str_limitedTime=Disponível por um tempo limitado
+str_limitedTimeTimer=Disponível por:\n<time>
+
+str_extra=Extra
+str_warning=Calma lá!
+str_popup_sellEgg=Você tem certeza que quer vender isso por <color="yellow"><amount> Moedas??
+str_popup_speedUp=Você tem certeza que quer acelerar o processo por <color=#4EFFF5><amount> Diamantes?
+str_popup_notEnough_diamonds=Você não tem <color=#4EFFF5>Diamantes</color> o suficiente.
+str_popup_notEnough_coins=Você não tem <color="yellow">Moedas o suficiente.
+str_popup_notEnough_food=Você não tem  <color=#F318D1>Food.
+str_popup_notEnough_foodB=YVocê não tem <color=#CDFF3D>Papinha.
+str_popup_notEnough_stars=Você não tem  <color=#FFA400>PoderEstelar</color> o suficiente.
+str_popup_sell=Você tem certeza que quer vender isso por <color="yellow"><amount> Moedas?
+str_popup_designer_cancel=Tem certeza que você quer cancelar todas as alterações feitas no modo de edição?
+str_popup_designer_save1=Tem certeza que você quer salvar? It will cost <color="yellow"><amount> Coins.
+str_popup_designer_save2=Tem certeza que você quer salvar? You will get <color="yellow"><amount> Coins.
+str_popup_designer_save3=Tem certeza que você quer salvar? Isso irá de custar nada.
+str_popup_bakery_bake=Você tem certeza que quer assar <color=#F318D1><amount> Agrados</color> por <color="yellow"><amount2> Moedas</color>?
+str_popup_bakery_collectFirst=Colete os agrados anteriores primeiro
+str_popup_breeding=Você precisa escolher <color="green">dois</color> monstros do <color="green">nível 4</color> ou superior.
+str_popup_breeding_repeat=Você não procriou monstros antes. Procrie algo primeiro.
+str_popup_breeding_repeatNoMonster=Os monstros que você procriou não estão mais nessa ilha.
+str_popup_shopLimit=O limite para este produto foi excedido.
+str_popup_TimedNotReady=Essa estrutura ainda está funcionando. Por favor, espere até que sua função esteja completa ou acelere-a.
+str_teleport_entityNotOnThisIsland=Esse monstro não pode ser colocar em <color="green"><islandName></color>.
+str_teleport_entityLevelNotEnough=Para colocar esse monstro em <color="green"><islandName></color> seu nível tem que ser <color="yellow"><level></color> ou maior. O nível do seu monstro é <color="yellow"><monsterLevel></color>.\nVocê pode retorna-lo para a  <color="green">Cidade Flutuante</color> a qualquer hora e alimenta-lo até o nível necessario.
+str_teleport_unavailable=O Zepelim está <color="green"><islandName></color> no momento. Você tem que trazê-lo até aqui primeiro.
+str_teleport_flying=O Zepelim está voando até <color="green"><islandName></color>. Espere até que ele chegue ao seu destino ou o acelero com diamantes
+str_teleport_unavailable_monster=O Zepelim não está nessa ilha.
+str_teleport_unavailable_sendHere=O Zepelim está em <islandName> no momento.\nQuer traze-lo até aqui?
+str_popup_shopUnavailbable=<type> indisponível nesta ilha!
+str_popup_upgrade=Quer melhorar isso por <amount> <type>?
+str_popup_upgrade_items=Quer melhorar isso?\nIsso irá te custar:
+str_popup_notEnough=Você não tem <color=green>Itens</color> o suficiente.
+str_popup_unlock=Você descobriu:\n<name>
+str_popup_masherNoItemsSelected=Você tem que selecionar itens para esmagar! Se você não tem nenhum, tente coletar alguns, ou faça os seus próprios!
+
+str_popup_mapIsalndNotFinished=Essa ilha ainda está em desenvolvimento! Após ela ser finalizada todo o seu progresso será apagado! (Jogue ao seu próprio risco)
+
+btn_upgrade=Melhorar
+btn_view=Ver
+btn_minigames=Mini Jogos
+
+str_popup_islandComingSoon=Coisas novas e legais chegando no futuro!
+str_popup_islandAlreadyOn=Você já está nessa ilha.
+
+str_taptocollectrewards=Toque para coletar
+
+str_mailbox_reward_collected=Coletado
+str_doubleRewards=DUPLO
+str_popup_banned=<color=red>Você foi banido(a)!</color>\nSua conta foi banida!\nContate algum responsável do TLL se você acha que isso foi um engano.
+str_popup_connection_failed=<color=red>Conexão falhou!</color>
+str_tutorial=Tutorial
+str_island_comingsoon=Em Breve!
+str_island_lvl=Nvl <lvl>
+str_island_unlock=Desbloqueia no \n<color=green>Nível <lvl>
+str_island_instant=Imediato
+str_island_monstercount=<mon>/<max>
+
+str_popup_tutor1=Bem-vindo(a) <color="purple">As Paiságens Perdidas!</color>\nUm jogo de <color="green">My Singing Monsters</color> feito por fans, para fans!!
+str_popup_tutor2=Olá! Eu sou o Mosca-da-Flauta. Esse daqui é meu camarada Dedo Enrroscado. Que tal a gente arranjar mais alguns monstros para nossa ilha?.
+str_popup_tutor3=Vá comprar uma <color="green">Pintinho Piu.</color>
+str_popup_tutor4=Bom trabalho! Agora nós temos uma <color="green">Pintinho Piu</color> aqui!
+
+##--ISLANDS--##
+
+str_island_Calamity=Ilha da Catástrofe
+str_island_Calamity_bio=Calamity Island
+
+str_island_City=Cidade Flutuante
+str_island_City_bio=Floating City bio
+
+str_island_EM=Pântano Perene
+str_island_EM_bio=Evergreen Marsh bio
+
+str_island_Organs=Terra dos Orgãos
+str_island_Organs_bio=Terra of Organs bio
+
+str_island_Knottshurr=Ilha Nãocerteza
+str_island_Knottshurr_bio=Knottshurr Island bio
+
+str_island_Meduza=Cripta da Mê'Duzza
+str_island_Meduza_bio=M'Duzza's Crypt bio
+
+str_island_Desert=Deserto de Rabma
+str_island_Desert_bio=Noramba Desert bio
+
+str_island_Candy=Ilha Doce
+str_island_Candy_bio=Candy Island bio
+
+str_island_TI=Ilha dos Tutores
+str_island_TI_bio=bio
+
+str_island_GM=Ilha de Água da Matriz
+str_island_GM_bio=bio
+
+str_island_dream=island_demented_dream_ERROR:
+str_island_dream_bio=mais que carvalhos é isso-
+
+str_dunes_release=Bem Vindo às Dunas Arcaicas
+str_dunes_desc=Essa ilha, anteriormente considerada inacessível, habilitou o Zepelim a voar até essa dimensão com o poder e mágia do Hei!
+str_dunes_skyship=Teleportar até as Dunas Arcaicas? Isso irá transformar seus monstros em casulos de areia.
+
+#--STARS--##
+str_stars_light=Sinal Luminoso
+str_stars_psychic=Espiral Subconsciente
+str_stars_bone=Cruz Ossea
+str_stars_faerie=Asas do Capricho
+
+str_stars_water=Lagrimas do Oceano
+str_stars_fire=Amanheçer do Fogo
+str_stars_plant=Verde Crescente
+str_stars_air=Ventos Resistentes
+str_stars_earth=Elipse Terrestre
+str_stars_cold=Forma Congelante
+str_stars_crystal=Cortes Cristalinos
+str_stars_mech=Engrenagens Impetuosas
+str_stars_electricity=Faisca Imortal
+str_stars_poison=Marcas Venenosas
+str_stars_shadow=Brilho Sombrio
+str_stars_plasma=Gosma Plasmática
+
+##--Classes--##
+str_class_Natural=Natural
+str_class_Natural-r=Natural(Raro)
+str_class_Magical=Mágico
+str_class_Magical-r=Mágico(Raro)
+str_class_Supernatural=Supernatural
+str_class_Supernatural-r=Supernatural(Raro)
+str_class_Celestial=Celestial
+str_class_Celestial-s=Supercelestial
+str_class_Lost=Isolado
+str_class_Lost-r=Isolado(Raro)
+str_class_Gamma=Gama
+str_class_Seasonal=Sazonal
+str_class_Seasonal-r=Sazonal(Raro)
+str_class_Ethereal=Etéreo
+str_class_Ethereal-r=Etéreo(Raro)
+str_class_Dipster=Acanhado
+str_class_Mythical=Mítico
+str_class_Mythical-r= Mítico(Raro)
+str_class_Legendary=Lendário
+
+str_class_YOOL=<YOURMISSINGYOOL>
+##--BUTTONS--##
+str_teleporter=Zepelim Sinfônico
+str_teleporter2=Zepelim
+str_teleporter_target=O Zepelim chegará até <color="green"><islandName></color> em <time>\nGostaria de acelerar o processo por <color=#4EFFF5><amount> diamantes</color>?
+str_teleporter_target_map=O Zepelim chegará até <color="green"><islandName></color> em <time>
+str_teleporter_target_map_arrived=O Zepelim chegou em <color="green"><islandName></color>.
+str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><islandName></color>?
+str_popup_teleporter_confirm_sending=Você quer enviar o Zepelim para <color="green"><islandName></color>?
+str_popup_masherLimitReached=Você alcançou o limite de itens que você pode colocar no moedor!
+str_cleardata=Apagar
+str_popup_mapIsalndNotFinished=Essa ilha ainda está em desenvolvimento! Após ela ser finalizada todo o seu progresso será apagado! (Jogue ao seu próprio risco)
+
+btn_shop=Loja
+btn_mailbox=Correio
+btn_shop_monsters=Monstros
+btn_shop_decorations=Decorações
+btn_shop_deco_paths=Caminhos
+btn_shop_deco_trees=Árvores
+btn_shop_deco_all=Tudo
+btn_shop_deco_obstacles=Obstáculos
+btn_shop_deco_other=Outros
+btn_shop_structures=Estruturas
+btn_shop_currency=Recursos
+str_currency_foodB=Papinha
+btn_sell=Vender
+btn_changeTime=Distorcer
+btn_changeTime=Distorcer Tempo
+btn_shop_celestials=Celestiais
+btn_shop_babyMomsters=Monstros Bebês
+btn_activate=Ativar
+
+btn_craft=Criar
+btn_settings=Configurações
+str_setting=Configuração
+str_setting_zoomBTN=Usar slider de zoom
+str_setting_notifN=Mandar notificações
+str_setting_EF=Peido de elefante
+str_setting_ambient=Sons de ambiente
+btn_move=Mover
+btn_mute=Mutar
+btn_unmute=Desmutar
+btn_info=Info
+btn_buyMore=Comprar Mais
+btn_designerMode=Modo Edição
+btn_place=Colocar
+btn_flip=Virar
+btn_cancel=Cancelar
+btn_save=Salvar
+btn_close=Fechar
+btn_back=Voltar
+btn_buy=Comprar
+btn_designerMode_randFlip=Virar Aleatório
+btn_designerMode_erase=Apagar
+btn_designerMode_paint=Pintar
+btn_designerMode_change=Mudar
+btn_designerMode_save=Salvar
+designerMode_totalCost=Custo total:<color="yellow"> <amount> Coins
+designerMode_sellFor=VenderPor:<color="yellow"> <amount> Coins
+
+obstacleMode_totalCost=Custo total: <col><amount> <type>
+
+btn_compose=Compor
+btn_breed=Procriar
+btn_speedup=Acelerar
+btn_map=Mapa
+btn_bake=Assar
+btn_feed=Alimentar
+btn_remove=Remover
+btn_removeMany=Remover Vários
+btn_apply=Aplicar
+btn_repeat=Repetir
+btn_collect=Coletar
+btn_goals=Metas
+btn_collectAll=Coletar Tudo
+btn_ok=OK
+btn_prev=Anterior
+btn_next=Próximo
+btn_stars=Observatório
+btn_roll=Role \n<color=#FFA400>25 PoderEstelar
+btn_book=Coleção
+btn_ship=Zepelim
+btn_unlock=Desbloqueie
+btn_lock=Bloqueie
+btn_teleportSend=Enviar
+btn_inf_bio=Bio
+btn_inf_stats=Status
+btn_inf_islands=Ilhas
+btn_zap=Energizar
+btn_inventory=Inventário
+btn_wakeUp=Acordar
+btn_mash=Moer
+
+str_island_monstercount=<mon>/<max>
+
+str_time_d=D
+str_time_h=H
+str_time_m=M
+str_time_s=S
+
+str_time_ds=d
+str_time_hs=h
+str_time_ms=m
+str_time_ss=s
+
+str_nebulaTimerDays=<time> Dias Restantes
+str_nebulaTimer=<time> Restante(s)
+
+#--GOALS--#
+goal_breed_buy=Compre e posicione um(a) <color="green"><entityName>
+goal_breed_an=Procrie e posicione um(a) <color="green"><entityName>
+goal_breed=Procrie e posicione um(a) <color="green"><entityName>
+
+goal_celestial=Obtenha um(a) <color="green"><entityName>
+goal_celestial_an=Obtenha um(a) <color="green"><entityName>
+
+goal_flip=Use o botão <color="green">virar</color> quando estiver movendo um monstro.
+goal_rename=Renomeie um <color="green">monstro.
+
+goal_levelUp_5=Alimente 1 monstro até o nível <color="green">5.
+goal_levelUp_10=Alimente 1 monstro até o nível <color="green">10.
+goal_levelUp_15=Alimente 1 monstro até o nível <color="green">15.
+goal_levelUp_20=Alimente 1 monstro até o nível <color="green">20.
+
+goal_placeBakery=Compre e posicione uma <color="green">Padaria.
+goal_placeBreeding=Comre e posicione uma <color="green">Estrutura de Procriação.
+goal_placeDeco=Compre e posicione um(a) <color="green">"<entityName>".
+
+goal_designerMode=Teste o  <color="green">Modo Editor de Caminhos
+
+goal_teleport=Teleporte um(a) <color="green"><entityName></color> para uma ilha externa.
+
+goal_removeObstacles=Remova <color="green"><amount></color> Obstáculos.
