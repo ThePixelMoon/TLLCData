@@ -162,7 +162,7 @@ Monsters/Monster_brump_young_bio=Young Brump Bio
 Monsters/Monster_wibbler_young=Young Wubbox
 Monsters/Monster_wibbler_young_bio=Young Wubbox Bio
 Monsters/Monster_flowerning=Flowerning
-Monsters/Monster_flowerning_bio=Flowernings are wonderful little creatures from a very far aqay world that really love flowers. They use the magic inside flowers to grow even more flowers, which is pretty astonishing if you think about it.\n\nNo one really knows exactly how they do it. Some people say they can feel the magic inside every flower and help it spread. When a Flowerning is nearby, flowers start growing faster and gardens become enormous.\n\nSo if you ever see flowers appearing where there weren’t any before… a Flowerning was probably there. Just watch out for any double headed red flower...
+Monsters/Monster_flowerning_bio=Flowernings are wonderful little creatures from a very far away world that really love flowers. They use the magic inside flowers to grow even more flowers, which is pretty astonishing if you think about it.\n\nNo one really knows exactly how they do it. Some people say they can feel the magic inside every flower and help it spread. When a Flowerning is nearby, flowers start growing faster and gardens become enormous.\n\nSo if you ever see flowers appearing where there weren’t any before… a Flowerning was probably there. Just watch out for any double headed red flower...
 
 Decoration/Decoration_sign_air=Air Sign
 Decoration/Decoration_sign_candy=Candy Sign
