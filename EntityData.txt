@@ -227,37 +227,37 @@ Monsters/Monster_knife diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 M
 
 Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 5
 
-Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 10
-Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 10
-Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 10
-Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 10
-Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 10
-Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 10
-Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 10
+Monsters/Monster_dipster_1 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do 0 0
+Monsters/Monster_dipster_2 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re 0 0
+Monsters/Monster_dipster_3 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,mi 0 0
+Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,fa 0 0
+Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 0
+Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
+Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
 
-Structures/Structure_breeding coins=500,diamonds=75 4 2
-Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
-Structures/Structure_breeding_undof coins=500,diamonds=40 0 2
-Structures/Structure_breeding_undof2 coins=500,diamonds=60 0 2
-Structures/Structure_breeding_undof3 coins=500,diamonds=1000 0 2
+Structures/Structure_breeding coins=500,diamonds=75 4 0
+Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 0
+Structures/Structure_breeding_undof coins=500,diamonds=40 0 0
+Structures/Structure_breeding_undof2 coins=500,diamonds=60 0 0
+Structures/Structure_breeding_undof3 coins=500,diamonds=1000 0 0
 
-Structures/Structure_castle_undof coins=500 0 1
-Structures/Structure_castle_undof1 coins=500 0 1
-Structures/Structure_castle_undof2 coins=500 0 1
-Structures/Structure_castle_undof3 coins=500 0 1
-Structures/Structure_castle_undof4 coins=500 0 1
-Structures/Structure_castle_undof5 coins=500 0 1
-Structures/Structure_castle_undof6 coins=500 0 1
+Structures/Structure_castle_undof coins=500 0 0
+Structures/Structure_castle_undof1 coins=500 0 0
+Structures/Structure_castle_undof2 coins=500 0 0
+Structures/Structure_castle_undof3 coins=500 0 0
+Structures/Structure_castle_undof4 coins=500 0 0
+Structures/Structure_castle_undof5 coins=500 0 0
+Structures/Structure_castle_undof6 coins=500 0 0
 
 Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 3
-Structures/Structure_amalgamator diamonds=100 0 1
-Structures/Structure_amalgamator_city coins=10000 0 1
-Structures/Structure_jukebox coins=1000 0 1
-Structures/Structure_jukebox_dream coins=10 0 1
+Structures/Structure_amalgamator diamonds=100 0 0
+Structures/Structure_amalgamator_city coins=10000 0 0
+Structures/Structure_jukebox coins=1000 0 0
+Structures/Structure_jukebox_dream coins=10 0 0
 Structures/Structure_bass coins=100000 0 2
 
-Structures/Structure_masher coins=500,diamonds=5 3 2
-Structures/Structure_crafter coins=50000 3 1
+Structures/Structure_masher coins=500,diamonds=5 3 0
+Structures/Structure_crafter coins=50000 3 0
 
 Structures/Structure_knottmaker1 coins=100000 0 0
 Structures/Structure_knottmaker2 coins=100000 0 0
@@ -266,7 +266,7 @@ Structures/Structure_knottmaker4 coins=100000 0 0
 
 Structures/Structure_mine diamonds=25 0 0 0 diamonds=1@600@diamonds=1 Structure z,z 4 1
 
-Structures/Structure_timemachine coins=100 0 1
+Structures/Structure_timemachine coins=100 0 0
 
 Structures/Structure_stargazer coins=1 0 0
 
