@@ -164,11 +164,6 @@ Monsters/Monster_wibbler_young_bio=Young Wubbox Bio
 Monsters/Monster_flowerning=Flowerning
 Monsters/Monster_flowerning_bio=Flowernings are wonderful little creatures from a very far away world that really love flowers. They use the magic inside flowers to grow even more flowers, which is pretty astonishing if you think about it.\n\nNo one really knows exactly how they do it. Some people say they can feel the magic inside every flower and help it spread. When a Flowerning is nearby, flowers start growing faster and gardens become enormous.\n\nSo if you ever see flowers appearing where there weren’t any before… a Flowerning was probably there. Just watch out for any double headed red flower...
 
-Monsters/Monster_gecho=Gecho
-Monsters/Monster_gecho_bio=Gecho Bio
-Monsters/Monster_bowgart=Bowgart
-Monsters/Monster_bowgart_bio=Ooh - what a lovely sound! A team player, a Bowgart can always lend a hand - or four! The nimble Bowgart is a legend at multitasking, but when time comes a-running they're ready to drop everything, bows in hand, and help the monster orchestra out. As equally balanced between their 3 elements, they are able to provide a true harmony, which all their fellow monsters appreciate immensely.
-
 Decoration/Decoration_sign_air=Air Sign
 Decoration/Decoration_sign_candy=Candy Sign
 Decoration/Decoration_sign_celestial=Celestial Sign
@@ -989,6 +984,9 @@ str_island_dream_bio=what the actual fwog
 str_island_Ohio=Ohio Island
 str_island_Ohio_bio=Sticking out your Yap for the Handmond\nYour so Plixie\nYour so Caramel\nI just wanna be your Dipster\nFreaking come here\nGive me your Gobstomper
 
+str_island_MG=Magestic Island
+str_island_MG_bio=Magestic Island bio
+
 str_island_lvl=Lvl <lvl>
 
 str_island_unlock=Unlocked at\n<color=green>Level <lvl>
@@ -1239,6 +1237,14 @@ Monsters/Scaratar_bio=No longer forced to lay its trademark instrument on the gr
 Monsters/Loodvigg_bio=Perhaps it's motivated by some sense of latent rebelliousness, or maybe it was just time for a change, but the adult Loodvigg has embraced the exact opposite of Shadow - Light! It grafts gleaming gems onto the teeth of its keyboard, coiffs its hair, cuffs and ruff, and prioritizes flashy and flamboyant flourishes in its musical performance.
 Monsters/Uuduk_bio=For each year of life, the Uuduk gains an extra vertebra in its slinky spine. The full height of an Uuduk, however, is hidden from view deep beneath the soil: an Uuduk never reveals its age! Wear-and-tear on its impressive blowhorns may hint at the number of birthdays this coy Monster has seen, but it just as easily could indicate how itchy it was that day.
 Monsters/Whimmzies_bio=Wimmzies are a bubbly chorus of Monsters positively bursting at the seams with delight. It's this very overflowing of glee that is cause for the sorority of singers' patchwork appearance: their delicately-sewn casings contain the fine mist that makes up the Wimmzie's upper bodies! Little more than fluttering eyelashes and tapping toes, this squad is nonetheless erupting with joy and - of course - whimsy.
+
+#MAGESTIC ISLAND#
+Monsters/Monster_krillby_dof=Krillby
+Monsters/Monster_krillby_dof_bio=It is unclear whether Krillby's vestigial wings are powerful enough for sustained flight, but this Fire Monster is more at home on the ground than in the air. Its talons make it easy to maneuver across many different terrains, while its wings guide the air in and around the ocarina-like bodies to help produce the lovely whistles for which they are known. This also regulates the Krillby's body temperature when running very fast, something you have to do often when you look as tasty as Krillby does.
+Monsters/Monster_gecho=Gecho
+Monsters/Monster_gecho_bio=Gecho Bio
+Monsters/Monster_bowgart=Bowgart
+Monsters/Monster_bowgart_bio=Ooh - what a lovely sound! A team player, a Bowgart can always lend a hand - or four! The nimble Bowgart is a legend at multitasking, but when time comes a-running they're ready to drop everything, bows in hand, and help the monster orchestra out. As equally balanced between their 3 elements, they are able to provide a true harmony, which all their fellow monsters appreciate immensely.
 
 #DEMENTED ISLAND#
 

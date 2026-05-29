@@ -430,3 +430,4 @@ Monsters/Monster_tabicrab diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Ga
 
 Monsters/Monster_gecho diamonds=850 plant@earth@light@poison@fire 32400 16 coins=14@60@coins=481 Magical gecho,gecho 0 0
 Monsters/Monster_bowgart diamonds=350 plant@water@cold 32400 16 coins=7@60@coins=481 Natural bowgart,bowgart 0 0
+Monsters/Monster_krillby_dof diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 Natural krillby,krillby 0 0
