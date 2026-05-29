@@ -1205,6 +1205,8 @@ Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... It seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think.
 Monsters/Monster_pummelGM=Wabdabuana
 Monsters/Monster_pummelGM_bio=Wadabuana bio
+Monsters/Monster_tabicrab=Tabicrab
+Monsters/Monster_tabicrab_bio=Tabicrab bio
 
 str_island_Minigame_YapLeap=Yap Leap
 
