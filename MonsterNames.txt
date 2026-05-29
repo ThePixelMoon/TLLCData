@@ -1950,3 +1950,8 @@ Mr. Krabs
 Krabster
 Wingding
 ;
+Monsters/Monster_gecho
+DogHo
+General
+Genny
+;
