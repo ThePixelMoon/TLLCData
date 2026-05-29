@@ -26,6 +26,7 @@ Monsters/Monster_spunge_rare diamonds=180 water@air@plant 86400 50 coins=2@72@co
 Monsters/Monster_dulsylvan_rare diamonds=160 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
 Monsters/Monster_banno_rare diamonds=160 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
 Monsters/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
+Monsters/Monster_likho_rare diamonds=160 plant@faerie 46000 30 coins=2@80@coins=150 Magical likho,likho 6 0
 
 Monsters/Monster_clamble diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
 

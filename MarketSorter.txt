@@ -76,3 +76,9 @@ decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_ot
 structures:structures
 composer:composer
 ;
+MG
+monsters:monsters=btn_shop_monsters
+decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_other=btn_shop_deco_other
+structures:structures
+composer:composer
+;

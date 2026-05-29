@@ -268,6 +268,9 @@ Monsters/Monster_jobo_bio=As sweetened Werdo, Jodel knows alot about Candy Islan
 Monsters/Monster_treble=Ethenor
 Monsters/Monster_treble_bio=Ethenor bio
 
+Monsters/Monster_likho_rare=Rare Yap
+Monsters/Monster_likho_rare_bio=Rare Yap bio
+
 Monsters/Monster_dipster_1=Do
 Monsters/Monster_dipster_1_bio=<ref>DipsterBio
 Monsters/Monster_dipster_2=Re
