@@ -1942,5 +1942,11 @@ Wububububububububunga
 Monsters/Monster_gobstomper_rare
 Stompy
 The Jawbreaker
-PurpleMan
+PurpleGuy
+;
+Monsters/Monster_tabicrab
+Tabi
+Mr. Krabs
+Krabster
+Wingding
 ;
