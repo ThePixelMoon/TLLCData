@@ -242,3 +242,12 @@ Monsters/Monster_deedge_dream
 Monsters/Monster_dragong_dream
 Monsters/Monster_ghazt_dream
 Monsters/VOIDCORN_dream
+;
+MG:
+Monsters/Monster_krillby_dof
+Monsters/Monster_mammott
+Monsters/Monster_toejammer
+Monsters/Monster_shellbeat
+Monsters/Monster_gecho
+Monsters/Monster_furcorn
+Monsters/Monster_bowgart
