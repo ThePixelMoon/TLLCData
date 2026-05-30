@@ -179,7 +179,6 @@ Monsters/Knott_special_rare diamonds=2000 knottshurr 0 10000000 diamonds=5,stars
 Monsters/Monster_maulch coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 3
 
 Monsters/Monster_poewk coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,poewk 0 3
-Monsters/Monster_flowerning coins=10000000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,flower 0 3
 
 Monsters/Monster_pixolotl coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,pixolotl 0 3
 
@@ -410,11 +409,11 @@ Monsters/VOIDCORN_dream coins=500 nightmare 0 150 coins=500@120@coins=60 nightma
 Monsters/Monster_dragong_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 electricity 0 25 coins=0@120@coins=60 encased , 0 0
-Monsters/Congle coins=0 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Gnarls coins=0 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
-Monsters/Krillby coins=0 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
-Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
+Monsters/Bonapetite coins=10000 electricity 0 25 coins=0@120@coins=60 encased , 0 0
+Monsters/Congle diamonds=250 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
+Monsters/Gnarls diamonds=800 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
+Monsters/Krillby diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
+Monsters/Pladdie diamonds= earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Scaratar coins=0 celestial 0 20 coins=0@120@coins=60 encased , 0 0
 Monsters/Uuduk coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
 Monsters/Whimmzies coins=0 fire@faerie 0 5 coins=0@120@coins=60 encased , 0 0
@@ -432,3 +431,6 @@ Monsters/Monster_tabicrab diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Ga
 Monsters/Monster_gecho diamonds=850 plant@earth@light@poison@fire 32400 16 coins=14@60@coins=481 Magical gecho,gecho 0 0
 Monsters/Monster_bowgart diamonds=350 plant@water@cold 32400 16 coins=7@60@coins=481 Natural bowgart,bowgart 0 0
 Monsters/Monster_krillby_dof diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 Natural krillby,krillby 0 0
+
+Monsters/Monster_flowerning diamonds=250 plant@special 0 10 coins=5@60@coins=60 Natural flowerning,flowerning 0 0
+Monsters/Gobbley diamonds=2 special 0 5 coins=15@120@coins=300 Seasonal gobbley,gobbley 0 0
