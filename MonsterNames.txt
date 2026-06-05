@@ -1955,3 +1955,13 @@ DogHo
 General
 Genny
 ;
+Monsters/Monster_shellbeat
+Shellby
+Squidrum
+Octo-Mon
+Cthulhu
+Drumtopus
+Seewad
+Rakotakt
+Octodrum
+;
