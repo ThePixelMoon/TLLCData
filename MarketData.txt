@@ -652,13 +652,13 @@ Decoration/Decoration_sign_water
 ;
 Desert
 monsters:
-Monsters/Monster_scaratar
-Monsters/Monster_flootfly
-Monsters/Monster_furcorn
-Monsters/Monster_rootitoot
-Monsters/Monster_trox
-Monsters/Monster_spurrit_desert
-Monsters/Monster_bisonorus
+Monsters/Monster_scaratar diamonds=3500
+Monsters/Monster_flootfly diamonds=75
+Monsters/Monster_furcorn diamonds=125
+Monsters/Monster_rootitoot diamonds=150
+Monsters/Monster_trox Vortex=3
+Monsters/Monster_spurrit_desert Vortex=4
+Monsters/Monster_bisonorus Vortex=1
 -
 decorations:
 Decoration/Decoration_test
