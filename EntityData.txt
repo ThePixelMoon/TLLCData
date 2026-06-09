@@ -461,3 +461,9 @@ Monsters/Monster_eyesing_rare_undof diamonds=500 anniversay-o 145440 35 coins=1@
 
 Monsters/Monster_oraghoul_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal oraghoul-o,oraghoul-o 0 0
 Monsters/Monster_oraghoul_rare_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal oraghoul_rare-o,oraghoul_rare-o 0 0
+
+Monsters/Monster_marshflamo_rare diamonds=450 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo_rare,marshflamo_rare 0 0
+
+Monsters/Monster_brasscuit_rare diamonds=500 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit_rare,brasscuit_rare 0 0
+
+Monsters/Monster_koodahcane_rare diamonds=350 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane_rare,koodahcane_rare 0 0

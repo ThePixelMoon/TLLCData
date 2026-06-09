@@ -121,14 +121,10 @@ Monsters/Monster_cybop_bio=Much more than mere gizmos, Cybops are deep thinkers,
 #TLLPS#
 Monsters/Monster_quibble_rare=Rare Quibble
 Monsters/Monster_quibble_rare_bio=Some Quibbles flat out refuse to grow up - in fact, it's one of the few things the two heads can agree upon. Rare Quibbles, who naturally retain the short, stout beaks of their youth, really commit: they preen their crests into radical feather-dos and never replace the colorful keyboards they played as hatchlings. They do need to use beak extenders to reach the rocks... but whatever, man. Still totally hardcore.
-Monsters/Monster_knife_rare=Rare Banchi
-Monsters/Monster_knife_rare_bio=Unlike some Banchi's, Rare Banchi is the only one that changes its color not by fear, but by it's own will. And he doesn't want to do it due to his laziness. Wow.
-Monsters/Monster_gobstomper_rare=Rare Gobstomper
-Monsters/Monster_gobstomper_rare_bio=NRAHHH! Says the Rare Gobstomper. Maw has pissed him so much, that he has even turned purple, which makes other monsters afraid of him. Wonderful.
-Monsters/Monster_keytrus_rare=Rare Keytrus
-Monsters/Monster_keytrus_rare_bio=The Rare Keytrus is a wonderful creature of them all..via the power of the Limes, they have successfully converted themselves to Lime'oxotic! ...Who am I kidding, they've just painted themselves green.
+
 str_island_composer=Composer Island
 str_island_temmie=Temmie Village
+
 Monsters/composer/Monster_potbelly_composer=Potbelly
 Monsters/composer/Monster_potbelly_composer_bio=Potbelly bio
 Monsters/composer/Monster_toejammer_composer=Toe Jammer
@@ -151,8 +147,7 @@ Monsters/composer/Monster_oaktopus_composer=Oaktopus
 Monsters/composer/Monster_oaktopus_composer_bio=Oaktopus bio
 Monsters/composer/Monster_spunge_composer=Spunge
 Monsters/composer/Monster_spunge_composer_bio=Spunge bio
-Monsters/Monster_sprinklate_rare=Rare Sprinklate
-Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate...the one alpha Sprinklate that ate too much chocolate...Good times. Anyway, this one particularly creative monster is made with a bit TOO much glitter on top of it, that it was shiny as heck, hence they were bullied in their childhood. You better feed it, or <color="red">he</color> will come...
+
 Monsters/Monster_yool_young=Young Yool
 Monsters/Monster_yool_young_bio=Young Yool Bio
 Monsters/Monster_jeeode_young=Young Jeeode
@@ -262,6 +257,28 @@ Monsters/Monster_wicka_undof=Wicka
 Monsters/Monster_wicka_undof_bio=Wicka bio
 Monsters/Monster_wicka_rare_undof=Rare Wicka
 Monsters/Monster_wicka_rare_undof_bio=Rare Wicka bio
+
+Monsters/Monster_sprinklate_rare=Rare Sprinklate
+Monsters/Monster_sprinklate_rare_bio=Rare Sprinklate bio
+
+Monsters/Monster_knife_rare=Rare Banchi
+Monsters/Monster_knife_rare_bio=Rare Banchi bio
+
+Monsters/Monster_gobstomper_rare=Rare Gobstomper
+Monsters/Monster_gobstomper_rare_bio=Rare Gobstomper bio
+
+Monsters/Monster_keytrus_rare=Rare Keytrus
+Monsters/Monster_keytrus_rare_bio=Rare Keytrus bio
+
+Monsters/Monster_marshflamo_rare=Rare Marshflamo
+Monsters/Monster_marshflamo_rare_bio=Rare Marshflamo bio
+
+Monsters/Monster_brasscuit_rare=Rare Brasscuit
+Monsters/Monster_brasscuit_rare_bio=Rare Brasscuit bio
+
+Monsters/Monster_koodahcane_rare=Rare Koodahcane
+Monsters/Monster_koodahcane_rare_bio=Rare Koodahcane bio
+
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
