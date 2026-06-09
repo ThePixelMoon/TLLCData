@@ -282,6 +282,9 @@ Monsters/Monster_koodahcane_rare_bio=Rare Koodahcane bio
 Monsters/Monster_claramel_rare=Rare Claramel
 Monsters/Monster_claramel_rare_bio=Rare Claramel bio
 
+Monsters/Monster_dandidoo_rare=Rare Dandidoo
+Monsters/Monster_dandidoo_rare_bio=Rare Dandiduo bio
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.

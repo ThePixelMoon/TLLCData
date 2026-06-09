@@ -38,6 +38,7 @@ Monsters/Monster_dulsylvan_rare
 Monsters/Monster_banno_rare
 Monsters/Monster_phangler_rare
 Monsters/Monster_likho_rare
+Monsters/Monster_dandidoo_rare
 -
 decorations:
 Decoration/Decoration_test

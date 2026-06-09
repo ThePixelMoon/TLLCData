@@ -8,6 +8,7 @@ Monsters/Monster_flootfly
 Monsters/Monster_oaktopus
 Monsters/Monster_oaktopus_rare
 Monsters/Monster_dandidoo
+Monsters/Monster_dandidoo_rare
 Monsters/Monster_likho
 Monsters/Monster_wadee
 Monsters/Monster_varrow
@@ -27,6 +28,7 @@ Monsters/Monster_phangler
 Monsters/Monster_phangler_rare
 Monsters/Monster_frondley
 Monsters/Monster_maulch
+Monsters/Special/Monster_melochness
 ;
 City:
 Monsters/Monster_potbelly_young
