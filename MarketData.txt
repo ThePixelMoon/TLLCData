@@ -801,6 +801,7 @@ Monsters/Monster_gobstomper_rare
 Monsters/Monster_marshflamo_rare
 Monsters/Monster_brasscuit_rare
 Monsters/Monster_koodahcane_rare
+Monsters/Monster_claramel_rare
 -
 decorations:
 Decoration/Decoration_test

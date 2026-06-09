@@ -279,6 +279,8 @@ Monsters/Monster_brasscuit_rare_bio=Rare Brasscuit bio
 Monsters/Monster_koodahcane_rare=Rare Koodahcane
 Monsters/Monster_koodahcane_rare_bio=Rare Koodahcane bio
 
+Monsters/Monster_claramel_rare=Rare Claramel
+Monsters/Monster_claramel_rare_bio=Rare Claramel bio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
