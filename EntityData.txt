@@ -436,7 +436,7 @@ Monsters/Monster_flowerning diamonds=250 plant@special 0 10 coins=5@60@coins=60 
 Monsters/Gobbley diamonds=2 special 0 5 coins=15@120@coins=300 Seasonal gobbley,gobbley 0 0
 
 Monsters/Monster_floodbud_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud-o,floodbud-o 0 0
-Monsters/Monster_floodbud_undof_rare coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud_rare-o,floodbud_rare-o 0 0
+Monsters/Monster_floodbud_rare_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud_rare-o,floodbud_rare-o 0 0
 
 Monsters/Monster_wicka_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural wicka-o,wicka-o 0 0
 Monsters/Monster_wicka_rare_undof diamonds=150 fire-o 28800 5 coins=5@60@coins=300 Natural-r wicka_rare-o,wicka_rare-o 0 0
