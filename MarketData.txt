@@ -770,6 +770,26 @@ Monsters/Monster_jobo
 monster_secret:
 Monsters/Monster_treble
 -
+monster_replacement:
+Monsters/Monster_tannout_undof Vortex=3
+Monsters/Monster_tannout_rare_undof Vortex=6
+Monsters/Monster_eyesing_undof Vortex=3
+Monsters/Monster_eyesing_rare_undof Vortex=6
+Monsters/Monster_oraghoul_undof Vortex=3
+Monsters/Monster_oraghoul_rare_undof Vortex=6
+Monsters/Monster_stoad_undof Vortex=3
+Monsters/Monster_stoad_rare_undof Vortex=6
+Monsters/Monster_coodaloo_undof Vortex=3
+Monsters/Monster_coodaloo_rare_undof Vortex=6
+Monsters/Monster_salasine_undof Vortex=3
+Monsters/Monster_salasine_rare_undof Vortex=6
+Monsters/Monster_floodbud_undof Vortex=3
+Monsters/Monster_floodbud_rare_undof Vortex=6
+Monsters/Monster_burrythm_undof Vortex=3
+Monsters/Monster_burrythm_rare_undof Vortex=6
+Monsters/Monster_wicka_undof Vortex=3
+Monsters/Monster_wicka_rare_undof Vortex=6
+-
 monster_rares:
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_noggin_rare_undof

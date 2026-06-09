@@ -434,3 +434,30 @@ Monsters/Monster_krillby_dof diamonds=500 air@earth@cold@fire 0 15 coins=0@120@c
 
 Monsters/Monster_flowerning diamonds=250 plant@special 0 10 coins=5@60@coins=60 Natural flowerning,flowerning 0 0
 Monsters/Gobbley diamonds=2 special 0 5 coins=15@120@coins=300 Seasonal gobbley,gobbley 0 0
+
+Monsters/Monster_floodbud_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud-o,floodbud-o 0 0
+Monsters/Monster_floodbud_undof_rare coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud_rare-o,floodbud_rare-o 0 0
+
+Monsters/Monster_wicka_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural wicka-o,wicka-o 0 0
+Monsters/Monster_wicka_rare_undof diamonds=150 fire-o 28800 5 coins=5@60@coins=300 Natural-r wicka_rare-o,wicka_rare-o 0 0
+
+Monsters/Monster_burrythm_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural burrythm-o,burrythm-o 0 0
+Monsters/Monster_burrythm_rare_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural-r burrythm_rare-o,burrythm_rare-o 0 0
+
+Monsters/Monster_stoad_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural stoad-o,stoad-o 0 0
+Monsters/Monster_stoad_rare_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural stoad_rare-o,stoad_rare-o 0 0
+
+Monsters/Monster_coodaloo_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural coodaloo-o,coodaloo-o 0 0
+Monsters/Monster_coodaloo_rare_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural coodaloo_rare-o,coodaloo_rare-o 0 0
+
+Monsters/Monster_tannout_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural tannout-o,tannout-o 0 0
+Monsters/Monster_tannout_rare_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural tannout_rare-o,tannout_rare-o 0 0
+
+Monsters/Monster_salasine_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural salasine-o,salasine-o 0 0
+Monsters/Monster_salasine_rare_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural salasine_rare-o,salasine_rare-o 0 0
+
+Monsters/Monster_eyesing_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal eyesing-o,eyesing-o 0 0
+Monsters/Monster_eyesing_rare_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal eyesing_rare-o,eyesing_rare-o 0 0
+
+Monsters/Monster_oraghoul_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal oraghoul-o,oraghoul-o 0 0
+Monsters/Monster_oraghoul_rare_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal oraghoul_rare-o,oraghoul_rare-o 0 0

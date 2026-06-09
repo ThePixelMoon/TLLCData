@@ -218,6 +218,51 @@ Decoration/Decoration_sign_water_bio=<ref>SignBio
 Decoration/Decoration_sign_empty_bio=<ref>SignBio
 Decoration/Decoration_sign_bone_bio=<ref>SignBio
 
+Monsters/Monster_tannout_undof=Tannout
+Monsters/Monster_tannout_undof=Tannout bio
+Monsters/Monster_tannout_rare_undof=Rare Tannout
+Monsters/Monster_tannout_rare_undof=Rare Tannout bio
+
+Monsters/Monster_eyesing_undof=Eyesing
+Monsters/Monster_eyesing_undof=Eyesing bio
+Monsters/Monster_eyesing_rare_undof=Rare Eyesing
+Monsters/Monster_eyesing_rare_undof=Rare Eyesing bio
+
+Monsters/Monster_oraghoul_undof=Oraghoul
+Monsters/Monster_oraghoul_undof=Oraghoul bio
+Monsters/Monster_oraghoul_rare_undof=Rare Oraghoul
+Monsters/Monster_oraghoul_rare_undof=Rare Oraghoul bio
+
+Monsters/Monster_stoad_undof=Stoad
+Monsters/Monster_stoad_undof=Stoad bio
+Monsters/Monster_stoad_rare_undof=Rare Stoad
+Monsters/Monster_stoad_rare_undof=Rare Stoad bio
+
+Monsters/Monster_coodaloo_undof=Coodaloo
+Monsters/Monster_coodaloo_undof=Coodaloo bio
+Monsters/Monster_coodaloo_rare_undof=Rare Coodaloo
+Monsters/Monster_coodaloo_rare_undof=Rare Coodaloo bio
+
+Monsters/Monster_salasine_undof=Salasine
+Monsters/Monster_salasine_undof=Salasine bio
+Monsters/Monster_salasine_rare_undof=Rare Salasine
+Monsters/Monster_salasine_rare_undof=Rare Salasine bio
+
+Monsters/Monster_floodbud_undof=Floodbud
+Monsters/Monster_floodbud_undof=Floodbud bio
+Monsters/Monster_floodbud_rare_undof=Rare Floodbud
+Monsters/Monster_floodbud_rare_undof=Rare Floodbud bio
+
+Monsters/Monster_burrythm_undof=Burrythm
+Monsters/Monster_burrythm_undof=Burrythm bio
+Monsters/Monster_burrythm_rare_undof=Rare Burrythm
+Monsters/Monster_burrythm_rare_undof=Rare Burrythm bio
+
+Monsters/Monster_wicka_undof=Wicka
+Monsters/Monster_wicka_undof=Wicka bio
+Monsters/Monster_wicka_rare_undof=Rare Wicka
+Monsters/Monster_wicka_rare_undof=Rare Wicka bio
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
@@ -1100,6 +1145,7 @@ btn_shop_celestials=Celestials
 btn_shop_babyMomsters=Young Monsters
 btn_shop_secrets=Secret Monsters
 btn_shop_rares=Rare Monsters
+btn_shop_replacements=Replacement Monsters
 
 btn_move=Move
 btn_mute=Mute
