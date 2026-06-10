@@ -1,7 +1,3 @@
-Arcanum
-monsters:
-Monsters/Monster_kayna_rare_undof
-;
 EM
 monsters:
 Monsters/Monster_toejammer
@@ -406,9 +402,6 @@ Monsters/Monster_plixie
 Monsters/Monster_reebro
 Monsters/Monster_wheezel
 Monsters/Monster_knurv
--
-monster_rares:
-Monsters/Monster_oaktopus_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -1351,6 +1344,9 @@ Monsters/Monster_shellbeat
 Monsters/Monster_gecho
 Monsters/Monster_furcorn
 Monsters/Monster_bowgart
+Monsters/Monster_maw
+Monsters/Monster_potbelly
+Monsters/Monster_varrow
 -
 decorations:
 Decoration/Decoration_test

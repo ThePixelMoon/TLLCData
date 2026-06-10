@@ -58,7 +58,7 @@ Monsters/Monster_rootitoot_young_bio=The calm air that young Rootitoots provide 
 Monsters/Monster_bridgit_young=Young Bridg-it
 Monsters/Monster_bridgit_young_bio=Young Bridg'its love bows, tiaras and anything that makes them look adorable, their hair is always well decorated and combed, however, they have such tiny arms, they can't do all this work by themselves! Luckily there is always a motherly Scaratar nearby who is willing to help them with their tangly issues.
 Monsters/Monster_frondley_young=Young Frondley
-Monsters/Monster_frondley_young_bio=Young Frondley bio
+Monsters/Monster_frondley_young_bio=Little as they are, Young Frondleys love to sunbathe with surrounding palm trees, lifting their strands of hair up as they do it. Research shows they do this in order to absorb more sun rays and enhance hair development, seeing as their locks havent quite reached eye level yet. Rarely, a fellow monster will mistake them for a real palm tree, and give them a good shake to see what falls out. Frondleys don't mind this, however. They're too zen to even get mad.
 Monsters/Monster_trox_young=Young T-Rox
 Monsters/Monster_trox_young_bio=Young T-Rox bio
 
@@ -149,7 +149,7 @@ Monsters/composer/Monster_spunge_composer=Spunge
 Monsters/composer/Monster_spunge_composer_bio=Spunge bio
 
 Monsters/Monster_yool_young=Young Yool
-Monsters/Monster_yool_young_bio=Young Yool Bio
+Monsters/Monster_yool_young_bio=Something that has fascinated both monsters and researchers alike, is the Young Yool's remarkably long beard! Functioning almost as an extra appendage, they utilise this "Yeard" of theirs to reach high up on the Yay Tree, perfect for placing the tree-topper without the help of a grown-up. Unfortunately for them, this beard does not grow along with age, leading many Adult Yools to try and grow out their fur to recapture those childhood memories. Ah, the good ol' days...
 Monsters/Monster_jeeode_young=Young Jeeode
 Monsters/Monster_jeeode_young_bio=Young Jeeode Bio
 Monsters/Monster_brump_young=Young Brump
@@ -333,7 +333,7 @@ Monsters/Monster_jobo=Jodel
 Monsters/Monster_jobo_bio=As sweetened Werdo, Jodel knows alot about Candy Island's colossal, as it knows how it was made, but it knows every single monster's likes as Jodel knew when Jam Boree will arrive.
 
 Monsters/Monster_treble=Ethenor
-Monsters/Monster_treble_bio=Ethenor bio
+Monsters/Monster_treble_bio=Although having nothing in common with the colossal of Candy Island, they have some "relation" with Jodel!  With their cotton candy-like color and their enjoyment of pink foods, there's no wonder why this monster wouldn't live here!  In-Fact, they are very identical towards Pom-Pom, except no-mon knows why.  Ethenor is still trying to find where else the Pocket Dimension can lead to. Everyone, found in the known lands, will let Ethanor find a way, but Ghazt won't tell a soul... oh well, off to exploring I guess?
 
 Monsters/Monster_likho_rare=Rare Yap
 Monsters/Monster_likho_rare_bio=Rare Yap bio
@@ -443,7 +443,7 @@ Monsters/Monster_reedling_young_singer_bio=<ref>Monsters/Monster_reedling_young_
 Monsters/Knott_1=Knottshurr Tree
 Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
 Monsters/Knott_2=Bay
-Monsters/Knott_2_bio=Bay bio
+Monsters/Knott_2_bio=Trying to find your footing in the Knottshurr Island Ecosystem is no simple task, and the Bay species knows this all too well. They can't take a nap, lest they get kicked and tossed around like a hackeysack, they can't move around much, seeing as they're lacking any legs or limbs to speak of, and worst of all, they don't have any taste buds! Who's horrible idea was it to take away their ability to enjoy candies, and veggies, and all inbetween??
 Monsters/Knott_3=Souxls Vessel
 Monsters/Knott_3_bio=The Souxls[SOULS] - A collection of vengeful psyches with a very licentious spirit and a strong power of will. The task of keeping them must be assured to be in good hands. Or a hand in this case.\nThe keeper's adamant fingers and immeasurable strength make them a perfect fit for the job, yet even they are having a hard time maintaining the restless Souxls at repose. As for why these Souxls are so restless? Nobody knows...
 Monsters/Knott_4=BoOoo

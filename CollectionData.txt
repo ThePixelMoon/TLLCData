@@ -276,3 +276,6 @@ Monsters/Monster_shellbeat
 Monsters/Monster_gecho
 Monsters/Monster_furcorn
 Monsters/Monster_bowgart
+Monsters/Monster_maw
+Monsters/Monster_potbelly
+Monsters/Monster_varrow
