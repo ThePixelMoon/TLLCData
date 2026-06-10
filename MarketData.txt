@@ -1,3 +1,7 @@
+Arcanum
+monsters:
+Monsters/Monster_kayna_rare_undof
+;
 EM
 monsters:
 Monsters/Monster_toejammer
