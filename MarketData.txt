@@ -401,6 +401,7 @@ Monsters/Monster_cybop
 Monsters/Monster_denchuhs
 Monsters/Monster_clamble
 Monsters/Monster_shellbeat
+Monsters/Monster_cranile Vortex=2
 Monsters/Monster_schmoochle
 Monsters/Monster_plixie
 Monsters/Monster_reebro

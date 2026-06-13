@@ -128,6 +128,7 @@ Monsters/Monster_cybop
 Monsters/Monster_clamble
 Monsters/Monster_whimstlop
 Monsters/Monster_shellbeat
+Monsters/Monster_cranile
 Monsters/Monster_schmoochle
 Monsters/Monster_plixie
 Monsters/Monster_reebro

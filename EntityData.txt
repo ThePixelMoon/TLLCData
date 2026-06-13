@@ -471,3 +471,5 @@ Monsters/Monster_koodahcane_rare diamonds=350 water-o@candy 32400 16 coins=7@60@
 Monsters/Monster_claramel_rare diamonds=450 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel_rare,claramel_rare 0 0
 
 Monsters/Monster_dandidoo_rare diamonds=120 air@plant 28800 15 coins=1@80@coins=90 Natural dandidoo_rare,dandidoo_rare 4 0
+
+Monsters/Monster_cranile diamonds=140 cold@bone 28800 15 coins=1@80@coins=90 Magical cranile,cranile 4 0

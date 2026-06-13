@@ -2033,3 +2033,9 @@ Tworboh
 Uaithed
 Walles
 ;
+Monsters/Monster_cranile
+Cranny
+Crash
+Nile
+Fred
+;
