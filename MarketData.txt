@@ -789,6 +789,9 @@ Monsters/Monster_burrythm_rare_undof Vortex=6
 Monsters/Monster_wicka_undof Vortex=3
 Monsters/Monster_wicka_rare_undof Vortex=6
 -
+monsters_celestials:
+Monsters/Monster_bone
+-
 monster_rares:
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_noggin_rare_undof

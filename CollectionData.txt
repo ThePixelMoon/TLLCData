@@ -214,6 +214,8 @@ Monsters/Monster_burrythm_undof
 Monsters/Monster_burrythm_rare_undof
 Monsters/Monster_wicka_undof
 Monsters/Monster_wicka_rare_undof
+
+Monsters/Monster_bone
 ;
 Calamity:
 Monsters/Monster_stogg_undof
