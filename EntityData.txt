@@ -473,3 +473,5 @@ Monsters/Monster_claramel_rare diamonds=450 candy@water-o@fire-o 57600 5 coins=1
 Monsters/Monster_dandidoo_rare diamonds=120 air@plant 28800 15 coins=1@80@coins=90 Natural dandidoo_rare,dandidoo_rare 4 0
 
 Monsters/Monster_cranile diamonds=140 cold@bone 28800 15 coins=1@80@coins=90 Magical cranile,cranile 4 0
+
+Monsters/Monster_banno_new diamonds=80 air@water@faerie 46800 30 coins=1@72@coins=260 Magical banno,banno 6 0

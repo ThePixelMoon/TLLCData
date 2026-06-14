@@ -288,6 +288,9 @@ Monsters/Monster_dandidoo_rare_bio=Rare Dandiduo bio
 Monsters/Monster_cranile=Cranile
 Monsters/Monster_cranile_bio=This gem-ladden double elemental sees no fear - in fact it can barely see a thing at all! Relying on its trusty “see-pickles” for much of its still quite limited  vision and hearing, the Cranile is a wacky creature. When not erratically stomping around, they’re often seen racing against nobody at all, or devouring rocks. It’s like Handmond - it genuinely doesn’t feel like it needs lengthening past that.
 
+Monsters/Monster_banno_new=Banno
+Monsters/Monster_banno_new_bio=<ref>Monsters/Monster_banno_bio
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.

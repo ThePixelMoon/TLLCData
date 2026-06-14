@@ -20,7 +20,7 @@ Monsters/Monster_dulsylvan
 Monsters/Monster_bridgit
 Monsters/Monster_frondley
 Monsters/Monster_phangler
-Monsters/Monster_banno
+Monsters/Monster_banno_new
 Monsters/Monster_stoopa
 Monsters/Monster_maulch
 -
