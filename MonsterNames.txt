@@ -2039,3 +2039,21 @@ Crash
 Nile
 Fred
 ;
+Monsters/Monster_banno_new
+Anon
+Tubber
+Canse
+Snipsnap
+Hank
+Mr. Lobs
+Locrusta
+Moydadyirok
+Crubagan
+Tulla
+Chitab
+abloZi
+DyaADya
+Uncle Barry
+Banikancir
+Sr. Siri
+;
