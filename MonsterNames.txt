@@ -2061,4 +2061,3 @@ Monsters/Monster_synthfly
 Sindicate
 Vindicator
 Synthgirl
-;
