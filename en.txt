@@ -541,10 +541,10 @@ Monsters/Monster_punkleton=Punkleton
 Monsters/Monster_punkleton_bio=BOO! Grown punkletons lean more heavily into the Trick of Trick-or-Treat, loving to deal out spooky surprises for any visitors who come around. But beware, for there's a reason Punkleton's tricks are unforgettable...
 
 Monsters/Monster_ffydill=Ffidyll
-Monsters/Monster_ffydill_bio=Ffidyll bio
+Monsters/Monster_ffydill_bio=Nestled cozily among the clovers is where you'll find the pocket-sized Ffidyll. A bright-eyed Seasonal with a talent for fiddling and a penchant for partying, it's nonetheless an uncommon sight for the majority of the year. It appears most active around the time of the vernal equinox, which makes sense considering its verdurous presentation. There's a rumor that Ffidyll's snout can be used to sniff out caches of Coins, which it then generously distributes among its fellow Monsters. Even so, the snout's biggest claim to fame has supposedly been to serve as the inspiration for another long-nosed facade.
 
 Monsters/Monster_arackulele=Arackulele
-Monsters/Monster_arackulele_bio=Arackulele bio
+Monsters/Monster_arackulele_bio=Multi-limbed and multi-talented, the Ethereal Monster known as the Arackulele experiences no greater joy than when it's plucking and strumming on its homemade chordophone. Its rousing and inspirational musical stylings are emblematic of its whole attitude towards life: even though we are all just specks in the vastness of the multiverse, when enough Monsters join together in harmony, anything is possible!
 
 
 #CELESTIALS#
@@ -577,9 +577,9 @@ Monsters/Monster_light_bio=How ludicrous! The lanky Loch-nitt is a truly strange
 Monsters/Monster_bone=Amoniterium
 Monsters/Monster_bone_bio=In a distant land, born of the tear of a dying star, a unique creature ruled the land... So begins the favorite story of the alluring Amoniterium. A radical role-player of its own class, this boisterous being loves playing make-believe, imagining all sorts of backstories and creating fun costumes. While its own origins remain a mystery, it can only imagine how it was created. No matter what, one thing's for sure: we know it'll become a part of the identity of every bone in the Amoniterium's well outfitted body! 
 Monsters/Monster_psychic=Talactic
-Monsters/Monster_psychic_bio=Macrocraniu- err, Talactic is close in brainpower to that of albert einstien, with a literal brainhead, it's easy to tell that Talactic is the supercelestial of the psychic element. As this monster is monster is a monster, you also must note that this supercelestial is big brain, and even knows 9 + 10.
+Monsters/Monster_psychic_bio=Being the Psychic Supercelestial, Talactic is embodiment of intelligence, as seen by it's quite BRAIN'ish body. And so, as a quite deep thinker, it has found its place on the Floating City, with the other Supercelestials to follow his steps.
 Monsters/Monster_faerie=Chordyrid
-Monsters/Monster_faerie_bio=WAS THAT THE SUPERCELESTIAL OF 87? Seriously, we're running out of things to say. Being the faerie Supercelestial, it's easy to tell that uhm, uhhh. Uhhhh. I think this is Cantorell's big cousin because I have no idea whats going on here.
+Monsters/Monster_faerie_bio=If you think nothing can surprise you in this lame world, just take a look at Chordyrid! Seriously, I have no idea what it is. Just make sure you don't wave a wand while it sings!\n\nQuite off topic, but it is also the secondary mascot of Hacked Landscapes!
 
 Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=This peculiar structure has been in use since the golden age of the Monster World, and little has changed since that time. Once it is old enough, a Monster can spontaneously produce an egg containing all of its genetic and elemental information, which is then placed onto one of the 'bowls' of the machine. These eggs, which are truly more like spores, slowly seep out their 'precious bodily fluids' down the twin drains of the structure and magically co-mingle in the center vessel, until a new egg is produced! The process is complicated though, as one breeding combination can have many possible outcomes.
@@ -900,7 +900,7 @@ Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
 Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
 
 Decoration/Dog=Dog
-Decoration/Dog_bio=why the actual fuck did the devs make this
+Decoration/Dog_bio=Le Doggo, or rather - just "Dog", is a quite extraordinary creature, living in the depths of Hyddryd before moving to the Lost Landscapes, especially Terra of Organs, which it has found itself a good home in.
 
 str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
