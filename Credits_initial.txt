@@ -1,14 +1,16 @@
 <Title>str_credits_main
 ThePixelMoon - lead programmer
-Silly Peashooter - artist,composer,animator & developer
+Silly Peashooter - artist, lead composer, animator & developer
+AstralMSM - monster artist
+Hypnoooooo - monster animator
 
 And of course,
 Raw Zebra and his team
 
 <Title>str_credits_thanks
 msm.fan for fixing the Shop
-soykanduru for finding a copy of TLLPS 1.3, and rare keytrus
-MarcelSock for having an archive of the server files
+soykanduru for finding a copy of TLLPS 1.3
+MarcelSock for archiving the old server files
 galliumanimations for the normal Calamity Island sketch that fits the new one
 егор for егор'ing all over the place
 
