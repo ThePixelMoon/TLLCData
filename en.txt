@@ -288,6 +288,9 @@ Monsters/Monster_dandidoo_rare_bio=Rare Dandiduo bio
 Monsters/Monster_cranile=Cranile
 Monsters/Monster_cranile_bio=This gem-ladden double elemental sees no fear - in fact it can barely see a thing at all! Relying on its trusty “see-pickles” for much of its still quite limited  vision and hearing, the Cranile is a wacky creature. When not erratically stomping around, they’re often seen racing against nobody at all, or devouring rocks. It’s like Handmond - it genuinely doesn’t feel like it needs lengthening past that.
 
+Monsters/Monster_synthfly=Synthfly
+Monsters/Monster_synthfly_bio=Syntheyes started as any old Magical, they could levitate, read minds, all that jazz. Until they started enjoying commiting crimes, identity theft, stealing the list goes on so to stop going to jail and being a criminal she started making a new identity, called Synthfly with more elements and the loss of its air element. Now, Synthflys new home is on Terra of Organs and creates sound along with its fellow organics.
+
 Monsters/Monster_banno_new=Banno
 Monsters/Monster_banno_new_bio=Banno is a vocalist of the legendary Cancer Choir, for a long time he spent his time in the deep cold depths of the ocean. Sadly though, it was far too cold for his hot water-loving body! Instead of moving into a geyser of some sort, he decided to stay close to his friends, utilizing an endlessly boiling bucket to keep comfy. Whilst his boiling red abdomen may be concerning, there’s no need to worry- Banno states that it’s just his natural color showing after the cleaning of thousands of years of sea gunk.
 

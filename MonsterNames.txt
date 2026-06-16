@@ -2057,3 +2057,8 @@ Uncle Barry
 Banikancir
 Sr. Siri
 ;
+Monsters/Monster_synthfly
+Sindicate
+Vindicator
+Synthgirl
+;
