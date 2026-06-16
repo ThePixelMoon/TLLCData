@@ -477,3 +477,5 @@ Monsters/Monster_cranile diamonds=140 cold@bone 28800 15 coins=1@80@coins=90 Mag
 Monsters/Monster_banno_new diamonds=80 air@water@faerie 46800 30 coins=1@72@coins=260 Magical banno,banno 6 0
 
 Monsters/Monster_synthfly diamonds=230 organ 14400 10 coins=1@120@coins=90 Lost synthfly,synthfly 6 0
+
+Monsters/Monster_hyehehe diamonds=630 mythical-o 28800 30 coins=2@60@coins=120 Mythical hyehehe,hyehehe 6 0

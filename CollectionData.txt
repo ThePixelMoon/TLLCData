@@ -231,6 +231,7 @@ Monsters/Monster_punkleton
 Monsters/Monster_deedge
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
+Monsters/Monster_hyehehe
 ;
 GM:
 Monsters/Monster_olga

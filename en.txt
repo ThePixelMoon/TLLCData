@@ -294,6 +294,9 @@ Monsters/Monster_synthfly_bio=Syntheyes started as any old Magical, they could l
 Monsters/Monster_banno_new=Banno
 Monsters/Monster_banno_new_bio=Banno is a vocalist of the legendary Cancer Choir, for a long time he spent his time in the deep cold depths of the ocean. Sadly though, it was far too cold for his hot water-loving body! Instead of moving into a geyser of some sort, he decided to stay close to his friends, utilizing an endlessly boiling bucket to keep comfy. Whilst his boiling red abdomen may be concerning, there’s no need to worry- Banno states that it’s just his natural color showing after the cleaning of thousands of years of sea gunk.
 
+Monsters/Monster_hyehehe=Hyehehe
+Monsters/Monster_hyehehe_bio=Hyehehe bio
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
