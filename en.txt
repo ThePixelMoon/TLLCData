@@ -295,6 +295,10 @@ Monsters/Monster_banno_new_bio=Banno is a vocalist of the legendary Cancer Choir
 Monsters/Monster_hyehehe=Hyehehe
 Monsters/Monster_hyehehe_bio=Hyehehe bio
 
+Monsters/Monster_floogull=Floogull
+Monsters/Monster_floogull_bio=Floogull bio
+
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.

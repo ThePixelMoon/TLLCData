@@ -658,7 +658,8 @@ Monsters/Monster_furcorn diamonds=125
 Monsters/Monster_rootitoot diamonds=150
 Monsters/Monster_trox Vortex=3
 Monsters/Monster_spurrit_desert Vortex=4
-Monsters/Monster_bisonorus Vortex=1
+Monsters/Monster_bisonorus Vortex=4
+Monsters/Monster_floogull Vortex=3
 -
 decorations:
 Decoration/Decoration_test

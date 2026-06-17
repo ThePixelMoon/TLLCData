@@ -111,6 +111,7 @@ Monsters/Monster_rootitoot
 Monsters/Monster_trox
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
+Monsters/Monster_floogull
 ;
 temmie:
 Monsters/Monster_mammott
@@ -237,6 +238,7 @@ GM:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
+Monsters/Monster_tabicrab
 ;
 EgyptPipes:
 Monsters/Bonapetite
