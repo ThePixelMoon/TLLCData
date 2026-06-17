@@ -2077,3 +2077,15 @@ Ragtaggedy
 T-Rox
 Tung
 YucKLeS
+;
+Monsters/Monster_floogull
+Anil
+Aria
+Cornelius
+Dizzy
+Gorm
+Ilma
+Keren
+Miles
+Moreez
+Rudolph
