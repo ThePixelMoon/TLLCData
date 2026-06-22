@@ -146,7 +146,7 @@ Monsters/Monster_frondley diamonds=750 psychic@faerie@light 36000 50 coins=1@72@
 Monsters/Monster_theremind coins=400 psychic 14400 10 coins=1@120@coins=90 Magical theremind,theremind 6 0
 Monsters/Monster_theremind_meduza coins=400 psychic 14400 10 coins=1@120@coins=90 Magical theremind,theremind 6 0
 
-Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond 6 0
+Monsters/Monster_handmond coins=10000 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond 6 0
 Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 
