@@ -1,5 +1,5 @@
 <Title>str_credits_msm
-My Singing Monsters
+Raw Zebra
 
 <Title>str_credits_main
 ThePixelMoon
