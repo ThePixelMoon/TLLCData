@@ -1,13 +1,14 @@
 <Title>str_credits_main
 ThePixelMoon - lead programmer
-Silly Peashooter - artist, lead composer, animator & developer
-AstralMSM - monster artist
-Hypnoooooo - monster animator
+AstralMSM, Danudaeye, Skrepmaks - artist
+Hypnoooooo, Drummi, T-Amongus - animator
 
 And of course,
 Raw Zebra and his team
 
 <Title>str_credits_thanks
+Silly Peashooter - past artist, lead composer, animator & developer
+
 msm.fan for fixing the Shop
 soykanduru for finding a copy of TLLPS 1.3
 MarcelSock for archiving the old server files
