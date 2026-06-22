@@ -105,8 +105,8 @@ Monsters/Monster_reedling_young_singer diamonds=600 air@plant@earth 43200 25 coi
 Monsters/Monster_fluoress coins=400 light 14400 10 coins=1@120@coins=90 Magical fluoress,fluoress 6 0
 Monsters/Monster_rootitoot diamonds=70 water@fire@plant 43200 25 coins=1@72@coins=260 Natural rootitoot,rootitoot 4 0
 
-Monsters/Monster_schmoochle diamonds=1000 schmoochle 86400 25 coins=1@28@coins=550 Seasonal schmoochle,schmoochle 10 0
-Monsters/Monster_punkleton diamonds=250 punkleton 43200 25 coins=1@28@coins=550 Seasonal punkleton,punkleton 10 0
+Monsters/Monster_schmoochle diamonds=1000 S2 86400 25 coins=1@28@coins=550 Seasonal schmoochle,schmoochle 10 0
+Monsters/Monster_punkleton diamonds=250 S0 43200 25 coins=1@28@coins=550 Seasonal punkleton,punkleton 10 0
 Monsters/Monster_ffydill diamonds=250 ffidyll 43200 25 coins=1@28@coins=550 Seasonal ffydill,ffydill 10 0
 Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
