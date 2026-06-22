@@ -395,7 +395,7 @@ monsters:
 Monsters/Monster_handmond
 Monsters/Monster_whimstlop
 Monsters/Monster_theremind
-Monsters/Monster_oaktopus
+Monsters/Monster_oaktopus diamonds=100
 Monsters/Monster_boskus
 Monsters/Monster_cybop
 Monsters/Monster_denchuhs
@@ -404,7 +404,7 @@ Monsters/Monster_shellbeat
 Monsters/Monster_cranile Vortex=2
 Monsters/Monster_synthfly Vortex=1
 Monsters/Monster_schmoochle
-Monsters/Monster_plixie
+Monsters/Monster_plixie diamonds=5000
 Monsters/Monster_reebro
 Monsters/Monster_wheezel
 Monsters/Monster_knurv
@@ -997,8 +997,8 @@ Decoration/Decoration_sign_water
 ;
 TI
 monsters:
-Monsters/Monster_quibble
-Monsters/Monster_oaktopus
+Monsters/Monster_quibble diamonds=400
+Monsters/Monster_oaktopus diamonds=400
 Monsters/Monster_reedling_young_singer
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit
