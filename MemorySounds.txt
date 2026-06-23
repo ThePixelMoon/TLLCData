@@ -32,3 +32,29 @@ Monsters/Monster_banno Sounds/Memmory/Monster_banno
 Monsters/Monster_dandidoo Sounds/Memmory/Monster_dandidoo
 Monsters/Monster_varrow Sounds/Memmory/Monster_varrow
 Monsters/Monster_stoopa Sounds/Memmory/Monster_stoopa
+
+
+Monsters/Monster_jobo Sounds/Memmory/Monster_jobo
+
+Monsters/Monster_toejammer_undof Sounds/Memmory/Monster_toejammer_undof
+Monsters/Monster_floodbud_undof Sounds/Memmory/Monster_toejammer_undof
+Monsters/Monster_floodbud_rare_undof Sounds/Memmory/Monster_toejammer_undof
+
+Monsters/Monster_kayna_undof Sounds/Memmory/Monster_kayna_undof
+Monsters/Monster_kayna_rare_undof Sounds/Memmory/Monster_kayna_undof
+Monsters/Monster_wicka_undof Sounds/Memmory/Monster_kayna_undof
+Monsters/Monster_wicka_rare_undof Sounds/Memmory/Monster_kayna_undof
+
+Monsters/Monster_noggin_undof Sounds/Memmory/Monster_noggin_undof
+Monsters/Monster_noggin_rare_undof Sounds/Memmory/Monster_noggin_undof
+Monsters/Monster_burrythm_undof Sounds/Memmory/Monster_noggin_undof
+Monsters/Monster_burrythm_rare_undof Sounds/Memmory/Monster_noggin_undof
+
+Monsters/Monster_marshflamo Sounds/Memmory/Monster_marshflamo
+Monsters/Monster_marshflamo_rare Sounds/Memmory/Monster_marshflamo
+
+Monsters/Monster_phangler_undof Sounds/Memmory/Monster_phangler_undof
+
+
+Monsters/Scaratar Sounds/Memmory/Monster_scaratar
+Monsters/Loodvigg Sounds/Memmory/Monster_loodvigg
