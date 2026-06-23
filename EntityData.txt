@@ -4,16 +4,16 @@ Monsters/Monster_toejammer diamonds=25 water 300 5 coins=1@120@coins=60 Natural 
 Monsters/Monster_potbelly diamonds=25 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 0 0
 Monsters/Monster_tweedle diamonds=25 air 300 5 coins=1@120@coins=60 Natural tweedle,tweedle 0 0
 Monsters/Monster_flootfly diamonds=25 faerie 14400 10 coins=1@120@coins=90 Magical flootfly,flootfly 6 0
-Monsters/Monster_wadee diamonds=60 water@faerie 36000 20 coins=1@80@coins=150 Magical wadee,wadee 6 0
+Monsters/Monster_wadee diamonds=75 water@faerie 36000 20 coins=1@80@coins=150 Magical wadee,wadee 6 0
 Monsters/Monster_choral diamonds=100 water@plant@faerie 46800 30 coins=1@72@coins=200 Magical choral,choral 6 0
-Monsters/Monster_likho diamonds=60 plant@faerie 36000 20 coins=1@80@coins=150 Magical likho,likho 6 0
+Monsters/Monster_likho diamonds=75 plant@faerie 36000 20 coins=1@80@coins=150 Magical likho,likho 6 0
 Monsters/Monster_oaktopus diamonds=50 water@plant 28800 15 coins=1@80@coins=90 Natural oaktopus,oaktopus 4 0
 Monsters/Monster_quibble diamonds=50 water@air 28800 15 coins=1@80@coins=90 Natural quibble,quibble 4 0
 Monsters/Monster_spunge diamonds=90 water@air@plant 43200 25 coins=1@72@coins=260 Natural spunge,spunge 4 0
 Monsters/Monster_dulsylvan diamonds=100 air@plant@faerie 46800 30 coins=1@72@coins=260 Magical dulsylvan,dulsylvan 6 0
 Monsters/Monster_banno diamonds=100 air@water@faerie 46800 30 coins=1@72@coins=260 Magical banno,banno 6 0
 Monsters/Monster_dandidoo diamonds=50 air@plant 28800 15 coins=1@80@coins=90 Natural dandidoo,dandidoo 4 0
-Monsters/Monster_varrow diamonds=60 air@faerie 36000 20 coins=1@80@coins=150 Magical varrow,varrow 6 0
+Monsters/Monster_varrow diamonds=75 air@faerie 36000 20 coins=1@80@coins=150 Magical varrow,varrow 6 0
 Monsters/Monster_stoopa diamonds=250 water@faerie@air@plant 79200 40 coins=1@28@coins=550 Magical stoopa,stoopa 6 0
 
 Monsters/Monster_deedge diamonds=120 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge,deedge 6 0
