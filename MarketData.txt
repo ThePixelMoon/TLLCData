@@ -658,7 +658,7 @@ Monsters/Monster_furcorn diamonds=125
 Monsters/Monster_rootitoot diamonds=150
 Monsters/Monster_trox Vortex=3
 Monsters/Monster_spurrit_desert Vortex=4
-Monsters/Monster_bisonorus Vortex=4
+Monsters/Monster_bisonorus Vortex=1
 Monsters/Monster_floogull Vortex=6
 Monsters/Monster_reedling Vortex=3
 -
@@ -905,19 +905,19 @@ Decoration/Obstacle_placable_Candy_6
 Calamity
 monsters:
 Monsters/Monster_stogg_undof
-Monsters/Monster_varrow
-Monsters/Monster_boskus
-Monsters/Monster_pango
-Monsters/Monster_denchuhs
-Monsters/Monster_banno
+Monsters/Monster_varrow Vortex=1
+Monsters/Monster_boskus Vortex=1
+Monsters/Monster_pango Vortex=1
+Monsters/Monster_denchuhs Vortex=1
+Monsters/Monster_banno Vortex=1
 Monsters/Monster_rootitoot
-Monsters/Monster_pummel
-Monsters/Monster_clamble
-Monsters/Monster_deedge
-Monsters/Monster_tiawa
-Monsters/Monster_arackulele
+Monsters/Monster_pummel Vortex=1
+Monsters/Monster_clamble Vortex=1
+Monsters/Monster_deedge Vortex=1
+Monsters/Monster_tiawa Vortex=1
+Monsters/Monster_arackulele Vortex=1
 Monsters/Monster_punkleton
-Monsters/Monster_ffydill
+Monsters/Monster_ffydill Vortex=1
 Monsters/Monster_blasoom
 Monsters/Monster_poewk
 Monsters/Monster_pixolotl
