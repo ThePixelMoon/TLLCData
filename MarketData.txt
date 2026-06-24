@@ -919,8 +919,8 @@ Monsters/Monster_arackulele Vortex=1
 Monsters/Monster_punkleton
 Monsters/Monster_ffydill Vortex=1
 Monsters/Monster_blasoom
-Monsters/Monster_poewk
-Monsters/Monster_pixolotl
+Monsters/Monster_poewk Vortex=1
+Monsters/Monster_pixolotl Vortex=1
 Monsters/Monster_hyehehe Vortex=6
 -
 monster_rares:
@@ -1001,7 +1001,7 @@ Monsters/Monster_quibble diamonds=400
 Monsters/Monster_oaktopus diamonds=400
 Monsters/Monster_reedling_young_singer
 Monsters/Monster_loodvigg
-Monsters/Monster_spurrit
+Monsters/Monster_spurrit Vortex=10
 -
 monster_rares:
 Monsters/Monster_quibble_rare
