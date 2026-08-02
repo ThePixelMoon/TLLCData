@@ -159,6 +159,8 @@ GM 86400 20
 Monsters/Monster_toejammer_young=Monsters/Monster_olga 20
 Monsters/Monster_potbelly_young=Monsters/Monster_potbellyGM 20
 Monsters/Monster_quibble_young=Monsters/Monster_quibbleGM 20
+Monsters/Monster_cybop_young=Monsters/Monster_tabicrab 20
+Monsters/Monster_tweedle_young=Monsters/Monster_tweedleGM 20
 ;
 dream 0 -999
 Monsters/Monster_mammott_young=Monsters/Monster_mammott_dream 0

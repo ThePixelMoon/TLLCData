@@ -242,6 +242,7 @@ Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
 Monsters/Monster_tabicrab
+Monsters/Monster_tweedleGM
 ;
 EgyptPipes:
 Monsters/Bonapetite

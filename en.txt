@@ -304,6 +304,9 @@ Monsters/Monster_drummidary_bio=Drummidary bio
 Monsters/Monster_reedling=Reedling
 Monsters/Monster_reedling_bio=Reedling bio
 
+Monsters/Monster_tweedleGM=Seabeak
+Monsters/Monster_tweedleGM_bio=Seabeak bio
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.

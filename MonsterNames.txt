@@ -2106,3 +2106,20 @@ Slump
 Von
 Weedle
 Yardling
+;
+Monsters/Monster_drummidary
+Boom Boom
+Brackeeya
+Decca
+Jambae
+Malaco
+Piston
+Pleo
+Trykee
+Wylson
+;
+Monsters/Monster_tweedleGM
+Twiddle
+Tweedy
+Seethru
+Clingy

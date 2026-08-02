@@ -1104,6 +1104,8 @@ monsters:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
+Monsters/Monster_tabicrab Vortex=12
+Monsters/Monster_tweedleGM
 -
 decorations:
 Decoration/Decoration_test

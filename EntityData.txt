@@ -461,25 +461,20 @@ Monsters/Monster_oraghoul_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coi
 Monsters/Monster_oraghoul_rare_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal oraghoul_rare-o,oraghoul_rare-o 0 0
 
 Monsters/Monster_marshflamo_rare diamonds=450 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo_rare,marshflamo_rare 0 0
-
 Monsters/Monster_brasscuit_rare diamonds=500 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit_rare,brasscuit_rare 0 0
-
 Monsters/Monster_koodahcane_rare diamonds=350 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane_rare,koodahcane_rare 0 0
-
 Monsters/Monster_claramel_rare diamonds=450 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel_rare,claramel_rare 0 0
-
 Monsters/Monster_dandidoo_rare diamonds=120 air@plant 28800 15 coins=1@80@coins=90 Natural dandidoo_rare,dandidoo_rare 4 0
 
 Monsters/Monster_cranile diamonds=140 cold@bone 28800 15 coins=1@80@coins=90 Magical cranile,cranile 4 0
+Monsters/Monster_synthfly diamonds=230 organ@plant@water@fire@psychic 14400 10 coins=1@120@coins=90 Lost synthfly,synthfly 6 0
 
 Monsters/Monster_banno_new diamonds=100 air@water@faerie 46800 30 coins=1@72@coins=260 Magical banno,banno 6 0
 
-Monsters/Monster_synthfly diamonds=230 organ@plant@water@fire@psychic 14400 10 coins=1@120@coins=90 Lost synthfly,synthfly 6 0
-
 Monsters/Monster_hyehehe diamonds=630 mythical-o 28800 30 coins=2@60@coins=120 Mythical hyehehe,hyehehe 6 0
 
+Monsters/Monster_tweedleGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma tweedleGM,tweedleGM 0 0
+
 Monsters/Monster_floogull Relic=100 air@earth@fire 57600 5 coins=16@90@coins=7320 Natural floogull,floogull 0 0
-
 Monsters/Monster_reedling diamonds=230 air@plant@earth 57600 5 coins=6@60@coins=600 Natural reedling,reedling 0 0
-
 Monsters/Monster_drummidary diamonds=980 air@plant@earth@cold@fire 90200 coins=8@90@coins=9630 Natural drummidary,drummidary 0 0
