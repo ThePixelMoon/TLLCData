@@ -661,6 +661,7 @@ Monsters/Monster_spurrit_desert Vortex=4
 Monsters/Monster_bisonorus Vortex=1
 Monsters/Monster_floogull Vortex=6
 Monsters/Monster_reedling Vortex=3
+Monsters/Monster_drummidary Vortex=5
 -
 decorations:
 Decoration/Decoration_test

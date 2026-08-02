@@ -298,6 +298,9 @@ Monsters/Monster_hyehehe_bio=Hyehehe bio
 Monsters/Monster_floogull=Floogull
 Monsters/Monster_floogull_bio=Floogull bio
 
+Monsters/Monster_drummidary=Drummidary
+Monsters/Monster_drummidary_bio=Drummidary bio
+
 Monsters/Monster_reedling=Reedling
 Monsters/Monster_reedling_bio=Reedling bio
 
