@@ -113,6 +113,7 @@ Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
 Monsters/Monster_floogull
 Monsters/Monster_reedling
+Monsters/Monster_drummidary
 ;
 temmie:
 Monsters/Monster_mammott
