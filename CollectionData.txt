@@ -61,6 +61,7 @@ Monsters/Monster_yool_young
 Monsters/Monster_brump_young
 Monsters/Monster_jeeode_young
 Monsters/Monster_wibbler_young
+Monsters/Monster_cybop_young
 
 Monsters/Monster_hornacle
 Monsters/Monster_loodvigg

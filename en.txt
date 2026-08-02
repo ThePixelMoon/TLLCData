@@ -304,6 +304,9 @@ Monsters/Monster_drummidary_bio=Drummidary bio
 Monsters/Monster_reedling=Reedling
 Monsters/Monster_reedling_bio=Reedling bio
 
+Monsters/Monster_cybop_young=Young Cybop
+Monsters/Monster_cybop_young_bio=Young Cybop bio
+
 Monsters/Monster_tweedleGM=Seabeak
 Monsters/Monster_tweedleGM_bio=Seabeak bio
 

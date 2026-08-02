@@ -2123,3 +2123,14 @@ Twiddle
 Tweedy
 Seethru
 Clingy
+;
+Monsters/Monster_cybop_young
+Cybog
+Eternia
+He-Mon
+Hewk
+Spade
+Swayskull
+Trappjaw
+Underbight
+Ziplyne

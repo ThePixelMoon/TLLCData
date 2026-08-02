@@ -174,6 +174,8 @@ Monsters/Monster_bridgit_young
 Monsters/Monster_frondley_young
 Monsters/Monster_gloptic_young
 
+Monsters/Monster_cybop_young
+
 Monsters/Monster_jeeode_young
 Monsters/Monster_brump_young
 Monsters/Monster_punkleton_young

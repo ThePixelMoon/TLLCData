@@ -433,6 +433,8 @@ Monsters/Monster_krillby_dof diamonds=500 air@earth@cold@fire 0 15 coins=0@120@c
 Monsters/Monster_flowerning diamonds=250 plant@special 0 10 coins=5@60@coins=60 Natural flowerning,flowerning 0 0
 Monsters/Gobbley diamonds=2 special 0 5 coins=15@120@coins=300 Seasonal gobbley,gobbley 0 0
 
+Monsters/Monster_cybop_young diamonds=100 air@earth 28800 3 coins=1@80@coins=100 Natural cybop,cybop_young 4 0
+
 Monsters/Monster_floodbud_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud-o,floodbud-o 0 0
 Monsters/Monster_floodbud_rare_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural floodbud_rare-o,floodbud_rare-o 0 0
 
