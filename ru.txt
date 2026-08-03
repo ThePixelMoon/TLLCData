@@ -605,6 +605,27 @@ Monsters/Monster_cranile_rare_bio=Данные отсутствуют. Прих�
 Monsters/Monster_cranile_young=Юный Черепостук
 Monsters/Monster_cranile_young_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_dipster_1_new=До
+Monsters/Monster_dipster_1_new_bio=<ref>DipstersBio
+
+Monsters/Monster_dipster_2_new=Ре
+Monsters/Monster_dipster_2_new_bio=<ref>DipstersBio
+
+Monsters/Monster_dipster_3_new=Ми
+Monsters/Monster_dipster_3_new_bio=<ref>DipstersBio
+
+Monsters/Monster_dipster_4_new=Фа
+Monsters/Monster_dipster_4_new_bio=<ref>DipstersBio
+
+Monsters/Monster_dipster_5_new=Соль
+Monsters/Monster_dipster_5_new_bio=<ref>DipstersBio
+
+Monsters/Monster_dipster_6_new=Ля
+Monsters/Monster_dipster_6_new_bio=<ref>DipstersBio
+
+Monsters/Monster_dipster_7_new=Си
+Monsters/Monster_dipster_7_new_bio=<ref>DipstersBio
+
 Monsters/Monster_bulbo=Скрецоколь
 Monsters/Monster_bulbo_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bulbo_rare=Редкий Скрецоколь
@@ -2202,7 +2223,7 @@ str_stars_faerie=Причудные крылья
 (((Обучение)))
 str_tutorial=Обучение
 
-str_popup_tutor1=Добро пожаловать в <color="purple">TLLPS!</color>\nПриватный сервер по <color="green">The Lost lansdscapes</color>!
+str_popup_tutor1=Добро пожаловать в <color="purple">TLLPS!</color>\nПриватный сервер по <color="green">The Lost Lansdscapes</color>!
 str_popup_tutor2=Привет! Я Мухофлейт. Это мой товарищ Палезатор. Давай получим больше монстров на острове.
 str_popup_tutor3=Пойдите и получите <color="green">Лягптицу.</color>
 str_popup_tutor4=Отличная работа! Теперь размести <color="green">Легптицу</color> здесь.\n(А теперь загляни в почтовый ящик! там тебя ждёт сюрприз.)

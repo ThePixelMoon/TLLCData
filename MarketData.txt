@@ -794,6 +794,14 @@ Monsters/Monster_burrythm_undof Vortex=3
 Monsters/Monster_burrythm_rare_undof Vortex=6
 Monsters/Monster_wicka_undof Vortex=3
 Monsters/Monster_wicka_rare_undof Vortex=6
+
+Monsters/Monster_dipster_1_new
+Monsters/Monster_dipster_2_new
+Monsters/Monster_dipster_3_new
+Monsters/Monster_dipster_4_new
+Monsters/Monster_dipster_5_new
+Monsters/Monster_dipster_6_new
+Monsters/Monster_dipster_7_new
 -
 monsters_celestials:
 Monsters/Monster_bone

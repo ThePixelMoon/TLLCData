@@ -310,6 +310,21 @@ Monsters/Monster_cybop_young_bio=Young Cybop bio
 Monsters/Monster_tweedleGM=Seabeak
 Monsters/Monster_tweedleGM_bio=Seabeak bio
 
+Monsters/Monster_dipster_1_new=Do
+Monsters/Monster_dipster_1_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_2_new=Re
+Monsters/Monster_dipster_2_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_3_new=Mi
+Monsters/Monster_dipster_3_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_4_new=Fa
+Monsters/Monster_dipster_4_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_5_new=Sol
+Monsters/Monster_dipster_5_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_6_new=La
+Monsters/Monster_dipster_6_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_7_new=Ti
+Monsters/Monster_dipster_7_new_bio=<ref>DipsterBio
+
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
 Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
