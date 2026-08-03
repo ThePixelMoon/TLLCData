@@ -301,9 +301,6 @@ Monsters/Monster_floogull_bio=Floogull bio
 Monsters/Monster_drummidary=Drummidary
 Monsters/Monster_drummidary_bio=Drummidary bio
 
-Monsters/Monster_reedling=Reedling
-Monsters/Monster_reedling_bio=Reedling bio
-
 Monsters/Monster_cybop_young=Young Cybop
 Monsters/Monster_cybop_young_bio=Young Cybop bio
 
