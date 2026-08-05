@@ -479,7 +479,7 @@ Monsters/Monster_tweedleGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 G
 
 Monsters/Monster_floogull Relic=100 air@earth@fire 57600 5 coins=16@90@coins=7320 Natural floogull,floogull 0 0
 Monsters/Monster_reedling diamonds=230 air@plant@earth 57600 5 coins=6@60@coins=600 Natural reedling,reedling 0 0
-Monsters/Monster_drummidary diamonds=980 air@plant@earth@cold@fire 90200 50 coins=8@90@coins=9630 Natural drummidary,drummidary 0 0
+Monsters/Monster_drummidary Relic=500 air@plant@earth@cold@fire 90200 50 coins=8@90@coins=9630 Natural drummidary,drummidary 0 0
 
 Monsters/Monster_dipster_1_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,do_new 0 0
 Monsters/Monster_dipster_2_new diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,re_new 0 0
